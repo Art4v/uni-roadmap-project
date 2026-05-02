@@ -1,0 +1,1658 @@
+{
+  "ACCT5000": {
+    "code": "ACCT5000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Accounting Full-Time",
+    "uoc": 12
+  },
+  "ACCT5001": {
+    "code": "ACCT5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Accounting Part-Time",
+    "uoc": 6
+  },
+  "ACCT5994": {
+    "code": "ACCT5994",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Thesis Accounting (Full-time)",
+    "uoc": 12
+  },
+  "ACCT6001": {
+    "code": "ACCT6001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "P/T Masters Research Thesis Accounting",
+    "uoc": 6
+  },
+  "ACTL5000": {
+    "code": "ACTL5000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Thesis (Actuarial Studies)",
+    "uoc": 12
+  },
+  "ACTL5001": {
+    "code": "ACTL5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Thesis (Part-Time) - Actuarial Studies",
+    "uoc": 6
+  },
+  "ACTL5003": {
+    "code": "ACTL5003",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Methods in Risk and Actuarial Studies",
+    "uoc": 6
+  },
+  "AERO9000": {
+    "code": "AERO9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Aerospace Engineering (Full-Time)",
+    "uoc": 12
+  },
+  "AERO9001": {
+    "code": "AERO9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Aerospace Engineering (Part-Time)",
+    "uoc": 6
+  },
+  "ARTS5200": {
+    "code": "ARTS5200",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Intellectual Foundations and Methods of Research",
+    "uoc": 6
+  },
+  "ARTS5201": {
+    "code": "ARTS5201",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Knowledges and Ethical Practices",
+    "uoc": 6
+  },
+  "ARTS5202": {
+    "code": "ARTS5202",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Social Approaches to Researching Health and Well-Being",
+    "uoc": 6
+  },
+  "ARTS5203": {
+    "code": "ARTS5203",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Global and First Nations Studies",
+    "uoc": 6
+  },
+  "ARTS5204": {
+    "code": "ARTS5204",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research and the Creative Arts",
+    "uoc": 6
+  },
+  "ARTS5206": {
+    "code": "ARTS5206",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Specialisation",
+    "uoc": 6
+  },
+  "ARTS5507": {
+    "code": "ARTS5507",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Personalised English Language Enhancement for HDR",
+    "uoc": 0
+  },
+  "ARTS8100": {
+    "code": "ARTS8100",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master of Philosophy Thesis A",
+    "uoc": 6
+  },
+  "ARTS8101": {
+    "code": "ARTS8101",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master of Philosophy Thesis B",
+    "uoc": 12
+  },
+  "ARTS8200": {
+    "code": "ARTS8200",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master of Arts by Research Thesis A",
+    "uoc": 6
+  },
+  "ARTS8201": {
+    "code": "ARTS8201",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master of Arts by Research Thesis B",
+    "uoc": 12
+  },
+  "ATSI9000": {
+    "code": "ATSI9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Indigenous Studies Full-Time",
+    "uoc": 12
+  },
+  "ATSI9001": {
+    "code": "ATSI9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Indigenous Studies Part-Time",
+    "uoc": 6
+  },
+  "AVIA9000": {
+    "code": "AVIA9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full-Time Research Thesis",
+    "uoc": 12
+  },
+  "AVIA9050": {
+    "code": "AVIA9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Research Thesis",
+    "uoc": 6
+  },
+  "BABS8050": {
+    "code": "BABS8050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "BABS8100": {
+    "code": "BABS8100",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "BENV7020": {
+    "code": "BENV7020",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Design",
+    "uoc": 6
+  },
+  "BIOC8608": {
+    "code": "BIOC8608",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Biochemistry Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "BIOC8618": {
+    "code": "BIOC8618",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Research Thesis Biochemistry",
+    "uoc": 6
+  },
+  "BIOM9001": {
+    "code": "BIOM9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Biomedical Engineering Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "BIOM9002": {
+    "code": "BIOM9002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Biomedical Engineering Part-Time",
+    "uoc": 6
+  },
+  "BIOS0001": {
+    "code": "BIOS0001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Biological Sciences Research Full-Time",
+    "uoc": 12
+  },
+  "BIOS0002": {
+    "code": "BIOS0002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Biological Sciences Research Part-Time",
+    "uoc": 6
+  },
+  "BIOT8023": {
+    "code": "BIOT8023",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full-Time Research Thesis Biotechnology",
+    "uoc": 12
+  },
+  "BIOT8033": {
+    "code": "BIOT8033",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "(P/T) Research Thesis Biotechnology",
+    "uoc": 6
+  },
+  "CEIC5001": {
+    "code": "CEIC5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Chemical Engineering and Industrial Chemistry Full-Time",
+    "uoc": 12
+  },
+  "CEIC5002": {
+    "code": "CEIC5002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Chemical Engineering and Industrial Chemistry Part-Time",
+    "uoc": 6
+  },
+  "CHEM9003": {
+    "code": "CHEM9003",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Chemistry Full-Time",
+    "uoc": 12
+  },
+  "CHEM9103": {
+    "code": "CHEM9103",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Chemistry Part-Time",
+    "uoc": 6
+  },
+  "CLIM0001": {
+    "code": "CLIM0001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full-Time Climate Science Research",
+    "uoc": 12
+  },
+  "CLIM0002": {
+    "code": "CLIM0002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Climate Science Research",
+    "uoc": 6
+  },
+  "COMM8001": {
+    "code": "COMM8001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Introduction to Qualitative Research Design and Methods",
+    "uoc": 6
+  },
+  "COMM8002": {
+    "code": "COMM8002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Advanced Quantitative Research Design and Methods",
+    "uoc": 6
+  },
+  "COMM8003": {
+    "code": "COMM8003",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Advanced Qualitative Research Design and Methods",
+    "uoc": 6
+  },
+  "COMM8004": {
+    "code": "COMM8004",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD and Beyond: On Becoming a Scholar",
+    "uoc": 6
+  },
+  "COMM8005": {
+    "code": "COMM8005",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Business Research Project Seminar",
+    "uoc": 0
+  },
+  "CRTV9000": {
+    "code": "CRTV9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis CRTV Full Time",
+    "uoc": 12
+  },
+  "CRTV9050": {
+    "code": "CRTV9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis CRTV Part Time",
+    "uoc": 6
+  },
+  "CVEN0008": {
+    "code": "CVEN0008",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full Time Research Thesis Civil and Environmental",
+    "uoc": 12
+  },
+  "CVEN0088": {
+    "code": "CVEN0088",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Civil and Environmental Engineering Part-Time",
+    "uoc": 6
+  },
+  "ECON5000": {
+    "code": "ECON5000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Economics Full-Time",
+    "uoc": 12
+  },
+  "ECON5001": {
+    "code": "ECON5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Economics Part-Time",
+    "uoc": 6
+  },
+  "EDST5033": {
+    "code": "EDST5033",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Methods 2",
+    "uoc": 6
+  },
+  "EDST5036": {
+    "code": "EDST5036",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Education Project 1",
+    "uoc": 6
+  },
+  "EDST5037": {
+    "code": "EDST5037",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Education Project 2",
+    "uoc": 6
+  },
+  "EDST5038": {
+    "code": "EDST5038",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Education Seminar 1",
+    "uoc": 6
+  },
+  "EDST5039": {
+    "code": "EDST5039",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Education Seminar 2",
+    "uoc": 6
+  },
+  "EDST5911": {
+    "code": "EDST5911",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Thesis 2",
+    "uoc": 12
+  },
+  "EDST5912": {
+    "code": "EDST5912",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Thesis 1",
+    "uoc": 6
+  },
+  "EDST6901": {
+    "code": "EDST6901",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Research Thesis Education Full-Time",
+    "uoc": 12
+  },
+  "EDST6911": {
+    "code": "EDST6911",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Research Thesis Education Part-Time",
+    "uoc": 6
+  },
+  "EDST8301": {
+    "code": "EDST8301",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "EDST8302": {
+    "code": "EDST8302",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "ELEC9901": {
+    "code": "ELEC9901",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Research Electrical Engineering",
+    "uoc": 6
+  },
+  "ELEC9902": {
+    "code": "ELEC9902",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Electrical Engineering Full-Time",
+    "uoc": 12
+  },
+  "ENVS0001": {
+    "code": "ENVS0001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Environmental Management Full-Time",
+    "uoc": 12
+  },
+  "ENVS0002": {
+    "code": "ENVS0002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Environmental Management P/T",
+    "uoc": 6
+  },
+  "FINS5000": {
+    "code": "FINS5000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Banking and Finance Full-Time",
+    "uoc": 12
+  },
+  "FINS5001": {
+    "code": "FINS5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Finance and Banking Part-Time",
+    "uoc": 6
+  },
+  "GEOL0005": {
+    "code": "GEOL0005",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Thesis Research Applied Geology Full-Time",
+    "uoc": 12
+  },
+  "GEOL0006": {
+    "code": "GEOL0006",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Applied Geology Part-Time",
+    "uoc": 6
+  },
+  "GEOS9001": {
+    "code": "GEOS9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis in Geography",
+    "uoc": 12
+  },
+  "GEOS9005": {
+    "code": "GEOS9005",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Research Thesis in Geography",
+    "uoc": 6
+  },
+  "GMAT0001": {
+    "code": "GMAT0001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Surveying Full-Time",
+    "uoc": 12
+  },
+  "GMAT0002": {
+    "code": "GMAT0002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Surveying Part-Time",
+    "uoc": 6
+  },
+  "GSBE0703": {
+    "code": "GSBE0703",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Built Environment Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "GSBE0803": {
+    "code": "GSBE0803",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Built Environment Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "GSOE9400": {
+    "code": "GSOE9400",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Engineering Postgraduate Research Essentials",
+    "uoc": 0
+  },
+  "GSOE9401": {
+    "code": "GSOE9401",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Essentials of Industrial Research",
+    "uoc": 0
+  },
+  "GSOE9403": {
+    "code": "GSOE9403",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Entrepreneurship for Engineering Researchers",
+    "uoc": 0
+  },
+  "GSOE9404": {
+    "code": "GSOE9404",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Business Management for Engineering Researchers",
+    "uoc": 0
+  },
+  "GSOE9410": {
+    "code": "GSOE9410",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Professional Development for Emerging Engineering Educators",
+    "uoc": 2
+  },
+  "HUML9000": {
+    "code": "HUML9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Humanities and Languages Full-Time",
+    "uoc": 12
+  },
+  "HUML9050": {
+    "code": "HUML9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Humanities and Languages Part Time",
+    "uoc": 6
+  },
+  "INFS5000": {
+    "code": "INFS5000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full-Time Research Information Systems",
+    "uoc": 12
+  },
+  "INFS5001": {
+    "code": "INFS5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Research Information Systems",
+    "uoc": 6
+  },
+  "INTD8301": {
+    "code": "INTD8301",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "INTD8302": {
+    "code": "INTD8302",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "LAWS0001": {
+    "code": "LAWS0001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Law Full-Time",
+    "uoc": 12
+  },
+  "LAWS0002": {
+    "code": "LAWS0002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Law Part-Time",
+    "uoc": 6
+  },
+  "LAWS0007": {
+    "code": "LAWS0007",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Introduction to Higher Degree Research in Law and Criminology",
+    "uoc": 0
+  },
+  "LAWS0011": {
+    "code": "LAWS0011",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Methods for Higher Degree Research in Law and Criminology",
+    "uoc": 0
+  },
+  "MANF9000": {
+    "code": "MANF9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Manufacturing Engineering and Management (Full-Time)",
+    "uoc": 12
+  },
+  "MANF9001": {
+    "code": "MANF9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Manufacturing Engineering and Management (Part-Time)",
+    "uoc": 6
+  },
+  "MARK5000": {
+    "code": "MARK5000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Marketing Full-Time",
+    "uoc": 12
+  },
+  "MARK5001": {
+    "code": "MARK5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Marketing Part-Time",
+    "uoc": 6
+  },
+  "MARK8992": {
+    "code": "MARK8992",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Seminar in Consumer Behaviour",
+    "uoc": 6
+  },
+  "MARK8997": {
+    "code": "MARK8997",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Quantitative Methods and Models in Marketing",
+    "uoc": 6
+  },
+  "MATH5003": {
+    "code": "MATH5003",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Mathematics Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "MATH5004": {
+    "code": "MATH5004",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Mathematics Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "MATS0100": {
+    "code": "MATS0100",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Materials Science and Engineering Full-Time",
+    "uoc": 12
+  },
+  "MATS0200": {
+    "code": "MATS0200",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Materials Science and Engineering Part-Time",
+    "uoc": 6
+  },
+  "MDCN9001": {
+    "code": "MDCN9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Full-Time (Prince of Wales)",
+    "uoc": 12
+  },
+  "MDCN9002": {
+    "code": "MDCN9002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Part-Time (Prince of Wales)",
+    "uoc": 6
+  },
+  "MDCN9003": {
+    "code": "MDCN9003",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Full-Time (Swsahs)",
+    "uoc": 12
+  },
+  "MDCN9004": {
+    "code": "MDCN9004",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Part-Time (SWSAHS)",
+    "uoc": 6
+  },
+  "MDCN9005": {
+    "code": "MDCN9005",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Full-Time (St George)",
+    "uoc": 12
+  },
+  "MDCN9006": {
+    "code": "MDCN9006",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Part-Time (St George)",
+    "uoc": 6
+  },
+  "MDCN9007": {
+    "code": "MDCN9007",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Full-Time (St Vincents)",
+    "uoc": 12
+  },
+  "MDCN9008": {
+    "code": "MDCN9008",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Medicine Part-Time (St Vincents)",
+    "uoc": 6
+  },
+  "MDCN9009": {
+    "code": "MDCN9009",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis (Rural) Full-time",
+    "uoc": 12
+  },
+  "MDCN9010": {
+    "code": "MDCN9010",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis (Rural) Part-time",
+    "uoc": 6
+  },
+  "MDCN9011": {
+    "code": "MDCN9011",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis (Kirby Institute) Full-Time",
+    "uoc": 12
+  },
+  "MDCN9012": {
+    "code": "MDCN9012",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis (Kirby Institute) Part Time",
+    "uoc": 6
+  },
+  "MDCN9015": {
+    "code": "MDCN9015",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis (The George Inst) Full-Time",
+    "uoc": 12
+  },
+  "MDCN9016": {
+    "code": "MDCN9016",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis (The George Inst) Part-Time",
+    "uoc": 6
+  },
+  "MDCN9050": {
+    "code": "MDCN9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Higher Degree Research Essentials",
+    "uoc": 0
+  },
+  "MECH9000": {
+    "code": "MECH9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Mechanical Engineering Full-Time",
+    "uoc": 12
+  },
+  "MECH9001": {
+    "code": "MECH9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Mechanical Engineering  (Part-Time)",
+    "uoc": 6
+  },
+  "MGMT5000": {
+    "code": "MGMT5000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full Time PhD Thesis Organisation and Management",
+    "uoc": 12
+  },
+  "MGMT5001": {
+    "code": "MGMT5001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time PhD Thesis Organisation and Management",
+    "uoc": 6
+  },
+  "MGMT5982": {
+    "code": "MGMT5982",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Management Theory - Micro Perspectives",
+    "uoc": 6
+  },
+  "MGMT5983": {
+    "code": "MGMT5983",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Management Theory - Macro Perspectives",
+    "uoc": 6
+  },
+  "MICR8013": {
+    "code": "MICR8013",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Microbiology Full-Time",
+    "uoc": 12
+  },
+  "MICR8023": {
+    "code": "MICR8023",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Microbiology Part-Time",
+    "uoc": 6
+  },
+  "MINE0008": {
+    "code": "MINE0008",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "MINE0009": {
+    "code": "MINE0009",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "MTRN9000": {
+    "code": "MTRN9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Mechatronic Engineering  (Full-Time)",
+    "uoc": 12
+  },
+  "MTRN9001": {
+    "code": "MTRN9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Mechatronic Engineering  (Part-Time)",
+    "uoc": 6
+  },
+  "NCHR9000": {
+    "code": "NCHR9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis NCHR Full Time",
+    "uoc": 12
+  },
+  "NCHR9050": {
+    "code": "NCHR9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis NCHR Part Time",
+    "uoc": 6
+  },
+  "OBST9001": {
+    "code": "OBST9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Obstetrics and Gynaecology Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "OBST9002": {
+    "code": "OBST9002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Obstetrics and Gynaecology Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "OBST9003": {
+    "code": "OBST9003",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "M.D. Obstetrics and Gynaecology Full-Time",
+    "uoc": 12
+  },
+  "OBST9004": {
+    "code": "OBST9004",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "M.D. Obstetrics and Gynaecology Part-Time",
+    "uoc": 6
+  },
+  "OPTM0001": {
+    "code": "OPTM0001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Optometry Full-Time",
+    "uoc": 12
+  },
+  "OPTM0002": {
+    "code": "OPTM0002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Optometry Part-Time",
+    "uoc": 6
+  },
+  "PAED9401": {
+    "code": "PAED9401",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Research Thesis Paediatrics Full-Time",
+    "uoc": 12
+  },
+  "PAED9402": {
+    "code": "PAED9402",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Research Thesis Paediatrics Part-Time",
+    "uoc": 6
+  },
+  "PAED9601": {
+    "code": "PAED9601",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters by Research Full-Time",
+    "uoc": 12
+  },
+  "PHCM9001": {
+    "code": "PHCM9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "PHCM9002": {
+    "code": "PHCM9002",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "PHCM9005": {
+    "code": "PHCM9005",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Dr Public Health Full-Time",
+    "uoc": 12
+  },
+  "PHCM9006": {
+    "code": "PHCM9006",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Dr Public Health Part-Time",
+    "uoc": 6
+  },
+  "PHCM9007": {
+    "code": "PHCM9007",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master of Philosophy Full Time",
+    "uoc": 12
+  },
+  "PHCM9008": {
+    "code": "PHCM9008",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master of Philosophy Part Time",
+    "uoc": 6
+  },
+  "PHCM9200": {
+    "code": "PHCM9200",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "PHCM9201": {
+    "code": "PHCM9201",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "PHCM9820": {
+    "code": "PHCM9820",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Future Health Leaders Workshop A",
+    "uoc": 6
+  },
+  "PHCM9821": {
+    "code": "PHCM9821",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Future Health Leaders Workshop B",
+    "uoc": 6
+  },
+  "PHYS9103": {
+    "code": "PHYS9103",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Physics Full-Time",
+    "uoc": 12
+  },
+  "PHYS9113": {
+    "code": "PHYS9113",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Physics Part-Time",
+    "uoc": 6
+  },
+  "POLS8301": {
+    "code": "POLS8301",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "POLS8302": {
+    "code": "POLS8302",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "PSYC8000": {
+    "code": "PSYC8000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Psychology Full-Time",
+    "uoc": 12
+  },
+  "PSYC8001": {
+    "code": "PSYC8001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Research Thesis Psychology Part-Time",
+    "uoc": 6
+  },
+  "PTRL6100": {
+    "code": "PTRL6100",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full-Time Research Thesis Petroleum Engineering Studies",
+    "uoc": 12
+  },
+  "PTRL6101": {
+    "code": "PTRL6101",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Research Thesis Petroleum Engineering Studies",
+    "uoc": 6
+  },
+  "REGZ9901": {
+    "code": "REGZ9901",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "HDR Internship",
+    "uoc": 0
+  },
+  "SCIF7200": {
+    "code": "SCIF7200",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Science HDR First Year Onboarding",
+    "uoc": 0
+  },
+  "SLSP8301": {
+    "code": "SLSP8301",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "SLSP8302": {
+    "code": "SLSP8302",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research  Part-Time",
+    "uoc": 6
+  },
+  "SOCA8302": {
+    "code": "SOCA8302",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "SOCW9001": {
+    "code": "SOCW9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "DSW Thesis Full Time",
+    "uoc": 12
+  },
+  "SOCW9501": {
+    "code": "SOCW9501",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "DSW Thesis Part Time",
+    "uoc": 6
+  },
+  "SOLA9901": {
+    "code": "SOLA9901",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Part-Time Research Thesis Photovoltaic Engineering",
+    "uoc": 6
+  },
+  "SOLA9902": {
+    "code": "SOLA9902",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Full-Time Research Thesis Photovoltaic Engineering",
+    "uoc": 12
+  },
+  "SOSS9000": {
+    "code": "SOSS9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Social Sciences Full Time",
+    "uoc": 12
+  },
+  "SOSS9050": {
+    "code": "SOSS9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Social Sciences Part Time",
+    "uoc": 6
+  },
+  "SPRC9000": {
+    "code": "SPRC9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Social Policy Research Centre Full-Time",
+    "uoc": 12
+  },
+  "SPRC9050": {
+    "code": "SPRC9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis SPRC Part-Time",
+    "uoc": 6
+  },
+  "SRAP9001": {
+    "code": "SRAP9001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "DPPG Thesis Full Time",
+    "uoc": 12
+  },
+  "SRAP9501": {
+    "code": "SRAP9501",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "DPPG Thesis Part Time",
+    "uoc": 6
+  },
+  "STAM9000": {
+    "code": "STAM9000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Arts and Media Full Time",
+    "uoc": 12
+  },
+  "STAM9050": {
+    "code": "STAM9050",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Arts and Media Part Time",
+    "uoc": 6
+  },
+  "SURG9005": {
+    "code": "SURG9005",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery (St George)",
+    "uoc": 12
+  },
+  "SURG9006": {
+    "code": "SURG9006",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery Part-Time (St George)",
+    "uoc": 6
+  },
+  "SURG9007": {
+    "code": "SURG9007",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery Full-Time (St Vincents)",
+    "uoc": 12
+  },
+  "SURG9008": {
+    "code": "SURG9008",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery Part-Time (St Vincents)",
+    "uoc": 6
+  },
+  "TABL5810": {
+    "code": "TABL5810",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Dissertation Proposal",
+    "uoc": 6
+  },
+  "TABL6000": {
+    "code": "TABL6000",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Taxation and Business Law F/T",
+    "uoc": 12
+  },
+  "TABL6001": {
+    "code": "TABL6001",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "PhD Thesis Taxation and Business Law Part-Time",
+    "uoc": 6
+  },
+  "TABL6010": {
+    "code": "TABL6010",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master Thesis Taxation and Business Law F/T",
+    "uoc": 12
+  },
+  "TABL6011": {
+    "code": "TABL6011",
+    "exclusions_raw": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "terms": [],
+    "title": "Master Thesis Taxation & Business Law P/T",
+    "uoc": 6
+  }
+}
