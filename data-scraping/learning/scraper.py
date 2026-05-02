@@ -1,7 +1,8 @@
 # imports
 from bs4 import BeautifulSoup
-import csv
+import json
 import requests
+import os
 
 # parsing
 page_to_scrape = requests.get("http://quotes.toscrape.com") # request target website and store as variable
@@ -11,12 +12,13 @@ soup = BeautifulSoup(page_to_scrape.text, "html.parser") # parse the website as 
 quotes = soup.find_all("span", attrs={"class": "text"}) # get all the quotes and save as a list
 authors = soup.find_all("small", attrs={"class": "author"}) # get all the authors and save as a list
 
-# save to CSV file
-with open("data.csv", "w", newline="", encoding="utf-8") as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(["Quote", "Author"])  # write header
-    
-    for quote, author in zip(quotes, authors):
-        writer.writerow([quote.text, author.text])
+# save to JSON file
+data = [{"quote": quote.text, "author": author.text} for quote, author in zip(quotes, authors)]
 
-print("Data saved to data.csv")
+script_dir = os.path.dirname(os.path.abspath(__file__))
+json_path = os.path.join(script_dir, "data.json")
+
+with open(json_path, "w", encoding="utf-8") as jsonfile:
+    json.dump(data, jsonfile, indent=2, ensure_ascii=False)
+
+print(f"Data saved to {json_path}")
