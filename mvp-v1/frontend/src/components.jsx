@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef, useId } from 'react';
 import {
   IconCheck,
   IconDot,
@@ -9,6 +9,32 @@ import {
   IconLogo,
   IconDotsVertical,
 } from './icons.jsx';
+
+// ---------- single-open menu coordinator ----------
+// Shared module-level state so only one CourseCard menu can be open at a time.
+// Each card subscribes via useCurrentMenuId() and re-renders when the open id changes.
+const _menuListeners = new Set();
+let _currentMenuId = null;
+function setCurrentMenu(id) {
+  if (_currentMenuId === id) return;
+  _currentMenuId = id;
+  _menuListeners.forEach((fn) => fn(id));
+}
+function useCurrentMenuId() {
+  const [, force] = useState(0);
+  useEffect(() => {
+    const fn = () => force((n) => n + 1);
+    _menuListeners.add(fn);
+    return () => {
+      _menuListeners.delete(fn);
+    };
+  }, []);
+  return _currentMenuId;
+}
+
+// Approximate full menu height (header + 3 status rows + divider + remove + py-1).
+// Used to decide whether the dropdown should flip above the trigger.
+const MENU_EST_HEIGHT = 200;
 
 // ---------- status definitions ----------
 export const STATUS_META = {
@@ -63,21 +89,26 @@ export function CourseCard({
   isDragging,
   isOverlay,
   onRemove,
+  onSetStatus,
 }) {
   const meta = STATUS_META[status] || STATUS_META.ready;
   const [hover, setHover] = useState(false);
-  const [menuOpen, setMenuOpen] = useState(false);
+  const myMenuId = useId();
+  const openMenuId = useCurrentMenuId();
+  const menuOpen = openMenuId === myMenuId;
   const menuRef = useRef(null);
+  const buttonRef = useRef(null);
+  const [flipUp, setFlipUp] = useState(false);
 
   useEffect(() => {
     if (!menuOpen) return;
     const onDocDown = (e) => {
       if (menuRef.current && !menuRef.current.contains(e.target)) {
-        setMenuOpen(false);
+        setCurrentMenu(null);
       }
     };
     const onKey = (e) => {
-      if (e.key === 'Escape') setMenuOpen(false);
+      if (e.key === 'Escape') setCurrentMenu(null);
     };
     document.addEventListener('mousedown', onDocDown);
     document.addEventListener('keydown', onKey);
@@ -86,6 +117,22 @@ export function CourseCard({
       document.removeEventListener('keydown', onKey);
     };
   }, [menuOpen]);
+
+  const toggleMenu = () => {
+    if (menuOpen) {
+      setCurrentMenu(null);
+      return;
+    }
+    const rect = buttonRef.current && buttonRef.current.getBoundingClientRect();
+    if (rect) {
+      const spaceBelow = window.innerHeight - rect.bottom;
+      const spaceAbove = rect.top;
+      setFlipUp(spaceBelow < MENU_EST_HEIGHT && spaceAbove > spaceBelow);
+    } else {
+      setFlipUp(false);
+    }
+    setCurrentMenu(myMenuId);
+  };
 
   const showStatusChip =
     status === 'in-progress' || status === 'blocked' || status === 'ai-recommended';
@@ -142,10 +189,11 @@ export function CourseCard({
           {!isOverlay && (
             <div ref={menuRef} className="relative">
               <button
+                ref={buttonRef}
                 onMouseDown={stop}
                 onClick={(e) => {
                   stop(e);
-                  setMenuOpen((o) => !o);
+                  toggleMenu();
                 }}
                 className={[
                   'rounded p-0.5 text-zinc-400 hover:text-zinc-700 hover:bg-zinc-100 transition-opacity',
@@ -158,13 +206,43 @@ export function CourseCard({
               {menuOpen && (
                 <div
                   onMouseDown={stop}
-                  className="absolute top-7 right-0 z-30 bg-white border border-zinc-200 rounded-[8px] shadow-md py-1 min-w-[110px]"
+                  className={[
+                    'absolute right-0 z-30 bg-white border border-zinc-200 rounded-[8px] shadow-md py-1 min-w-[150px]',
+                    flipUp ? 'bottom-7' : 'top-7',
+                  ].join(' ')}
                 >
+                  <div className="px-3 pt-1 pb-1 text-[10px] font-medium uppercase tracking-[0.06em] text-zinc-400">
+                    Set status
+                  </div>
+                  {[
+                    { value: 'ready', label: 'Ready' },
+                    { value: 'in-progress', label: 'Current' },
+                    { value: 'completed', label: 'Completed' },
+                  ].map((s) => (
+                    <button
+                      key={s.value}
+                      onMouseDown={stop}
+                      onClick={(e) => {
+                        stop(e);
+                        setCurrentMenu(null);
+                        onSetStatus && onSetStatus(s.value);
+                      }}
+                      className="w-full flex items-center justify-between text-left text-[12.5px] text-zinc-700 hover:bg-zinc-100 px-3 py-1.5"
+                    >
+                      <span>{s.label}</span>
+                      {status === s.value && (
+                        <span className="text-zinc-500">
+                          <IconCheck size={12} />
+                        </span>
+                      )}
+                    </button>
+                  ))}
+                  <div className="my-1 border-t border-zinc-100" />
                   <button
                     onMouseDown={stop}
                     onClick={(e) => {
                       stop(e);
-                      setMenuOpen(false);
+                      setCurrentMenu(null);
                       onRemove && onRemove();
                     }}
                     className="w-full text-left text-[12.5px] text-red-600 hover:bg-red-50 px-3 py-1.5"
@@ -224,6 +302,7 @@ export function TermCell({
   dragInstanceId,
   onDragStart,
   onRemove,
+  onSetStatus,
   onAddClick,
 }) {
   const isEmpty = instances.length === 0;
@@ -260,6 +339,7 @@ export function TermCell({
                 prereqsMissing={missing}
                 isDragging={dragInstanceId === inst.id}
                 onRemove={() => onRemove && onRemove(inst.id, termKey)}
+                onSetStatus={(s) => onSetStatus && onSetStatus(inst.id, termKey, s)}
               />
             </div>
           );

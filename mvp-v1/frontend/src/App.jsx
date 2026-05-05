@@ -253,7 +253,6 @@ export default function App() {
       if (e.button !== 0) return;
       const inst = (board[fromKey] || []).find((i) => i.id === instId);
       if (!inst) return;
-      if (inst.status === 'completed') return;
       e.preventDefault();
       const target = e.currentTarget;
       const rect = target.getBoundingClientRect();
@@ -359,6 +358,24 @@ export default function App() {
       setBoard((b) => {
         if (!b[termKey]) return b;
         const next = { ...b, [termKey]: b[termKey].filter((i) => i.id !== instId) };
+        return recomputeStatuses(next, years);
+      });
+    },
+    [years]
+  );
+
+  const setCardStatus = useCallback(
+    (instId, termKey, newStatus) => {
+      setBoard((b) => {
+        if (!b[termKey]) return b;
+        const next = {
+          ...b,
+          [termKey]: b[termKey].map((i) =>
+            i.id === instId
+              ? { ...i, status: newStatus, recommended: false, _missing: [] }
+              : i
+          ),
+        };
         return recomputeStatuses(next, years);
       });
     },
@@ -574,6 +591,7 @@ export default function App() {
                             dragInstanceId={drag && drag.instId}
                             onDragStart={onDragStart}
                             onRemove={removeCard}
+                            onSetStatus={setCardStatus}
                             onAddClick={(tk) => setAddModal({ termKey: tk })}
                           />
                         );
