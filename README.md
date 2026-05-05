@@ -32,7 +32,7 @@ Started by learning the fundamentals of web scraping using Python's `requests` l
 
 ---
 
-### Phase 1 — UNSW Timetable Scraper (Test 1) ✅
+### Phase 1 — UNSW Timetable Scraper ✅
 **Location:** `data-scraping/test-1/`
 
 First real scraper targeting the [UNSW Timetable](https://timetable.unsw.edu.au/2026/subjectSearch.html). It discovers all Kensington subject areas, iterates through each one, and extracts every course listed under undergraduate (UGRD), postgraduate (PGRD), and research (RSCH) sections.
@@ -52,20 +52,19 @@ First real scraper targeting the [UNSW Timetable](https://timetable.unsw.edu.au/
 }
 ```
 
-**Limitations of Test 1:**
+**Limitations:**
 - No term/offering information
 - No prerequisites or enrolment rules
 - No faculty, school, campus, or description data
-- All extra fields blank — timetable alone doesn't have enough detail
 
 ---
 
-### Phase 2 — Timetable + Handbook Enrichment (Test 2) ✅
-**Location:** `data-scraping/test-2/`
+### Phase 2 — Timetable + Handbook Enrichment ✅
+**Location:** `data-scraping/classes-scraper/`
 
-Major improvement. After scraping course codes from the timetable (Phase 1), this scraper does a second pass through the [UNSW Handbook](https://www.handbook.unsw.edu.au) to enrich every course with the full set of metadata. Handbook data is embedded in a `__NEXT_DATA__` JSON blob in each course's page.
+Major improvement over Phase 1. After scraping course codes from the timetable, this scraper does a second pass through the [UNSW Handbook](https://www.handbook.unsw.edu.au) to enrich every course with the full set of metadata. Handbook data is embedded in a `__NEXT_DATA__` JSON blob in each course's page.
 
-**Output:** `data/undergraduate.json`, `data/postgraduate.json`, `data/research.json`
+**Output:** `data-scraping/classes-data/` — `undergraduate.json`, `postgraduate.json`, `research.json`
 
 **Full course schema (post-enrichment):**
 ```json
@@ -94,10 +93,64 @@ A 1-second delay between requests keeps the scraper polite and avoids rate limit
 
 ---
 
-### Phase 3 — Database + Backend API 🔲 (Planned)
+### Phase 3 — Pathway PDF Scraper + Parser ✅
+**Location:** `data-scraping/pathway-scraper/`
+
+Scrapes and parses degree pathway templates (progression checksheets) for UNSW Engineering programs. These are PDF documents that show the recommended course sequence for each specialisation and start term.
+
+**Two scripts:**
+
+- `pathway-scraper.py` — fetches the Engineering student resources index, finds all PDF links, and downloads ~612 checksheet PDFs to `pdfs/`
+- `pathway-parser.py` — uses `pdfplumber` to parse each PDF, extracts the program name, specialisation code, start term, and a year/term grid of courses with their prerequisites
+
+**Output:** `pathways-data/` — 613 structured JSON files, one per checksheet, plus an `index.json` summary
+
+**Each pathway entry contains:**
+```json
+{
+  "program": "Bachelor of Engineering (Honours)",
+  "program_code": "3707",
+  "specialisation": "Computer Science",
+  "specialisation_code": "COMPAH",
+  "start_term": "T1",
+  "start_year": 2026,
+  "courses": [
+    {
+      "year": 1,
+      "term": 1,
+      "code": "COMP1511",
+      "title": "Programming Fundamentals",
+      "prerequisites": ""
+    }
+  ]
+}
+```
+
+---
+
+### Phase 4 — Frontend MVP 🚧 (In Progress)
+**Location:** `frontend/`
+
+An interactive web app for exploring courses and pathway data. The MVP is built with React, Vite, and Tailwind CSS, using pre-processed data loaded from `src/data.js`.
+
+**Stack:**
+- React 18 + Vite
+- Tailwind CSS
+- Data sourced from scraped JSON (classes + pathways)
+
+**Planned full features:**
+- Course search and filter by faculty, level, term, UOC
+- Prerequisite chain visualisation (node graph, e.g. using React Flow or D3.js)
+- Drag-and-drop degree planner — assign courses to terms across multiple years
+- Automatic conflict detection (exclusions, term clashes)
+- Shareable/exportable degree plan
+
+---
+
+### Phase 5 — Database + Backend API 🔲 (Planned)
 **Location:** `backend/` *(to be created)*
 
-Load the scraped JSON data into a proper database (likely PostgreSQL) and expose it via a REST or GraphQL API.
+Load the scraped JSON data into a proper database and expose it via a REST or GraphQL API.
 
 **Planned stack:**
 - **Database:** PostgreSQL
@@ -106,31 +159,12 @@ Load the scraped JSON data into a proper database (likely PostgreSQL) and expose
   - `GET /courses` — list/search all courses with filters (level, faculty, term, UOC)
   - `GET /courses/:code` — full detail for a single course
   - `GET /courses/:code/prerequisites` — prerequisite graph for a course
+  - `GET /pathways` — list all degree pathways
   - `POST /planner` — save/load a student's personal degree plan
 
 ---
 
-### Phase 4 — Frontend Web App 🔲 (Planned)
-**Location:** `frontend/` *(to be created)*
-
-A React web app that consumes the API and gives students an interactive interface.
-
-**Planned features:**
-- Course search and filter by faculty, level, term, UOC
-- Prerequisite chain visualisation (node graph, e.g. using D3.js or React Flow)
-- Drag-and-drop degree planner — assign courses to terms across multiple years
-- Automatic conflict detection (exclusions, term clashes)
-- Shareable/exportable degree plan
-
-**Planned stack:**
-- React + TypeScript
-- Tailwind CSS
-- React Flow or D3.js for the prerequisite graph
-- Zustand or Redux for planner state
-
----
-
-### Phase 5 — Deployment 🔲 (Planned)
+### Phase 6 — Deployment 🔲 (Planned)
 - Frontend: Vercel or Netlify
 - Backend + DB: Railway, Render, or a VPS
 - CI/CD: GitHub Actions for automated scraper refresh (run each year when UNSW publishes new timetable data)
@@ -142,41 +176,73 @@ A React web app that consumes the API and gives students an interactive interfac
 ```
 uni-roadmap-project/
 ├── data-scraping/
-│   ├── learning/          # Practice scraper (quotes.toscrape.com)
+│   ├── learning/               # Phase 0 — practice scraper (quotes.toscrape.com)
 │   │   ├── scraper.py
 │   │   └── data.json
-│   ├── test-1/            # Timetable-only scraper
+│   ├── test-1/                 # Phase 1 — timetable-only scraper (superseded)
 │   │   ├── scraper.py
 │   │   ├── undergraduate.json
 │   │   ├── postgraduate.json
 │   │   └── research.json
-│   └── test-2/            # Timetable + Handbook enrichment scraper
-│       ├── scraper.py
-│       └── data/
-│           ├── undergraduate.json
-│           ├── postgraduate.json
-│           └── research.json
-├── backend/               # (planned)
-├── frontend/              # (planned)
+│   ├── classes-scraper/        # Phase 2 — current working course scraper
+│   │   └── scraper.py
+│   ├── classes-data/           # Phase 2 — committed snapshot of scraped courses
+│   │   ├── undergraduate.json
+│   │   ├── postgraduate.json
+│   │   └── research.json
+│   └── pathway-scraper/        # Phase 3 — pathway PDF scraper + parser
+│       ├── pathway-scraper.py
+│       ├── pathway-parser.py
+│       ├── pdfs/               # ~612 downloaded checksheet PDFs
+│       └── pathways-data/      # ~613 structured JSON files + index.json
+├── frontend/                   # Phase 4 — MVP frontend (React + Vite + Tailwind)
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── components.jsx
+│   │   ├── data.js
+│   │   ├── icons.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── package.json
+│   └── vite.config.js
+├── backend/                    # Phase 5 — (planned)
+├── CLAUDE.md
 └── README.md
 ```
 
 ---
 
-## Running the Scraper
+## Running the Scrapers
 
 ### Requirements
 ```bash
-pip install httpx beautifulsoup4
+pip install httpx beautifulsoup4 pdfplumber
 ```
 
-### Run the full enrichment scraper (recommended)
+### Course scraper (Phase 2)
 ```bash
-cd data-scraping/test-2
+cd data-scraping/classes-scraper
 python scraper.py
 ```
+Outputs to `data-scraping/classes-scraper/data/`. Expect a long run — thousands of handbook requests with a 1-second delay each.
 
-This will produce three JSON files under `data-scraping/test-2/data/`. Expect the run to take a while — there are thousands of courses and each one requires a handbook request with a 1-second delay.
+### Pathway scraper (Phase 3)
+```bash
+# Step 1: download PDFs
+cd data-scraping/pathway-scraper
+python pathway-scraper.py
+
+# Step 2: parse PDFs to JSON
+python pathway-parser.py
+```
+Downloads ~612 PDFs to `pdfs/` then parses them into `pathways-data/`.
+
+### Frontend (Phase 4)
+```bash
+cd frontend
+npm install
+npm run dev
+```
 
 ---
 
@@ -186,13 +252,16 @@ This will produce three JSON files under `data-scraping/test-2/data/`. Expect th
 |-------|------|
 | HTTP client | `httpx` |
 | HTML parsing | `BeautifulSoup4` |
+| PDF parsing | `pdfplumber` |
 | Data format | JSON |
-| Language | Python 3.13 |
+| Scraping language | Python 3.13 |
+| Frontend | React 18 + Vite + Tailwind CSS |
 
 ---
 
 ## Notes
 
-- The scraper targets the 2026 academic year. Change the `YEAR` constant at the top of `scraper.py` to scrape a different year.
-- Only Kensington campus courses are scraped (KENS suffix). Other campuses (e.g. Paddington) are out of scope for now.
-- `prerequisites_raw` and `enrolment_rules_raw` are stored as raw HTML strings from the Handbook. Parsing these into a proper prerequisite graph is a planned task for Phase 3.
+- The scrapers target the 2026 academic year. Change the `YEAR` constant at the top of `scraper.py` to scrape a different year.
+- Only Kensington campus courses are scraped (KENS suffix). Other campuses are out of scope for now.
+- `prerequisites_raw` and `enrolment_rules_raw` are stored as raw strings from the Handbook. Parsing these into a proper prerequisite graph is a planned task for Phase 5.
+- Pathway checksheets are currently limited to UNSW Engineering programs (the only faculty that publishes progression checksheets as PDFs).

@@ -2,32 +2,59 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Keeping Docs Up to Date
+
+After every major change (new scraper, new phase started or completed, repo restructure, new tech added), update both `README.md` and `CLAUDE.md` to reflect the current state. README.md is the human-facing project overview; CLAUDE.md is the working-context guide for Claude. Both should stay accurate.
+
 ## Project Overview
 
-UNSW course roadmap and degree pathway planner. End goal: a web app that lets students browse all UNSW courses, visualise prerequisite chains, and build multi-year degree plans. Currently in the data-scraping phase; backend and frontend are planned (see `README.md` for the full phase plan).
+UNSW course roadmap and degree pathway planner. End goal: a web app that lets students browse all UNSW courses, visualise prerequisite chains, and build multi-year degree plans.
+
+**Current phase status:**
+- Phase 0 (Learning) ✅
+- Phase 1 (Timetable scraper) ✅
+- Phase 2 (Course enrichment scraper) ✅
+- Phase 3 (Pathway PDF scraper + parser) ✅
+- Phase 4 (Frontend MVP) 🚧 in progress
+- Phase 5 (Backend + DB) 🔲 planned
+- Phase 6 (Deployment) 🔲 planned
 
 ## Repository Layout
 
-The repo is being restructured. The README still references `test-2/` but the working scraper has moved to `classes-scraper/`, with output split into a sibling `classes-data/`.
-
-- `data-scraping/learning/` — first practice scraper (quotes.toscrape.com).
-- `data-scraping/test-1/` — earliest timetable-only scraper. Superseded.
-- `data-scraping/classes-scraper/scraper.py` — **current working scraper.** Two-phase: timetable + handbook enrichment.
-- `data-scraping/classes-data/` — JSON output (`undergraduate.json`, `postgraduate.json`, `research.json`).
-- `data-scraping/pathway-scraper/` — new in-progress scraper for degree pathways/programs (currently a stub).
-- `backend/`, `frontend/` — planned, not yet created.
-
-If you see references to `test-2/` in the README, prefer `classes-scraper/` — the README hasn't been updated.
-
-## Running the Scraper
-
-```bash
-pip install httpx beautifulsoup4
-cd data-scraping/classes-scraper
-python scraper.py
+```
+uni-roadmap-project/
+├── data-scraping/
+│   ├── learning/          # Phase 0 — practice scraper
+│   ├── test-1/            # Phase 1 — timetable-only scraper (superseded)
+│   ├── classes-scraper/   # Phase 2 — current working course scraper
+│   ├── classes-data/      # Phase 2 — committed snapshot of scraped courses
+│   └── pathway-scraper/   # Phase 3 — pathway PDF scraper + parser
+│       ├── pathway-scraper.py
+│       ├── pathway-parser.py
+│       ├── pdfs/           # ~612 downloaded checksheet PDFs
+│       └── pathways-data/  # ~613 structured JSON files + index.json
+├── frontend/              # Phase 4 — React + Vite + Tailwind MVP
+│   └── src/               # App.jsx, components.jsx, data.js, icons.jsx
+├── backend/               # Phase 5 — planned, not yet created
+├── CLAUDE.md
+└── README.md
 ```
 
-A full run hits thousands of pages with a 1-second delay each — expect it to take a long time. Output is written to `data-scraping/classes-scraper/data/` by the script itself; `classes-data/` holds a committed snapshot.
+## Running the Scrapers
+
+```bash
+pip install httpx beautifulsoup4 pdfplumber
+
+# Phase 2 — course scraper
+cd data-scraping/classes-scraper && python scraper.py
+
+# Phase 3 — pathway scraper (two steps)
+cd data-scraping/pathway-scraper
+python pathway-scraper.py   # downloads PDFs to pdfs/
+python pathway-parser.py    # parses PDFs into pathways-data/
+```
+
+A full course scraper run hits thousands of pages with a 1-second delay — expect a long time. Output goes to `data-scraping/classes-scraper/data/`; `classes-data/` holds a committed snapshot.
 
 There is no test suite, linter config, or build step. Python 3.13.
 
@@ -48,11 +75,32 @@ Single-file scraper, two HTTP phases sharing one `httpx.Client`:
 
 `prerequisites_raw` and `enrolment_rules_raw` are kept as raw strings from the handbook. Parsing these into a structured prerequisite graph is a future task.
 
-## Conventions in the Scraper
+## Architecture: pathway-scraper
+
+Two separate scripts:
+
+**`pathway-scraper.py`** — Downloads PDFs from the UNSW Engineering progression checksheet index (`https://www.unsw.edu.au/engineering/student-life/student-resources/progression-checksheets`). Finds all PDF links and saves them to `pdfs/` with sanitised filenames. Same `fetch()` + sleep pattern as classes-scraper.
+
+**`pathway-parser.py`** — Uses `pdfplumber` to parse each PDF. Identifies tables with header `(Course or Activity, Prerequisites, Credits)`, extracts year/term markers, and builds a structured list of courses per checksheet. Also extracts program name, program code, specialisation code, and start term from page text. Writes one JSON file per PDF to `pathways-data/` and an `index.json` summary.
+
+Currently limited to UNSW Engineering — the only faculty publishing checksheets as PDFs at the scraped URL.
+
+## Architecture: frontend
+
+React 18 + Vite + Tailwind CSS MVP. Located in `frontend/`.
+
+- `src/data.js` — pre-processed course and pathway data used by the app
+- `src/App.jsx` — main app component
+- `src/components.jsx` — shared UI components
+- `src/icons.jsx` — SVG icon components
+
+Run with `npm run dev` from the `frontend/` directory.
+
+## Conventions in the Scrapers
 
 - `YEAR` is a module-level constant. Change it to scrape a different year.
 - `fetch()` returns `None` on 404 (callers must handle this) and raises on other non-2xx. It always sleeps `REQUEST_DELAY` in a `finally` block — keep this behaviour when extending; politeness is intentional.
 - `USER_AGENT` identifies the scraper as a student project. Keep something similar if you add new scrapers.
 - Exceptions during a single subject/course are caught and logged to stderr so one bad page doesn't kill the whole run. Preserve this pattern.
 - JSON is written sorted (`sort_keys=True`) with `indent=2` and `ensure_ascii=False`.
-- Only Kensington (`KENS`) is scraped. Adding other campuses is out of scope unless explicitly requested.
+- Only Kensington (`KENS`) is scraped for courses. Adding other campuses is out of scope unless explicitly requested.
