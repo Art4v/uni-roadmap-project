@@ -1,0 +1,438 @@
+{
+  "notes": [],
+  "program_code": "3707",
+  "program_name": "Engineering (Honours)",
+  "source_pdf": "3707_3707_-_Bachelor_Engineering_Honours_-_Environmental_Engineering_-_CVENBH_-_T1_2026_Start.pdf",
+  "specialisation_code": "CVENBH",
+  "specialisation_name": "Environmental Engineering",
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BIOS1301",
+                  "title": "Ecology, Sustainability and Environmental Science"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "DESN1000",
+                  "title": "Introduction to Engineering Design and Innovation"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CHEM1011",
+                  "title": "Chemistry 1A: Atoms, Molecules and Energy"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH1131",
+                  "title": "Mathematics 1A"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "PHYS1121",
+                  "title": ""
+                },
+                {
+                  "code": "PHYS1131",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CVEN1701",
+                  "title": "Climate Change and Environmental Sustainability"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ENGG1811",
+                  "title": "Computing for Engineers"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH1231",
+                  "title": "Mathematics 1B"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "MATH1131",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ENGG2500",
+                  "title": "Fluid Mechanics for Engineers"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "MATH1131",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "General Education",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH2018",
+                  "title": ""
+                },
+                {
+                  "code": "MATH2019",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CVEN2002",
+                  "title": "Civil and Environmental Engineering Computations"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "MATH1231",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CVEN2701",
+                  "title": "Water and Atmospheric Chemistry"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM1011",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "DESN2000",
+                  "title": "Engineering Design and Professional Practice"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "DESN1000",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CEIC2009",
+                  "title": "Material and Energy Balances in the Chemical Process Industry"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 2
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CVEN3203",
+                  "title": "Applied Geotechnics and Engineering Geology"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CVEN3202",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CVEN3501",
+                  "title": "Water Resources Engineering"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CVEN3701",
+                  "title": "Environmental Frameworks, Law and Economics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CVEN3402",
+                  "title": "Transport Engineering and Environmental Sustainability"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CVEN3502",
+                  "title": "Water and Wastewater Engineering"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ENGG2500",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Environmental Engineering",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CVEN3101",
+                  "title": "Engineering Operations and Control"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CVEN3702",
+                  "title": "Waste Management"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 3
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "General Education",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Environmental Engineering",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Thesis Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CVEN4701",
+                  "title": "Planning Sustainable Infrastructure"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Free Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Thesis Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ENGG4999",
+                  "title": "Industrial Training"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 0
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Environmental Engineering",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Free Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 4
+    }
+  ]
+}

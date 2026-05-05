@@ -1,0 +1,204 @@
+{
+  "notes": [],
+  "program_code": "8338",
+  "program_name": "Engineering Science",
+  "source_pdf": "8338_8338_-_Master_Engineering_Science_-_Nuclear_Engineering_-_ENGGFS_-_T3_2026_Start.pdf",
+  "specialisation_code": "ENGGFS",
+  "specialisation_name": "Nuclear Engineering",
+  "start_term": "T3 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Core",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ENGG9741",
+                  "title": "Introduction to Nuclear Engineering"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ENGG9742",
+                  "title": "Reactor Physics for Engineers"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ENGG9743",
+                  "title": "Nuclear Fuel Cycle"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Core",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Core",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MMAN9451",
+                  "title": "Masters Project A"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 4
+            },
+            {
+              "courses": [
+                {
+                  "code": "GSOE9010",
+                  "title": ""
+                },
+                {
+                  "code": "GSOE9011",
+                  "title": ""
+                },
+                {
+                  "code": "GSOE9220",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Engineering Technical Management",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 2
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MMAN9452",
+                  "title": "Masters Project B"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "MMAN9451",
+              "uoc": 4
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Core",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Engineering Technical Management",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MMAN9453",
+                  "title": "Masters Project C"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "MMAN9452",
+              "uoc": 4
+            }
+          ],
+          "term": 2
+        }
+      ],
+      "year": 3
+    }
+  ]
+}

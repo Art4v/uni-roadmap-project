@@ -1,0 +1,166 @@
+{
+  "notes": [],
+  "program_code": "8621",
+  "program_name": "Engineering",
+  "source_pdf": "8621_8621_-_Master_Engineering_-_Biomedical_Engineering_-_BIOMES_-_T1_2026_Start.pdf",
+  "specialisation_code": "BIOMES",
+  "specialisation_name": "Biomedical Engineering",
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Engineering and Technical Management Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Core Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Engineering and Technical Management Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BIOM9914",
+                  "title": "Masters Project"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 12
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ENGG4999",
+                  "title": "Industrial Training"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 0
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 2
+    }
+  ]
+}

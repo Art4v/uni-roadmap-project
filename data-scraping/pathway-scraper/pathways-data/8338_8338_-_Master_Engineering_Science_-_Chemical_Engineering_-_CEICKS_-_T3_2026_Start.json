@@ -1,0 +1,220 @@
+{
+  "notes": [],
+  "program_code": "8338",
+  "program_name": "Engineering Science",
+  "source_pdf": "8338_8338_-_Master_Engineering_Science_-_Chemical_Engineering_-_CEICKS_-_T3_2026_Start.pdf",
+  "specialisation_code": "CEICKS",
+  "specialisation_name": "Chemical Engineering",
+  "start_term": "T3 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CEIC3004",
+                  "title": "Process Equipment Design"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CEIC3005",
+                  "title": "Process Plant Design"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CEIC6711",
+                  "title": ""
+                },
+                {
+                  "code": "CEIC8105",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CEIC3006",
+                  "title": "Process Dynamics and Control"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CEIC8204",
+                  "title": "Entrepreneurship and the Innovation Cycle"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "GSOE9010",
+                  "title": ""
+                },
+                {
+                  "code": "GSOE9011",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Engineering Technical Management Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 2
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CEIC8102",
+                  "title": ""
+                },
+                {
+                  "code": "CEIC8341",
+                  "title": ""
+                },
+                {
+                  "code": "CHEN6701",
+                  "title": ""
+                },
+                {
+                  "code": "CHEN6706",
+                  "title": ""
+                },
+                {
+                  "code": "FOOD8801",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Product Design Project or Research Project",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Advanced Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Product Design Project or Research Project",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        }
+      ],
+      "year": 3
+    }
+  ]
+}

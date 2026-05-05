@@ -1,0 +1,74 @@
+{
+  "notes": [],
+  "program_code": "7335",
+  "program_name": "Mining Engineering",
+  "source_pdf": "7335_7335_-_Grad_Cert_in_Mining_Engineering_-_T1_2026_Start.pdf",
+  "specialisation_code": null,
+  "specialisation_name": null,
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "GSOE9010",
+                  "title": "Engineering Postgraduate Coursework Research Skills"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8101",
+                  "title": "Fundamentals of Mining Engineering"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MINE8115",
+                  "title": "Mine Processes, Systems and Analysis"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8120",
+                  "title": "Hazard Identification, Risk and Safety Management in Mining"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        }
+      ],
+      "year": 1
+    }
+  ]
+}

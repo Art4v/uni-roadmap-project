@@ -1,0 +1,185 @@
+{
+  "notes": [],
+  "program_code": "8059",
+  "program_name": "Mine Geotechnical Engineering",
+  "source_pdf": "8059_8059_-_Master_Mine_Geotechnical_Engineering_-_T1_2026_Start.pdf",
+  "specialisation_code": null,
+  "specialisation_name": null,
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MINE5050",
+                  "title": "Ground Control Principles and Practice in Underground Coal Mining"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8760",
+                  "title": "Mine Geology and Geophysics for Mining Operations"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MINE5040",
+                  "title": "Coal Mining Methods, Mine Planning and Applied Geomechanics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8120",
+                  "title": "Hazard Identification, Risk and Safety Management in Mining"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8680",
+                  "title": "Geotechnical Data Collection and Analysis"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MINE8710",
+                  "title": "Mine Slope Stability"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8860",
+                  "title": "Drilling, Blasting and Machine Excavation"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8940",
+                  "title": "Mine Slope Monitoring Technologies"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MINE8440",
+                  "title": "Mining Industry Research Project 1"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MINE8140",
+                  "title": "Mining Geomechanics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MINE8445",
+                  "title": "Mining Industry Research Project 2"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "MINE8440",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        }
+      ],
+      "year": 2
+    }
+  ]
+}

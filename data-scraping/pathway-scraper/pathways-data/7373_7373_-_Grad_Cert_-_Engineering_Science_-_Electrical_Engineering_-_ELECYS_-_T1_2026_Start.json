@@ -1,0 +1,87 @@
+{
+  "notes": [],
+  "program_code": "7373",
+  "program_name": "Engineering Science",
+  "source_pdf": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Electrical_Engineering_-_ELECYS_-_T1_2026_Start.pdf",
+  "specialisation_code": "ELECYS",
+  "specialisation_name": "Electrical Engineering",
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Core",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Core",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Engineering Technical Management",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    }
+  ]
+}

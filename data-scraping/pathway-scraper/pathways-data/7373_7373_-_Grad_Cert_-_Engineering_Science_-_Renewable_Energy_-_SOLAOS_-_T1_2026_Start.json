@@ -1,0 +1,102 @@
+{
+  "notes": [],
+  "program_code": "7373",
+  "program_name": "Engineering Science",
+  "source_pdf": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Renewable_Energy_-_SOLAOS_-_T1_2026_Start.pdf",
+  "specialisation_code": "SOLAOS",
+  "specialisation_name": "Renewable Energy",
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC1111",
+                  "title": "Electrical Circuit Fundamentals"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "SOLA2060",
+                  "title": "Introduction to Electronic Devices"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "SOLA9001",
+                  "title": "Photovoltaics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Foundational Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Elective Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    }
+  ]
+}

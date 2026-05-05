@@ -1,0 +1,471 @@
+{
+  "notes": [],
+  "program_code": "3061",
+  "program_name": "Food Science (Honours)",
+  "source_pdf": "3061_3061_-_Food_Science_Honours_-_Food_Science_and_Technology_-_FOODJH_-_T3_2026_Start.pdf",
+  "specialisation_code": "FOODJH",
+  "specialisation_name": "Food Science and Technology",
+  "start_term": "T3 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "FOOD1130",
+                  "title": "Sustainable Food Product Manufacturing"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "PHYS1121",
+                  "title": ""
+                },
+                {
+                  "code": "PHYS1131",
+                  "title": ""
+                },
+                {
+                  "code": "PHYS1111",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH1131",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1141",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1031",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BABS1201",
+                  "title": "Molecules, Cells and Genes"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CHEM1811",
+                  "title": "Engineering Chemistry 1A"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH1041",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1231",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1241",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CHEM1821",
+                  "title": "Engineering Chemistry 1B"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM1811",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "FOOD1120",
+                  "title": "Food Science, Society and Sustainability"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BIOC2201",
+                  "title": "Principles of Molecular Biology (Advanced)"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM1811, BABS1201, CHEM1821",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CHEM2041",
+                  "title": "Analytical Chemistry: Essential Methods"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM1811, CHEM1821",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "FOOD2320",
+                  "title": "Food Microbiology"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 2
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CHEM2921",
+                  "title": "Food Chemistry"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM1811, CHEM1821",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ENGG1811",
+                  "title": "Computing for Engineers"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MICR2011",
+                  "title": "Microbiology 1"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "BABS1201",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "General Education",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Discipline Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "General Education",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 3
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "FOOD3010",
+                  "title": "Food Products and Ingredients Technology"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM2921, CHEM1821",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "FOOD3020",
+                  "title": "Food Properties and Functions Laboratory"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM2921, FOOD1120",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "FOOD3220",
+                  "title": "Nutrition"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "FOOD3030",
+                  "title": "Food Safety and Quality Assurance"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "FOOD2320, FOOD3010",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "FOOD3060",
+                  "title": "Food Processing Principles"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "FOOD3801",
+                  "title": "Unit Operations in Food Processing"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "FOOD3060, FOOD3010",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "FOOD4110",
+                  "title": "Advanced Food Chemistry"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CHEM2921",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CEIC4000",
+                  "title": ""
+                },
+                {
+                  "code": "PHCM3001",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Discipline Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 4
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CEIC4007",
+                  "title": "Product Design Project Thesis A"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "FOOD3010",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CEIC6711",
+                  "title": "Complex Fluids Microstructure and Rheology"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "FOOD3060, CHEM1821",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Discipline Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "CEIC4008",
+                  "title": "Product Design Project Thesis B"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "CEIC4007",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "CEIC6789",
+                  "title": "Data-driven Decision Making in Chemical Engineering and Food Science"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ENGG1811",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        }
+      ],
+      "year": 5
+    }
+  ]
+}

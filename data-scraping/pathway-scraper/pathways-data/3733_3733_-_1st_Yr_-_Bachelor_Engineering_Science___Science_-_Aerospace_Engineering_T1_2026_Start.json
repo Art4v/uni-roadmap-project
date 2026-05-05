@@ -1,0 +1,159 @@
+{
+  "notes": [],
+  "program_code": "3733",
+  "program_name": "Engineering Science / Science",
+  "source_pdf": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Aerospace_Engineering_T1_2026_Start.pdf",
+  "specialisation_code": null,
+  "specialisation_name": "Aerospace Engineering",
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "DESN1000",
+                  "title": "Introduction to Engineering Design and Innovation"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "SCIF0000",
+                  "title": "Introduction to University"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 0
+            },
+            {
+              "courses": [
+                {
+                  "code": "PHYS1121",
+                  "title": ""
+                },
+                {
+                  "code": "PHYS1131",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH1131",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1141",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MMAN1130",
+                  "title": "Design and Manufacturing"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH1231",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1241",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC1111",
+                  "title": "Electrical Circuit Fundamentals"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ENGG1300",
+                  "title": "Engineering Mechanics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "COMP1511",
+                  "title": ""
+                },
+                {
+                  "code": "COMP1911",
+                  "title": ""
+                },
+                {
+                  "code": "ENGG1811",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "notes": [],
+  "program_code": "3768",
+  "program_name": "Eng (Hons) / MBiomedE",
+  "source_pdf": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Telecommunications_-_TELEAH_-T1_2026_Start1.pdf",
+  "specialisation_code": "TELEAH",
+  "specialisation_name": "Telecommunications",
+  "start_term": "T1 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "DESN1000",
+                  "title": "Introduction to Engineering Design and Innovation"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ELEC1111",
+                  "title": "Electrical Circuit Fundamentals"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "MATH1131",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1141",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "PHYS1121",
+                  "title": ""
+                },
+                {
+                  "code": "PHYS1131",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Free Elective",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC2134",
+                  "title": "Circuits and Signals"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC1111",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "PHYS1231",
+                  "title": "Higher Physics 1B"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH1231",
+                  "title": ""
+                },
+                {
+                  "code": "MATH1241",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC2141",
+                  "title": "Digital Circuit Design"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "PHSL2121",
+                  "title": "Principles of Physiology A"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "DESN2000",
+                  "title": "Engineering Design and Professional Practice"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC2141, DESN1000, COMP1521",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ELEC2133",
+                  "title": "Analogue Electronics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC2134",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH2099",
+                  "title": "Mathematics 2B"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC3104",
+                  "title": "Digital Signal Processing"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC2134",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "MATH2069",
+                  "title": "Mathematics 2A"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 2
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC3106",
+                  "title": "Electronics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC2141, ELEC2133",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ELEC3115",
+                  "title": "Electromagnetic Engineering"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "PHYS1231, MATH2069",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "TELE3113",
+                  "title": "Analogue and Digital Communications"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC2134",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "COMP1521",
+                  "title": "Computer Systems Fundamentals"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ELEC3114",
+                  "title": "Control Systems"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC2134, MATH2099",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ELEC3117",
+                  "title": "Electrical Engineering Design"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC2133",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "TELE3118",
+                  "title": "Network Technologies"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "DESN2000",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Discipline (Depth) Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 3
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC4122",
+                  "title": "Strategic Leadership and Ethics"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Biomedical Engineering (Dual Mode)",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BIOM9332",
+                  "title": "Biocompatibility"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Biomedical Engineering Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Biomedical Engineering Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC4123",
+                  "title": "Electrical Design Proficiency"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "TELE3119",
+                  "title": "Trusted Networks"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "TELE3118, TELE3113",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Biomedical Engineering Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 4
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BIOM4951",
+                  "title": "Research Thesis A"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 4
+            },
+            {
+              "courses": [
+                {
+                  "code": "BIOM9410",
+                  "title": "Regulatory Requirements of Biomedical Technology"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Biomedical Engineering Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BIOM4952",
+                  "title": "Research Thesis B"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "BIOM4951",
+              "uoc": 4
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Discipline (Depth) Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Breadth Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "BIOM4953",
+                  "title": "Research Thesis C"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "BIOM4952",
+              "uoc": 4
+            },
+            {
+              "courses": [
+                {
+                  "code": "ENGG4999",
+                  "title": "Industrial Training"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 0
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Biomedical Engineering Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Biomedical Engineering Courses",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 5
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "notes": [],
+  "program_code": "7373",
+  "program_name": "Engineering Science",
+  "source_pdf": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Systems_and_Control_-_ELECET_-_T2_2026_Start.pdf",
+  "specialisation_code": "ELECET",
+  "specialisation_name": "Systems and Control",
+  "start_term": "T2 2026",
+  "years": [
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC3114",
+                  "title": "Control Systems"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ELEC4631",
+                  "title": "Continuous - Time Control System Design"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC3114",
+              "uoc": 6
+            },
+            {
+              "courses": [
+                {
+                  "code": "ELEC3104",
+                  "title": ""
+                },
+                {
+                  "code": "ELEC3115",
+                  "title": ""
+                },
+                {
+                  "code": "ELEC3117",
+                  "title": ""
+                }
+              ],
+              "kind": "choice",
+              "placeholder": null,
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 2
+        },
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC4632",
+                  "title": "Computer Control Systems"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC3114",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Engineering and Technical Management",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 3
+        }
+      ],
+      "year": 1
+    },
+    {
+      "terms": [
+        {
+          "courses": [
+            {
+              "courses": [
+                {
+                  "code": "ELEC4633",
+                  "title": "Real-Time Engineering"
+                }
+              ],
+              "kind": "course",
+              "placeholder": null,
+              "prerequisites_raw": "ELEC3114",
+              "uoc": 6
+            },
+            {
+              "courses": [],
+              "kind": "elective",
+              "placeholder": "Disciplinary Knowledge Electives",
+              "prerequisites_raw": "",
+              "uoc": 6
+            }
+          ],
+          "term": 1
+        }
+      ],
+      "year": 2
+    }
+  ]
+}

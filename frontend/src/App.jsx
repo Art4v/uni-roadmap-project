@@ -23,6 +23,11 @@ import {
 let __idSeq = 1;
 const newId = () => `c${__idSeq++}`;
 
+const CHAT_MIN_WIDTH = 320;
+const CHAT_MAX_WIDTH = 720;
+const CHAT_DEFAULT_WIDTH = 460;
+const clampChatWidth = (w) => Math.min(CHAT_MAX_WIDTH, Math.max(CHAT_MIN_WIDTH, w));
+
 // Build initial board state from Year 1 history only.
 function buildInitial() {
   const board = {};
@@ -203,6 +208,32 @@ export default function App() {
     }
   };
 
+  // ----- Chat sidebar resize -----
+  const [chatWidth, setChatWidth] = useState(CHAT_DEFAULT_WIDTH);
+  const [resizing, setResizing] = useState(false);
+
+  const onResizerDown = useCallback((e) => {
+    if (e.button !== 0) return;
+    e.preventDefault();
+    setResizing(true);
+  }, []);
+
+  useEffect(() => {
+    if (!resizing) return;
+    const move = (e) => setChatWidth(clampChatWidth(e.clientX));
+    const up = () => setResizing(false);
+    document.body.style.cursor = 'col-resize';
+    document.body.style.userSelect = 'none';
+    window.addEventListener('mousemove', move);
+    window.addEventListener('mouseup', up);
+    return () => {
+      window.removeEventListener('mousemove', move);
+      window.removeEventListener('mouseup', up);
+      document.body.style.cursor = '';
+      document.body.style.userSelect = '';
+    };
+  }, [resizing]);
+
   // ----- Drag & drop (custom, simple, smooth) -----
   const cellRefs = useRef({});
   const registerRef = useCallback((key, el) => {
@@ -315,7 +346,10 @@ export default function App() {
       {/* Body */}
       <div className="flex-1 min-h-0 flex">
         {/* Left pane — chat */}
-        <aside className="w-[36%] min-w-[420px] max-w-[520px] border-r border-zinc-200 bg-white flex flex-col">
+        <aside
+          style={{ width: chatWidth }}
+          className="shrink-0 bg-white flex flex-col"
+        >
           <div className="h-14 shrink-0 px-5 flex items-center gap-3 border-b border-zinc-100">
             <div className="relative">
               <div className="w-8 h-8 rounded-full bg-gradient-to-br from-zinc-900 to-zinc-700 text-white grid place-items-center">
@@ -387,6 +421,16 @@ export default function App() {
             </div>
           </div>
         </aside>
+
+        {/* Resizer */}
+        <div
+          onMouseDown={onResizerDown}
+          role="separator"
+          aria-orientation="vertical"
+          className="relative shrink-0 w-px bg-zinc-200 cursor-col-resize"
+        >
+          <div className="absolute inset-y-0 -left-1 -right-1" />
+        </div>
 
         {/* Right pane — board */}
         <main className="flex-1 min-w-0 overflow-y-auto scroll-thin">

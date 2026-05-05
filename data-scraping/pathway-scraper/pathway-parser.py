@@ -14,7 +14,7 @@ TABLE_HEADER = ("Course or Activity", "Prerequisites", "Credits")
 YEAR_TERM_RE = re.compile(r"^\s*Year\s+(\d+)\s+Term\s+(\d+)\s*$")
 COURSE_CODE_RE = re.compile(r"\b([A-Z]{4}\d{4})\b")
 PROGRAM_LINE_RE = re.compile(r"Program:\s*(.+?)\s*\[(\d{4})\]")
-START_TERM_RE = re.compile(r"\bT([1-3])\s+(\d{4})\s+Start\b")
+START_TERM_RE = re.compile(r"\bT([1-3])\s+(\d{4})(?:\s+Start)?\b")
 SPEC_CODE_RE = re.compile(r"\b([A-Z]{4,7}\d{0,2}H?)\b")
 
 
@@ -168,6 +168,19 @@ def iter_sections(pdf):
     return sections, notes
 
 
+def extract_title_line(lines):
+    """Join leading lines until the start-term marker appears; return that text."""
+    buf = []
+    for ln in lines:
+        buf.append(ln)
+        joined = " ".join(buf)
+        if START_TERM_RE.search(joined):
+            return joined
+        if len(buf) >= 4:
+            break
+    return " ".join(buf)
+
+
 def parse_metadata(pdf, source_name):
     """Pull program/spec/term metadata from the first page text."""
     page0 = pdf.pages[0]
@@ -187,31 +200,39 @@ def parse_metadata(pdf, source_name):
             program_code = m.group(2)
             break
 
-    header_blob = " ".join(lines[:4])
-    m = START_TERM_RE.search(header_blob)
+    title_line = extract_title_line(lines)
+    m = START_TERM_RE.search(title_line)
     if m:
         start_term = f"T{m.group(1)} {m.group(2)}"
 
     if not program_code:
-        m = re.search(r"\b(\d{4})\b", header_blob)
+        m = re.search(r"\b(\d{4})\b", title_line)
         if m:
             program_code = m.group(1)
 
-    parts = [p.strip() for p in header_blob.split(" - ")]
-    if start_term and len(parts) >= 2:
-        candidates = [p for p in parts if p and p != f"{start_term} Start"]
-        for p in reversed(candidates):
-            if SPEC_CODE_RE.fullmatch(p) and not p.isdigit():
-                specialisation_code = p
-                idx = candidates.index(p)
-                if idx > 0:
-                    specialisation_name = candidates[idx - 1]
-                break
+    title_no_term = START_TERM_RE.sub("", title_line).strip(" -")
+    parts = [p.strip() for p in title_no_term.split(" - ") if p.strip()]
+    parts = [p for p in parts if p != program_code]
 
-    if not specialisation_name and program_name:
-        for p in parts:
-            if p and p != program_name and not p.isdigit() and p != f"{start_term} Start" and p != specialisation_code:
-                if not re.match(r"^\d+", p) and "Bachelor" not in p and "Master" not in p and "Program:" not in p:
+    if parts:
+        last = parts[-1]
+        if SPEC_CODE_RE.fullmatch(last) and not last.isdigit() and last != program_code:
+            specialisation_code = last
+            if len(parts) >= 2:
+                specialisation_name = parts[-2]
+        else:
+            for p in parts:
+                if (
+                    p != program_code
+                    and not p.isdigit()
+                    and not re.match(r"^\d+(st|nd|rd|th)?\s", p)
+                    and "Bachelor" not in p
+                    and "Master" not in p
+                    and "Honours" not in p
+                    and not p.startswith("Grad ")
+                    and not p.startswith("Graduate ")
+                    and not p.startswith("Undergraduate ")
+                ):
                     specialisation_name = p
                     break
 

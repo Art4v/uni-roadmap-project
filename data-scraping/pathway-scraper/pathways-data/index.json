@@ -1,0 +1,4898 @@
+[
+  {
+    "file": "3061_3061_-_Food_Science_Honours_-_Food_Science_and_Technology_-_FOODJH_-_T1_2026_Start.json",
+    "program_code": "3061",
+    "program_name": "Food Science (Honours)",
+    "specialisation_code": "FOODJH",
+    "specialisation_name": "Food Science and Technology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3061_3061_-_Food_Science_Honours_-_Food_Science_and_Technology_-_FOODJH_-_T2_2026_Start.json",
+    "program_code": "3061",
+    "program_name": "Food Science (Honours)",
+    "specialisation_code": "FOODJH",
+    "specialisation_name": "Food Science and Technology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3061_3061_-_Food_Science_Honours_-_Food_Science_and_Technology_-_FOODJH_-_T3_2026_Start.json",
+    "program_code": "3061",
+    "program_name": "Food Science (Honours)",
+    "specialisation_code": "FOODJH",
+    "specialisation_name": "Food Science and Technology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3061_3061_-_Food_Science_Honours_-_Food_Science_and_Nutrition_-_FOODKH_-_T1_2026_Start.json",
+    "program_code": "3061",
+    "program_name": "Food Science (Honours)",
+    "specialisation_code": "FOODKH",
+    "specialisation_name": "Food Science and Nutrition",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3061_3061_-_Food_Science_Honours_-_Food_Science_and_Nutrition_-_FOODKH_-_T2_2026_Start.json",
+    "program_code": "3061",
+    "program_name": "Food Science (Honours)",
+    "specialisation_code": "FOODKH",
+    "specialisation_name": "Food Science and Nutrition",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3635_3635_-_Engineering_Civil_Eng_w_Arch_Honours_-_T1_2026_Start.json",
+    "program_code": "3635",
+    "program_name": "Eng (Civil w Arch) (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Photovoltaics_and_Solar_Energy_Eng-_SOLAAH_-_T1_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Photovoltaics & Solar Energy Eng- SOLAAH",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "flexible-engineering_1st_Yr_-_Bachelor_Engineering_Honours_-_3707_-_Flexible_Engineering_-_Group_2_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "flexible-engineering_1st_Yr_-_Bachelor_Engineering_Honours_-_3707_-_Flexible_Engineering_-_Group_5_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_1_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_3_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_4_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_6_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_7_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Photovoltaics_-_Solar_Energy_Eng-_SOLAAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Photovoltaics & Solar Energy Eng- SOLAAH",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "flexible-engineering_1st_Yr_-_Bachelor_Engineering_Honours_-_3707_-_Flexible_Engineering_-_Group_5_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_1_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_2_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_3_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_4_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_6_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_7_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Photovoltaics_and_Solar_Energy_Eng-_SOLAAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Photovoltaics & Solar Energy Eng- SOLAAH",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "flexible-engineering_1st_Yr_-_Bachelor_Engineering_Honours_-_3707_-_Flexible_Engineering_-_Group_5_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_1_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_2_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_3_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_4_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_6_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "flexible-engineering_3707_-_1st_Yr_-_Bachelor_Engineering_Honours_-_Flexible_Engineering_-_Group_7_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": null,
+    "specialisation_name": "Flexible Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Aerospace_Engineering_-_AEROAH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "AEROAH",
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Aerospace_Engineering_-_AEROAH_-_T2_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "AEROAH",
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Aerospace_Engineering_-_AEROAH_-_T3_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "AEROAH",
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Bioinformatics_Engineering_-_BINFAH_-_T1_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "BINFAH",
+    "specialisation_name": "Bioinformatics Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Bioinformatics_Engineering_-_BINFAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "BINFAH",
+    "specialisation_name": "Bioinformatics Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Bioinformatics_Engineering_-_BINFAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "BINFAH",
+    "specialisation_name": "Bioinformatics Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Biomedical_Engineering_-_BIOMMH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "BIOMMH",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Biomedical_Engineering_-_BIOMMH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "BIOMMH",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Biomedical_Engineering_-_BIOMMH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "BIOMMH",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Chemical_Engineering_-_CEICAH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Chemical_Engineering_-_CEICAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Chemical_Engineering_-_CEICAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707---bachelor-engineering-honours---chemical-product-engineering---ceicdh---t1-2026-start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CEICDH",
+    "specialisation_name": "Chemical Product Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707---bachelor-engineering-honours---chemical-product-engineering---ceicdh---t2-2026-start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CEICDH",
+    "specialisation_name": "Chemical Product Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707---bachelor-engineering-honours---chemical-product-engineering---ceicdh---t3-2026-start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CEICDH",
+    "specialisation_name": "Chemical Product Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Computer_Engineering_-_COMPBH_-_T1_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "COMPBH",
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Computer_Engineering_-_COMPBH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "COMPBH",
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Computer_Engineering_-_COMPBH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "COMPBH",
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Civil_Engineering_-_CVENAH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CVENAH",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Civil_Engineering_-_CVENAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CVENAH",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Civil_Engineering_-_CVENAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CVENAH",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Environmental_Engineering_-_CVENBH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CVENBH",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Environmental_Engineering_-_CVENBH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CVENBH",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Environmental_Engineering_-_CVENBH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "CVENBH",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Electrial_Engineering_-_ELECAH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ELECAH",
+    "specialisation_name": "Electrial Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Electrical_Engineering_-_ELECAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ELECAH",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Electrical_Engineering_-_ELECAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ELECAH",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Quantum_Engineering_-_ELECCH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ELECCH",
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Quantum_Engineering_-_ELECCH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ELECCH",
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Quantum_Engineering_-_ELECCH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ELECCH",
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Nuclear_Engineering_-_ENGGFH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ENGGFH",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Nuclear_Engineering_-_ENGGFH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ENGGFH",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Nuclear_Engineering_-_ENGGFH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "ENGGFH",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Surveying_-_GMATDH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "GMATDH",
+    "specialisation_name": "Surveying",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Surveying_-_GMATDH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "GMATDH",
+    "specialisation_name": "Surveying",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Surveying_-_GMATDH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "GMATDH",
+    "specialisation_name": "Surveying",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mechanical_-_Manufacturing_Eng_-_MANFBH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MANFBH",
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mechanical_and_Manufacturing_Eng_-_MANFBH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MANFBH",
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mechanical_and_Manufacturing_Eng_-_MANFBH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MANFBH",
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mechanical_Engineering_-_MECHAH_-_T1_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MECHAH",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mechanical_Engineering_-_MECHAH_-_T2_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MECHAH",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mechanical_Engineering_-_MECHAH_-_T3_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MECHAH",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Geoenergy_-_Geostorage_Eng_-_MEREAH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MEREAH",
+    "specialisation_name": "Geoenergy & Geostorage Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Geoenergy_-_Geostorage_Eng_-_MEREAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MEREAH",
+    "specialisation_name": "Geoenergy & Geostorage Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Geoenergy_-_Geostorage_Eng_-_MEREAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MEREAH",
+    "specialisation_name": "Geoenergy & Geostorage Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mining_Engineering_-_MINEAH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MINEAH",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mining_Engineering_-_MINEAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MINEAH",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Mining_Engineering_-_MINEAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MINEAH",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Robotics_and_Mechatronics_Eng_-_MTRNBH_-_T1_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MTRNBH",
+    "specialisation_name": "Robotics & Mechatronics Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Robotics_-_Mechatronics_Eng_-_MTRNBH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MTRNBH",
+    "specialisation_name": "Robotics & Mechatronics Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Robotics_-_Mechatronics_Eng_-_MTRNBH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "MTRNBH",
+    "specialisation_name": "Robotics & Mechatronics Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Software_Engineering_-_SENGAH_-_T1_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "SENGAH",
+    "specialisation_name": "Software Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Software_Engineering_-_SENGAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "SENGAH",
+    "specialisation_name": "Software Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Software_Engineering_-_SENGAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "SENGAH",
+    "specialisation_name": "Software Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Renewable_Energy_Engineering_-_SOLABH_-_T1_2026_Start1.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "SOLABH",
+    "specialisation_name": "Renewable Energy Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Renewable_Energy_Engineering_-_SOLABH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "SOLABH",
+    "specialisation_name": "Renewable Energy Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Renewable_Energy_Engineering_-_SOLABH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "SOLABH",
+    "specialisation_name": "Renewable Energy Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Telecommunications_Engineering_-_TELEAH_-_T1_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Telecommunications_Engineering_-_TELEAH_-_T2_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3707_3707_-_Bachelor_Engineering_Honours_-_Telecommunications_Engineering_-_TELEAH_-_T3_2026_Start.json",
+    "program_code": "3707",
+    "program_name": "Engineering (Honours)",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3732_3732_-_1st_Yr_-_Bachelor_Engineering_Science___Arts_-_Civil_Engineering_T1_2026_Start.json",
+    "program_code": "3732",
+    "program_name": "Engineering Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3732_3732_-_1st_Yr_-_Bachelor_of_Engineering_Science___Arts_-_T1_2026_Start.json",
+    "program_code": "3732",
+    "program_name": "Engineering Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3732_3732_-_1st_Yr_-_Bachelor_Engineering_Science___Arts_-_Civil_Engineering_T2_2026_Start.json",
+    "program_code": "3732",
+    "program_name": "Engineering Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3732_3732_-_1st_Yr_-_Bachelor_of_Engineering_Science___Arts_-_T2_2026_Start.json",
+    "program_code": "3732",
+    "program_name": "Engineering Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3732_3732_-_1st_Yr_-_Bachelor_Engineering_Science___Arts_-_Civil_Engineering_T3_2026_Start.json",
+    "program_code": "3732",
+    "program_name": "Engineering Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-Bachelor_Engineering_Science_Science_-_Robotics_and_Mechatronics_Engineering_T1_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Aerospace_Engineering_T1_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Computer_Engineering_T1_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Electrical_Engineering_T1_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_T1_2026_Start1.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-Bachelor_Engineering_Science_Science_-_Robotics_-_Mechatronics_Engineering_T2_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Aerospace_Engineering_T2_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Computer_Engineering_T2_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Electrical_Engineering_T2_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_T2_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-Bachelor_Engineering_Science_Science_-_Robotics_-_Mechatronics_Engineering_T3_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Aerospace_Engineering_T3_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Computer_Engineering_T3_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_Electrical_Engineering_T3_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3733_3733_-_1st_Yr_-_Bachelor_Engineering_Science___Science_-_T3_2026_Start.json",
+    "program_code": "3733",
+    "program_name": "Engineering Science / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr-Bachelor_Engineering_Science__Commerce_-_Robotics_and_Mechatronics_Engineering_T1_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Aerospace_Engineering_T1_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Civil_Engineering_T1_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Environmental_Engineering_T1_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Mechanical_-_Manufacturing_Eng_T1_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Quantum_Engineering_T1_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Software_Engineering_T1_2026_Start1.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Software Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_T1_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr-Bachelor_Engineering_Science__Commerce_-_Robotics_-_Mechatronics_Engineering_T2_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Aerospace_Engineering_T2_2026_Start1.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Civil_Engineering_T2_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Environmental_Engineering_T2_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Mechanical_and_Manufacturing_Eng_T2_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Quantum_Engineering_T2_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Software_Engineering_T2_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Software Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_T2_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr-Bachelor_Engineering_Science__Commerce_-_Robotics_-_Mechatronics_Engineering_T3_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Aerospace_Engineering_T3_2026_Start1.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Civil_Engineering_T3_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Environmental_Engineering_T3_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Mechanical_and_Manufacturing_Eng_T3_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Quantum_Engineering_T3_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_Software_Engineering_T3_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Software Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3734_3734_-_1st_Yr_-_Bachelor_Engineering_Science___Commerce_-_T3_2026_Start.json",
+    "program_code": "3734",
+    "program_name": "Engineering Science / Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3736_3736_-_Bachelor_Engineering_Honours___Master_Engineering_Electrical_Engineering_-_T1_2026_Start.json",
+    "program_code": "3736",
+    "program_name": "BE (Hons) ME Elec Eng",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3736_3736_-_Bachelor_Engineering_Honours___Master_Engineering_Electrical_Engineering_-_T3_2026_Start.json",
+    "program_code": "3736",
+    "program_name": "BE (Hons) ME Elec Eng",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3738_3738_-_1st_Yr_-_Engineering_Science___Computer_Science_-_T1_2026_Start.json",
+    "program_code": "3738",
+    "program_name": "Engineering Science / CompSc",
+    "specialisation_code": null,
+    "specialisation_name": "Engineering Science / Computer Science 3738",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3738_3738_-_1st_Yr_-_Engineering_Science___Computer_Science_-_T2_2026_Start.json",
+    "program_code": "3738",
+    "program_name": "Engineering Science / CompSc",
+    "specialisation_code": null,
+    "specialisation_name": "Engineering Science / Computer Science 3738",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3738_3738_-_1st_Yr_-_Engineering_Science___Computer_Science_-_T3_2026_Start.json",
+    "program_code": "3738",
+    "program_name": "Engineering Science / CompSc",
+    "specialisation_code": null,
+    "specialisation_name": "Engineering Science / Computer Science 3738",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Aerospace_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Biomedical_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Chemical_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Chemical_Product_Engineering_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Chemical Product Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Civil_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Computer_Engineering_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Electrical_Engineering_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Environmental_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Mechanical_Engineering_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Mining_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mining",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Nuclear_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Quantum_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Renewable_Energy_Engineering_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Renewable Energy Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Software_Engineering_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Software Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Surveying_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Surveying",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Telecommunications_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Telecommunications",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons__Commerce_-_Geoenergy_-_Geostorage_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons__Commerce_-_Robotics_and_Mechatronics_Engineering_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons___Commerce_-_Bioinformatics_Engineering_T1_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Bioinformatics Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons___Commerce_-_Mechanical_-_Manufacturing_Eng_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons___Commerce_-_Photovoltaics_and_Solar_Energy_T1_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Photovoltaics & Solar Energy",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours__Commerce_-_Bioinformatics_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Bioinformatics Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Aerospace_Engineering_T3_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Aerospace Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Biomedical_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Chemical_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Chemical_Product_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Chemical Product Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Civil_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Computer_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Electrical_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Environmental_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Mechanical_Engineering_T3_2026_Start1.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Mining_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mining",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Nuclear_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Quantum_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Renewable_Energy_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Renewable Energy Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Software_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Software Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Surveying_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Surveying",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Honours___Commerce_-_Telecommunications_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Telecommunications",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons__Commerce_-_Geoenergy_-_Geostorage_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons__Commerce_-_Robotics_-_Mechatronics_Engineering_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons___Commerce_-_Mechanical_and_Manufacturing_Eng_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical & Manufacturing Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3764_3764_-_1st_Yr_-_Bachelor_Engineering_Hons___Commerce_-_Photovoltaics_and_Solar_Energy_T3_2026_Start.json",
+    "program_code": "3764",
+    "program_name": "Engineering (Hons)/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Photovoltaics & Solar Energy",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3767_3767_-_1st_Yr_-_Bachelor_Engineering_Honours___Science_-_T1_2026_Start.json",
+    "program_code": "3767",
+    "program_name": "Engineering (Hons) / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3767_3767_-_1st_Yr_-_Bachelor_Engineering_Honours___Science_-_T3_2026_Start.json",
+    "program_code": "3767",
+    "program_name": "Engineering (Hons) / Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Bioinformatics_Eng_-_BINFAH_-_T2_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Bioinformatics Eng",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Bioinformatics_Eng_-_BINFAH_-_T3_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Bioinformatics Eng",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T1_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Chemical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T2_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Chemical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T3_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Chemical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T1_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T2_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T3_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T1_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T2_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T3_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T1_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T2_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T3_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": null
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Robotics_and_Mechatronic_Eng-MTRNBH-T1_2026_Start.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_-Robotics_-_Mechatronic_Eng-MTRNBH-T2_2026_Start.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_-Robotics_-_Mechatronic_Eng-MTRNBH-T3_2026_Start.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Bioinformatics_Eng_-_BINFAH_-_T1_2026_Start1.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "BINFAH",
+    "specialisation_name": "Bioinformatics Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Software_Engineering_-_SENGAH_-T1_2026_Start1.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "SENGAH",
+    "specialisation_name": "Software Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Software_Engineering_-_SENGAH_-T2_2026_Start.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "SENGAH",
+    "specialisation_name": "Software Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Software_Engineering_-_SENGAH_-T3_2026_Start.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "SENGAH",
+    "specialisation_name": "Software Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Telecommunications_-_TELEAH_-T1_2026_Start1.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Telecommunications_-_TELEAH_-T2_2026_Start1.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Telecommunications_-_TELEAH_-T3_2026_Start.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3773_3773_-_1st_Yr_-_Engineering_Honours___Engineering_Science_-_T1_2026_Start.json",
+    "program_code": "3773",
+    "program_name": "Eng (Hons) / Eng Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3773_3773_-_1st_Yr_-_Engineering_Honours___Engineering_Science_-_T2_2026_Start.json",
+    "program_code": "3773",
+    "program_name": "Eng (Hons) / Eng Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3773_3773_-_1st_Yr_-_Engineering_Honours___Engineering_Science_-_T3_2026_Start.json",
+    "program_code": "3773",
+    "program_name": "Eng (Hons) / Eng Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3776_3776_-_Engineering_Honours___Surveying_-_T1_2026_Start.json",
+    "program_code": "3776",
+    "program_name": "Engineering (Hons) / Surveying",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3776_3776_-_Engineering_Honours___Surveying_-_T2_2026_Start.json",
+    "program_code": "3776",
+    "program_name": "Engineering (Hons) / Surveying",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3776_3776_-_Engineering_Honours___Surveying_-_T3_2026_Start.json",
+    "program_code": "3776",
+    "program_name": "Engineering (Hons) / Surveying",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3777_3777_-_Bachelor_-_Cyber_Security_Sydney_-_T1_2026_Start.json",
+    "program_code": "3777",
+    "program_name": "Cyber Security (Sydney)",
+    "specialisation_code": null,
+    "specialisation_name": "Cyber Security (Sydney)",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Computer_Science_-_COMPA1_-_T1_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPA1",
+    "specialisation_name": "Computer Science",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Computer_Science_-_COMPA1_-_T2_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPA1",
+    "specialisation_name": "Computer Science",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Computer_Science_-_COMPA1_-_T3_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPA1",
+    "specialisation_name": "Computer Science",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Database_Systems_-_COMPD1_-_T1_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPD1",
+    "specialisation_name": "Database Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Database_Systems_-_COMPD1_-_T2_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPD1",
+    "specialisation_name": "Database Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Database_Systems_-_COMPD1_-_T3_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPD1",
+    "specialisation_name": "Database Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Artificial_Intelligence_-_COMPI1_-_T1_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPI1",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Artificial_Intelligence_-_COMPI1_-_T2_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPI1",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Artificial_Intelligence_-_COMPI1_-_T3_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPI1",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Programming_Languages_-_COMPJ1_-_T1_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPJ1",
+    "specialisation_name": "Programming Languages",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Programming_Languages_-_COMPJ1_-_T2_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPJ1",
+    "specialisation_name": "Programming Languages",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Programming_Languages_-_COMPJ1_-_T3_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPJ1",
+    "specialisation_name": "Programming Languages",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Computer_Networks_-_COMPN1_-_T1_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPN1",
+    "specialisation_name": "Computer Networks",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Computer_Networks_-_COMPN1_-_T2_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPN1",
+    "specialisation_name": "Computer Networks",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Computer_Networks_-_COMPN1_-_T3_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPN1",
+    "specialisation_name": "Computer Networks",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Embedded_Systems_-_COMPS1_-_T1_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPS1",
+    "specialisation_name": "Embedded Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Embedded_Systems_-_COMPS1_-_T2_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPS1",
+    "specialisation_name": "Embedded Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Embedded_Systems_-_COMPS1_-_T3_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPS1",
+    "specialisation_name": "Embedded Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Security_Engineering_-_COMPY1_-_T1_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPY1",
+    "specialisation_name": "Security Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Security_Engineering_-_COMPY1_-_T2_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPY1",
+    "specialisation_name": "Security Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3778_3778_-_Bachelor_Computer_Science_-_Security_Engineering_-_COMPY1_-_T3_2026_Start.json",
+    "program_code": "3778",
+    "program_name": "Computer Science",
+    "specialisation_code": "COMPY1",
+    "specialisation_name": "Security Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Computer_Science_-_COMPCH_-_T1_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPCH",
+    "specialisation_name": "Computer Science",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Computer_Science_-_COMPCH_-_T2_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPCH",
+    "specialisation_name": "Computer Science",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Computer_Science_-_COMPCH_-_T3_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPCH",
+    "specialisation_name": "Computer Science",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Artificial_Intelligence_-_COMPIH_-_T1_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPIH",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Artificial_Intelligence_-_COMPIH_-_T2_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPIH",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Artificial_Intelligence_-_COMPIH_-_T3_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPIH",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Security_Engineering_-_COMPYH_-_T1_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPYH",
+    "specialisation_name": "Security Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Security_Engineering_-_COMPYH_-_T2_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPYH",
+    "specialisation_name": "Security Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3779_3779_-_Bachelor_Advanced_Computer_Science_Honours_-_Security_Engineering_-_COMPYH_-_T3_2026_Start.json",
+    "program_code": "3779",
+    "program_name": "Adv Computer Science (Honours)",
+    "specialisation_code": "COMPYH",
+    "specialisation_name": "Security Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3783_3783_-_1st_Yr_-_Bachelor_Computer_Science___Arts_-_T1_2026_Start.json",
+    "program_code": "3783",
+    "program_name": "Computer Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3783_3783_-_1st_Yr_-_Bachelor_Computer_Science___Arts_-_T2_2026_Start.json",
+    "program_code": "3783",
+    "program_name": "Computer Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3783_3783_-_1st_Yr_-_Bachelor_Computer_Science___Arts_-_T3_2026_Start.json",
+    "program_code": "3783",
+    "program_name": "Computer Science / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_1st_Yr_-Bachelor_Engineering_Honours___Computer_Science_-_Nuclear_Eng-_ENGGFH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Nuclear Eng- ENGGFH",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_1st_Yr_-Bachelor_Engineering_Hons___Computer_Science_-_Biomedical_Eng-_BIOMMH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Biomedical Eng- BIOMMH",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours__Computer_Science_-_Mechanical_Engineering-_MECHAH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering- MECHAH",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Geoenergy_-_Geostorage_Eng_-MEREAH-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Photovoltaics_-_Solar_Energy-_SOLAAH-T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Robotics_-_Mechatronics_Eng-_MTRNBH-T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Electrical_Engineering_-ELECAH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering -ELECAH",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_1st_Yr_-Bachelor_Engineering_Honours___Computer_Science_-_Nuclear_Eng-_ENGGFH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Nuclear Eng- ENGGFH",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_1st_Yr_-Bachelor_Engineering_Hons___Computer_Science_-_Biomedical_Eng-_BIOMMH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Biomedical Eng- BIOMMH",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours__Computer_Science_-_Mechanical_Engineering-_MECHAH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering- MECHAH",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Geoenergy_-_Geostorage_Eng_-MEREAH-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Photovoltaics_-_Solar_Energy-_SOLAAH-T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Robotics_-_Mechatronics_Eng-_MTRNBH-T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Electrical_Engineering_-ELECAH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering -ELECAH",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_1st_Yr_-Bachelor_Engineering_Honours___Computer_Science_-_Nuclear_Eng-_ENGGFH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Nuclear Eng- ENGGFH",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_1st_Yr_-Bachelor_Engineering_Hons___Computer_Science_-_Biomedical_Eng-_BIOMMH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Biomedical Eng- BIOMMH",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours__Computer_Science_-_Mechanical_Engineering-_MECHAH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Mechanical Engineering- MECHAH",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Geoenergy_-_Geostorage_Eng_-MEREAH-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Photovoltaics_-_Solar_Energy-_SOLAAH-T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Robotics_-_Mechatronics_Eng-_MTRNBH-T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Electrical_Engineering_-ELECAH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": null,
+    "specialisation_name": "Electrical Engineering -ELECAH",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Aerospace_Eng_-_AEROAH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "AEROAH",
+    "specialisation_name": "Aerospace Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Aerospace_Eng_-_AEROAH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "AEROAH",
+    "specialisation_name": "Aerospace Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Aerospace_Eng_-_AEROAH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "AEROAH",
+    "specialisation_name": "Aerospace Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Chemical_Eng_-_CEICAH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Chemical_Eng_-_CEICAH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Chemical_Eng_-_CEICAH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Chemical_Product_Eng_-_CEICDH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CEICDH",
+    "specialisation_name": "Chemical Product Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Chemical_Product_Eng_-_CEICDH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CEICDH",
+    "specialisation_name": "Chemical Product Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Chemical_Product_Eng_-_CEICDH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CEICDH",
+    "specialisation_name": "Chemical Product Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Civil_Engineering_-_CVENAH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CVENAH",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Civil_Engineering_-_CVENAH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CVENAH",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Civil_Engineering_-_CVENAH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CVENAH",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Envrionmental_Eng_-_CVENBH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CVENBH",
+    "specialisation_name": "Envrionmental Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Envrionmental_Eng_-_CVENBH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CVENBH",
+    "specialisation_name": "Envrionmental Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Envrionmental_Eng_-_CVENBH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "CVENBH",
+    "specialisation_name": "Envrionmental Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours__Computer_Science_-_Quantum_Engineering_-_ELECCH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "ELECCH",
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours__Computer_Science_-_Quantum_Engineering_-_ELECCH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "ELECCH",
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours__Computer_Science_-_Quantum_Engineering_-_ELECCH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "ELECCH",
+    "specialisation_name": "Quantum Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Surveying_-_GMATDH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "GMATDH",
+    "specialisation_name": "Surveying",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Surveying_-_GMATDH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "GMATDH",
+    "specialisation_name": "Surveying",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Surveying_-_GMATDH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "GMATDH",
+    "specialisation_name": "Surveying",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Mech_-_Manufacturing_Eng_-_MANFBH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "MANFBH",
+    "specialisation_name": "Bachelor Engineering (Hons)/Computer Science 3785 -Mech & Manufacturing Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Mech_-_Manufacturing_Eng_-_MANFBH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "MANFBH",
+    "specialisation_name": "Bachelor Engineering (Hons)/Computer Science 3785 -Mech & Manufacturing Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons__Computer_Science_-_Mech_-_Manufacturing_Eng_-_MANFBH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "MANFBH",
+    "specialisation_name": "Bachelor Engineering (Hons)/Computer Science 3785 -Mech & Manufacturing Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Mining_Engineering_-_MINEAH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "MINEAH",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Mining_Engineering_-_MINEAH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "MINEAH",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Honours___Computer_Science_-_Mining_Engineering_-_MINEAH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "MINEAH",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Renewable_Energy_Eng_-_SOLABH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "SOLABH",
+    "specialisation_name": "Renewable Energy Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Renewable_Energy_Eng_-_SOLABH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "SOLABH",
+    "specialisation_name": "Renewable Energy Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Renewable_Energy_Eng_-_SOLABH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "SOLABH",
+    "specialisation_name": "Renewable Energy Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Telecommunications_-_TELEAH_-_T1_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Telecommunications_-_TELEAH_-_T2_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3785_3785_-_Bachelor_Engineering_Hons___Computer_Science_-_Telecommunications_-_TELEAH_-_T3_2026_Start.json",
+    "program_code": "3785",
+    "program_name": "Engineering (Hons) / Comp Sci",
+    "specialisation_code": "TELEAH",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3789_3789_-_1st_Yr_-_Bachelor_Science___Computer_Science_-_T1_2026_Start.json",
+    "program_code": "3789",
+    "program_name": "Science / Computer Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3789_3789_-_1st_Yr_-_Bachelor_Science___Computer_Science_-_T2_2026_Start.json",
+    "program_code": "3789",
+    "program_name": "Science / Computer Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3789_3789_-_1st_Yr_-_Bachelor_Science___Computer_Science_-_T3_2026_Start.json",
+    "program_code": "3789",
+    "program_name": "Science / Computer Science",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3792_3792_-_1st_Yr_-_Bachelor_Computer_Science___Fine_Arts_-_T1_2026_Start.json",
+    "program_code": "3792",
+    "program_name": "Computer Science/Fine Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3792_3792_-_1st_Yr_-_Bachelor_Computer_Science___Fine_Arts_-_T2_2026_Start.json",
+    "program_code": "3792",
+    "program_name": "Computer Science/Fine Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3792_3792_-_1st_Yr_-_Bachelor_Computer_Science___Fine_Arts_-_T3_2026_Start.json",
+    "program_code": "3792",
+    "program_name": "Computer Science/Fine Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3793_3793_-_1st_Yr_-_Bachelor_of_Fine_Arts___Engineering_Honours_-_T1_2026_Start.json",
+    "program_code": "3793",
+    "program_name": "Fine Arts/Engineering (Hons)",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3793_3793_-_1st_Yr_-_Bachelor_of_Fine_Arts___Engineering_Honours_-_T2_2026_Start.json",
+    "program_code": "3793",
+    "program_name": "Fine Arts/Engineering (Hons)",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3793_3793_-_1st_Yr_-_Bachelor_of_Fine_Arts___Engineering_Honours_-_T3_2026_Start.json",
+    "program_code": "3793",
+    "program_name": "Fine Arts/Engineering (Hons)",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3961_3961_-_1st_Yr_-_Bachelor_of_Engineering_Honours___Arts_-_T1_2026_Start.json",
+    "program_code": "3961",
+    "program_name": "Engineering (Honours) / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3961_3961_-_1st_Yr_-_Bachelor_of_Engineering_Honours___Arts_-_T2_2026_Start.json",
+    "program_code": "3961",
+    "program_name": "Engineering (Honours) / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3961_3961_-_1st_Yr_-_Bachelor_of_Engineering_Honours___Arts_-_T3_2026_Start.json",
+    "program_code": "3961",
+    "program_name": "Engineering (Honours) / Arts",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "4515_4515_-_Computer_Science_-_Engineering_Honours_-_Computational_Biology_-_BINFBH_-_T1_2026_Start.json",
+    "program_code": "4515",
+    "program_name": "Comp Sci & Eng (Honours)",
+    "specialisation_code": "BINFBH",
+    "specialisation_name": "Computational Biology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "4515_4515_-_Computer_Science_-_Engineering_Honours_-_Computational_Biology_-_BINFBH_-_T2_2026_Start.json",
+    "program_code": "4515",
+    "program_name": "Comp Sci & Eng (Honours)",
+    "specialisation_code": "BINFBH",
+    "specialisation_name": "Computational Biology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "4515_4515_-_Computer_Science_-_Engineering_Honours_-_Computational_Biology_-_BINFBH_-_T3_2026_Start.json",
+    "program_code": "4515",
+    "program_name": "Comp Sci & Eng (Honours)",
+    "specialisation_code": "BINFBH",
+    "specialisation_name": "Computational Biology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "4515_4515_-_Computer_Science_-_Engineering_Honours_-_Computer_Science_-_COMPAH_-_T1_2026_Start.json",
+    "program_code": "4515",
+    "program_name": "Comp Sci & Eng (Honours)",
+    "specialisation_code": "COMPAH",
+    "specialisation_name": "Computer Science",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "4515_4515_-_Computer_Science_-_Engineering_Honours_-_Computer_Science_-_COMPAH_-_T2_2026_Start.json",
+    "program_code": "4515",
+    "program_name": "Comp Sci & Eng (Honours)",
+    "specialisation_code": "COMPAH",
+    "specialisation_name": "Computer Science",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "4515_4515_-_Computer_Science_-_Engineering_Honours_-_Computer_Science_-_COMPAH_-_T3_2026_Start.json",
+    "program_code": "4515",
+    "program_name": "Comp Sci & Eng (Honours)",
+    "specialisation_code": "COMPAH",
+    "specialisation_name": "Computer Science",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5036_5036_-_Grad_Dip_in_Food_Science_-_Food_Science_-_FOODTS_-_T1_2026_Start.json",
+    "program_code": "5036",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODTS",
+    "specialisation_name": "Food Science",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5036_5036_-_Grad_Dip_in_Food_Science_-_Food_Science_-_FOODTS_-_T2_2026_Start.json",
+    "program_code": "5036",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODTS",
+    "specialisation_name": "Food Science",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5036_5036_-_Grad_Dip_in_Food_Science_-_Food_Science_-_FOODTS_-_T3_2026_Start.json",
+    "program_code": "5036",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODTS",
+    "specialisation_name": "Food Science",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5046_5046_-_Grad_Dip_in_Mine_Ventilation_-_T2_2026_Start.json",
+    "program_code": "5046",
+    "program_name": "Mine Ventilation",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5059_5059_-_Mine_Geotechnical_Engineering_-_T1_2026_Start.json",
+    "program_code": "5059",
+    "program_name": "Mine Geotechnical Engineering",
+    "specialisation_code": null,
+    "specialisation_name": "Mine Geotechnical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5335_5335_-_Graduate_Diploma_-_Mining_Engineering_-_T1_2026_Start.json",
+    "program_code": "5335",
+    "program_name": "Mining Engineering",
+    "specialisation_code": null,
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5335_5335_-_Graduate_Diploma_-_Mining_Engineering_-_T3_2026_Start.json",
+    "program_code": "5335",
+    "program_name": "Mining Engineering",
+    "specialisation_code": null,
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Photovoltaics_and_Solar_Energy-_SOLAKS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": null,
+    "specialisation_name": "Engineering Science",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Photovoltaics_and_Solar_Energy-_SOLAKS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": null,
+    "specialisation_name": "Engineering Science",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Photovoltaics_and_Solar_Energy-_SOLAKS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": null,
+    "specialisation_name": "Engineering Science",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Biomedical_Engineering_-_BIOMGS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMGS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Biomedical_Engineering_-_BIOMGS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMGS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Biomedical_Engineering_-_BIOMGS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMGS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Chemical_Engineering_-_CEICLS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICLS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Chemical_Engineering_-_CEICLS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICLS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Chemical_Engineering_-_CEICLS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICLS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Project_Management_-_CVENFS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENFS",
+    "specialisation_name": "Project Management",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Project_Management_-_CVENFS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENFS",
+    "specialisation_name": "Project Management",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Project_Management_-_CVENFS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENFS",
+    "specialisation_name": "Project Management",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Water_Eng__Catchments_to_Coasts_-_CVENIS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENIS",
+    "specialisation_name": "Water Eng: Catchments to Coasts",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Water_Eng__Catchments_to_Coasts_-_CVENIS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENIS",
+    "specialisation_name": "Water Eng: Catchments to Coasts",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Water_Eng__Catchments_to_Coasts_-_CVENIS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENIS",
+    "specialisation_name": "Water Eng: Catchments to Coasts",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Transport_Engineering_-_CVENJS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENJS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Transport_Engineering_-_CVENJS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENJS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Transport_Engineering_-_CVENJS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENJS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Structural_Engineering_-_CVENMS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENMS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Structural_Engineering_-_CVENMS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENMS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Structural_Engineering_-_CVENMS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENMS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Environmental_Engineering_-_CVENRS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENRS",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Environmental_Engineering_-_CVENRS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENRS",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Environmental_Engineering_-_CVENRS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENRS",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Geo_Eng_and_Eng_Geology_-_CVENUT_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENUT",
+    "specialisation_name": "Geo Eng and Eng Geology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Geo_Eng_and_Eng_Geology_-_CVENUT_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENUT",
+    "specialisation_name": "Geo Eng and Eng Geology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Geo_Eng_and_Eng_Geology_-_CVENUT_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENUT",
+    "specialisation_name": "Geo Eng and Eng Geology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Water_Wastewater_and_Waste_Eng_-_CVENVS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENVS",
+    "specialisation_name": "Water, Wastewater and Waste Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Water_Wastewater_and_Waste_Eng_-_CVENVS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENVS",
+    "specialisation_name": "Water, Wastewater and Waste Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Water_Wastewater_and_Waste_Eng_-_CVENVS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENVS",
+    "specialisation_name": "Water, Wastewater and Waste Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Civil_Engineering_-_CVENYT_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENYT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Civil_Engineering_-_CVENYT_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENYT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Civil_Engineering_-_CVENYT_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENYT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Energy_Systems_-_ELECAT_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECAT",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Energy_Systems_-_ELECAT_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECAT",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Energy_Systems_-_ELECAT_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECAT",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Systems_and_Control_-_ELECDT_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECDT",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Systems_and_Control_-_ELECDT_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECDT",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Systems_and_Control_-_ELECDT_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECDT",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Space_Systems_Engineering_-_ELECGT_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECGT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Space_Systems_Engineering_-_ELECGT_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECGT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Space_Systems_Engineering_-_ELECGT_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECGT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Electrical_Engineering_-_ELECXS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECXS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Electrical_Engineering_-_ELECXS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECXS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Electrical_Engineering_-_ELECXS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECXS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Sustainable_Systems_-_ENGGDS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGDS",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Sustainable_Systems_-_ENGGDS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGDS",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Sustainable_Systems_-_ENGGDS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGDS",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Nuclear_Engineering_-_ENGGGS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGGS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Nuclear_Engineering_-_ENGGGS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGGS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Nuclear_Engineering_-_ENGGGS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGGS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Food_Process_Engineering_-_FOODQS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODQS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Food_Process_Engineering_-_FOODQS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODQS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Food_Process_Engineering_-_FOODQS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODQS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Mech_and_Advanced_Manufacturing_Eng_-_MECHKS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHKS",
+    "specialisation_name": "Mech and Advanced Manufacturing Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Mech_and_Advanced_Manufacturing_Eng_-_MECHKS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHKS",
+    "specialisation_name": "Mech and Advanced Manufacturing Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Mech_and_Advanced_Manufacturing_Eng_-_MECHKS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHKS",
+    "specialisation_name": "Mech and Advanced Manufacturing Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Geoenergy_and_Geostorage_Eng_-_MEREBS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MEREBS",
+    "specialisation_name": "Geoenergy and Geostorage Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Geoenergy_and_Geostorage_Eng_-_MEREBS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MEREBS",
+    "specialisation_name": "Geoenergy and Geostorage Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Geoenergy_and_Geostorage_Eng_-_MEREBS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MEREBS",
+    "specialisation_name": "Geoenergy and Geostorage Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Robotics_-_MTRNGS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNGS",
+    "specialisation_name": "Robotics",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Robotics_-_MTRNGS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNGS",
+    "specialisation_name": "Robotics",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Robotics_-_MTRNGS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNGS",
+    "specialisation_name": "Robotics",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Renewable_Energy_-_SOLANS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLANS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Renewable_Energy_-_SOLANS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLANS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Renewable_Energy_-_SOLANS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLANS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Telecommunications_-_TELEFS_-_T1_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEFS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Telecommunications_-_TELEFS_-_T2_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEFS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5373_5373_-_Grad_Dip_-_Engineering_Science_-_Telecommunications_-_TELEFS_-_T3_2026_Start.json",
+    "program_code": "5373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEFS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Artificial_Intelligence_-_COMPRS_-_T1_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPRS",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Artificial_Intelligence_-_COMPRS_-_T2_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPRS",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Artificial_Intelligence_-_COMPRS_-_T3_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPRS",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Information_Technology_-_COMPTS_-_T1_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPTS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Information_Technology_-_COMPTS_-_T2_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPTS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Information_Technology_-_COMPTS_-_T3_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPTS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Database_Systems_-_COMPUS_-_T1_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPUS",
+    "specialisation_name": "Database Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Database_Systems_-_COMPUS_-_T2_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPUS",
+    "specialisation_name": "Database Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Database_Systems_-_COMPUS_-_T3_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPUS",
+    "specialisation_name": "Database Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Internetworking_-_COMPVS_-_T1_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPVS",
+    "specialisation_name": "Internetworking",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Internetworking_-_COMPVS_-_T2_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPVS",
+    "specialisation_name": "Internetworking",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Internetworking_-_COMPVS_-_T3_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPVS",
+    "specialisation_name": "Internetworking",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Cyber_Security_Engineering_-_COMPYS_-_T1_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPYS",
+    "specialisation_name": "Cyber Security Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Cyber_Security_Engineering_-_COMPYS_-_T2_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPYS",
+    "specialisation_name": "Cyber Security Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "5546_5546_-_Grad_Dip_-_Information_Technology_-_Cyber_Security_Engineering_-_COMPYS_-_T3_2026_Start.json",
+    "program_code": "5546",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPYS",
+    "specialisation_name": "Cyber Security Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7021_7021_-_Undergraduate_Certificate_in_Engineering_-_T1_2026_Start.json",
+    "program_code": "7021",
+    "program_name": "Engineering",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7021_7021_-_Undergraduate_Certificate_in_Engineering_-_T2_2026_Start.json",
+    "program_code": "7021",
+    "program_name": "Engineering",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7021_7021_-_Undergraduate_Certificate_in_Engineering_-_T3_2026_Start.json",
+    "program_code": "7021",
+    "program_name": "Engineering",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7022_7022_-_Computer_Science_-_T1_2026_Start.json",
+    "program_code": "7022",
+    "program_name": "Computer Science",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Science",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7022_7022_-_Computer_Science_-_T2_2026_Start.json",
+    "program_code": "7022",
+    "program_name": "Computer Science",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Science",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7022_7022_-_Computer_Science_-_T3_2026_Start.json",
+    "program_code": "7022",
+    "program_name": "Computer Science",
+    "specialisation_code": null,
+    "specialisation_name": "Computer Science",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7037_7037_-_Grad_Cert_-_Food_Science_-_Food_Science_-_FOODUS_-_T1_2026_Start.json",
+    "program_code": "7037",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODUS",
+    "specialisation_name": "Food Science",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7037_7037_-_Grad_Cert_-_Food_Science_-_Food_Science_-_FOODUS_-_T2_2026_Start.json",
+    "program_code": "7037",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODUS",
+    "specialisation_name": "Food Science",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7037_7037_-_Grad_Cert_-_Food_Science_-_Food_Science_-_FOODUS_-_T3_2026_Start.json",
+    "program_code": "7037",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODUS",
+    "specialisation_name": "Food Science",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7335_7335_-_Grad_Cert_in_Mining_Engineering_-_T1_2026_Start.json",
+    "program_code": "7335",
+    "program_name": "Mining Engineering",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7335_7335_-_Grad_Cert_in_Mining_Engineering_-_T3_2026_Start.json",
+    "program_code": "7335",
+    "program_name": "Mining Engineering",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Biomedical_Engineering_-_BIOMHS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMHS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Biomedical_Engineering_-_BIOMHS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMHS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Biomedical_Engineering_-_BIOMHS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMHS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Chemical_Engineering_-_CEICOS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICOS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Chemical_Engineering_-_CEICOS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICOS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Chemical_Engineering_-_CEICOS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICOS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Project_Management_-_CVENGS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENGS",
+    "specialisation_name": "Project Management",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Project_Management_-_CVENGS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENGS",
+    "specialisation_name": "Project Management",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Project_Management_-_CVENGS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENGS",
+    "specialisation_name": "Project Management",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Transport_Engineering_-_CVENKS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENKS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Transport_Engineering_-_CVENKS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENKS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Transport_Engineering_-_CVENKS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENKS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Structural_Engineering_-_CVENNS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENNS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Structural_Engineering_-_CVENNS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENNS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Structural_Engineering_-_CVENNS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENNS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Environmental_Engineering_-_CVENQT_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENQT",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Environmental_Engineering_-_CVENQT_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENQT",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Environmental_Engineering_-_CVENQT_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENQT",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_-Water_Eng__Catchments_to_Coasts_-_CVENSS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENSS",
+    "specialisation_name": "7373 -Water Eng: Catchments to Coasts",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_-Water_Eng__Catchments_to_Coasts_-_CVENSS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENSS",
+    "specialisation_name": "7373 -Water Eng: Catchments to Coasts",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_-Water_Eng__Catchments_to_Coasts_-_CVENSS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENSS",
+    "specialisation_name": "7373 -Water Eng: Catchments to Coasts",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_-Water_Wastewater_and_Waste_Eng_-_CVENTS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENTS",
+    "specialisation_name": "7373 -Water, Wastewater and Waste Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_-Water_Wastewater_and_Waste_Eng_-_CVENTS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENTS",
+    "specialisation_name": "7373 -Water, Wastewater and Waste Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_-Water_Wastewater_and_Waste_Eng_-_CVENTS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENTS",
+    "specialisation_name": "7373 -Water, Wastewater and Waste Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Geo_Eng_and_Eng_Geology_-_CVENWT_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENWT",
+    "specialisation_name": "Geo Eng and Eng Geology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Geo_Eng_and_Eng_Geology_-_CVENWT_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENWT",
+    "specialisation_name": "Geo Eng and Eng Geology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Geo_Eng_and_Eng_Geology_-_CVENWT_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENWT",
+    "specialisation_name": "Geo Eng and Eng Geology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Civil_Engineering_-_CVENZT_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENZT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Civil_Engineering_-_CVENZT_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENZT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Civil_Engineering_-_CVENZT_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENZT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Energy_Systems_-_ELECBT_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECBT",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Energy_Systems_-_ELECBT_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECBT",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Energy_Systems_-_ELECBT_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECBT",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Systems_and_Control_-_ELECET_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECET",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Systems_and_Control_-_ELECET_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECET",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Systems_and_Control_-_ELECET_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECET",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Space_Systems_Engineering_-_ELECHT_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECHT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Space_Systems_Engineering_-_ELECHT_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECHT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Space_Systems_Engineering_-_ELECHT_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECHT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Electrical_Engineering_-_ELECYS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECYS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Electrical_Engineering_-_ELECYS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECYS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Electrical_Engineering_-_ELECYS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECYS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Sustainable_Systems_-_ENGGES_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGES",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Sustainable_Systems_-_ENGGES_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGES",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Sustainable_Systems_-_ENGGES_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGES",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Nuclear_Engineering_-_ENGGHS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGHS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Nuclear_Engineering_-_ENGGHS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGHS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Nuclear_Engineering_-_ENGGHS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGHS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Food_Process_Engineering_-_FOODRS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODRS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Food_Process_Engineering_-_FOODRS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODRS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Food_Process_Engineering_-_FOODRS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODRS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Mech_and_Adv._Manufacturing_Eng_-_MECHLS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHLS",
+    "specialisation_name": "Mech and Adv. Manufacturing Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Mech_and_Adv._Manufacturing_Eng_-_MECHLS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHLS",
+    "specialisation_name": "Mech and Adv. Manufacturing Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Mech_and_Adv._Manufacturing_Eng_-_MECHLS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHLS",
+    "specialisation_name": "Mech and Adv. Manufacturing Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Geoenergy_and_Geostorage_Eng_-_MERECS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MERECS",
+    "specialisation_name": "Geoenergy and Geostorage Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Geoenergy_and_Geostorage_Eng_-_MERECS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MERECS",
+    "specialisation_name": "Geoenergy and Geostorage Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Geoenergy_and_Geostorage_Eng_-_MERECS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MERECS",
+    "specialisation_name": "Geoenergy and Geostorage Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Robotics_-_MTRNHS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNHS",
+    "specialisation_name": "Robotics",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Robotics_-_MTRNHS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNHS",
+    "specialisation_name": "Robotics",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Robotics_-_MTRNHS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNHS",
+    "specialisation_name": "Robotics",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Photovoltaics_and_Solar_Energy_-_SOLALS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLALS",
+    "specialisation_name": "Photovoltaics and Solar Energy",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Photovoltaics_and_Solar_Energy_-_SOLALS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLALS",
+    "specialisation_name": "Photovoltaics and Solar Energy",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Photovoltaics_and_Solar_Energy_-_SOLALS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLALS",
+    "specialisation_name": "Photovoltaics and Solar Energy",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Renewable_Energy_-_SOLAOS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAOS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Renewable_Energy_-_SOLAOS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAOS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Renewable_Energy_-_SOLAOS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAOS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Telecommunications_-_TELEGS_-_T1_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEGS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Telecommunications_-_TELEGS_-_T2_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEGS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7373_7373_-_Grad_Cert_-_Engineering_Science_-_Telecommunications_-_TELEGS_-_T3_2026_Start.json",
+    "program_code": "7373",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEGS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "7546_7546_-_Graduate_Certificate_in_Information_Technology_-_T1_2026_Start.json",
+    "program_code": "7546",
+    "program_name": "Information Technology",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "7546_7546_-_Graduate_Certificate_in_Information_Technology_-_T2_2026_Start.json",
+    "program_code": "7546",
+    "program_name": "Information Technology",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "7546_7546_-_Graduate_Certificate_in_Information_Technology_-_T3_2026_Start.json",
+    "program_code": "7546",
+    "program_name": "Information Technology",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8037_8037_-_Master_Food_Science_-_Food_Science_and_Technology_-_FOODSS_-_T1_2026_Start.json",
+    "program_code": "8037",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODSS",
+    "specialisation_name": "Food Science and Technology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8037_8037_-_Master_Food_Science_-_Food_Science_and_Technology_-_FOODSS_-_T2_2026_Start.json",
+    "program_code": "8037",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODSS",
+    "specialisation_name": "Food Science and Technology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8037_8037_-_Master_Food_Science_-_Food_Science_and_Technology_-_FOODSS_-_T3_2026_Start.json",
+    "program_code": "8037",
+    "program_name": "Food Science",
+    "specialisation_code": "FOODSS",
+    "specialisation_name": "Food Science and Technology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8059_8059_-_Master_Mine_Geotechnical_Engineering_-_T1_2026_Start.json",
+    "program_code": "8059",
+    "program_name": "Mine Geotechnical Engineering",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8335_8335_-_Master_Mining_Engineering_-_T1_2026_Start.json",
+    "program_code": "8335",
+    "program_name": "Mining Engineering",
+    "specialisation_code": null,
+    "specialisation_name": null,
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Biomedical_Engineering_-_BIOMFS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMFS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Biomedical_Engineering_-_BIOMFS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMFS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Biomedical_Engineering_-_BIOMFS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "BIOMFS",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Chemical_Engineering_-_CEICKS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICKS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Chemical_Engineering_-_CEICKS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICKS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Chemical_Engineering_-_CEICKS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CEICKS",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Water_Eng__Catchments_to_Coasts_-_CVENCS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENCS",
+    "specialisation_name": "Water Eng: Catchments to Coasts",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Water_Eng__Catchments_to_Coasts_-_CVENCS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENCS",
+    "specialisation_name": "Water Eng: Catchments to Coasts",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Water_Eng__Catchments_to_Coasts_-_CVENCS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENCS",
+    "specialisation_name": "Water Eng: Catchments to Coasts",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Water_Wastewater_and_Waste_Eng_-_CVENDS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENDS",
+    "specialisation_name": "Water, Wastewater and Waste Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Water_Wastewater_and_Waste_Eng_-_CVENDS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENDS",
+    "specialisation_name": "Water, Wastewater and Waste Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Water_Wastewater_and_Waste_Eng_-_CVENDS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENDS",
+    "specialisation_name": "Water, Wastewater and Waste Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Project_Management_-_CVENES_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENES",
+    "specialisation_name": "Project Management",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Project_Management_-_CVENES_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENES",
+    "specialisation_name": "Project Management",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Project_Management_-_CVENES_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENES",
+    "specialisation_name": "Project Management",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Transport_Engineering_-_CVENHS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENHS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Transport_Engineering_-_CVENHS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENHS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Transport_Engineering_-_CVENHS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENHS",
+    "specialisation_name": "Transport Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Structural_Engineering_-_CVENLS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENLS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Structural_Engineering_-_CVENLS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENLS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Structural_Engineering_-_CVENLS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENLS",
+    "specialisation_name": "Structural Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Environmental_Engineering_-_CVENOS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENOS",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Environmental_Engineering_-_CVENOS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENOS",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Environmental_Engineering_-_CVENOS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENOS",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Geotechnical_Eng_and_Eng_Geology_-_CVENTT_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENTT",
+    "specialisation_name": "Geotechnical Eng and Eng Geology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Geotechnical_Eng_and_Eng_Geology_-_CVENTT_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENTT",
+    "specialisation_name": "Geotechnical Eng and Eng Geology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Geotechnical_Eng_and_Eng_Geology_-_CVENTT_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENTT",
+    "specialisation_name": "Geotechnical Eng and Eng Geology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Civil_Engineering_-_CVENXT_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENXT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Civil_Engineering_-_CVENXT_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENXT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Civil_Engineering_-_CVENXT_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "CVENXT",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Systems_and_Control_-_ELECCT_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECCT",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Systems_and_Control_-_ELECCT_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECCT",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Systems_and_Control_-_ELECCT_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECCT",
+    "specialisation_name": "Systems and Control",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Space_Systems_Engineering_-_ELECFT_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECFT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Space_Systems_Engineering_-_ELECFT_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECFT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Space_Systems_Engineering_-_ELECFT_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECFT",
+    "specialisation_name": "Space Systems Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Electrical_Engineering_-_ELECWS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECWS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Electrical_Engineering_-_ELECWS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECWS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Electrical_Engineering_-_ELECWS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECWS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Energy_Systems_-_ELECZS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECZS",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Energy_Systems_-_ELECZS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECZS",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Energy_Systems_-_ELECZS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ELECZS",
+    "specialisation_name": "Energy Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Sustainable_Systems_-_ENGGCS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGCS",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Sustainable_Systems_-_ENGGCS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGCS",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Sustainable_Systems_-_ENGGCS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGCS",
+    "specialisation_name": "Sustainable Systems",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Nuclear_Engineering_-_ENGGFS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGFS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Nuclear_Engineering_-_ENGGFS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGFS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Nuclear_Engineering_-_ENGGFS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "ENGGFS",
+    "specialisation_name": "Nuclear Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Food_Process_Engineering_-_FOODCS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODCS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Food_Process_Engineering_-_FOODCS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODCS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Food_Process_Engineering_-_FOODCS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "FOODCS",
+    "specialisation_name": "Food Process Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Mech_-_Adv_Manufacturing_Eng_-_MECHJS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHJS",
+    "specialisation_name": "Mech & Adv Manufacturing Eng",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Mech_-_Adv_Manufacturing_Eng_-_MECHJS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHJS",
+    "specialisation_name": "Mech & Adv Manufacturing Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Mech_-_Adv_Manufacturing_Eng_-_MECHJS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MECHJS",
+    "specialisation_name": "Mech & Adv Manufacturing Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Geoenergy_and_Geostorage_Engineering_-_MEREAS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MEREAS",
+    "specialisation_name": "Geoenergy & Geostorage Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Geoenergy_-_Geostorage_Engineering_-_MEREAS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MEREAS",
+    "specialisation_name": "Geoenergy & Geostorage Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Geoenergy_-_Geostorage_Engineering_-_MEREAS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MEREAS",
+    "specialisation_name": "Geoenergy & Geostorage Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Robotics_-_MTRNFS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNFS",
+    "specialisation_name": "Robotics",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Robotics_-_MTRNFS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNFS",
+    "specialisation_name": "Robotics",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Robotics_-_MTRNFS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "MTRNFS",
+    "specialisation_name": "Robotics",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Photovoltaics_and_Solar_Energy_-_SOLAHS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAHS",
+    "specialisation_name": "Photovoltaics and Solar Energy",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Photovoltaics_and_Solar_Energy_-_SOLAHS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAHS",
+    "specialisation_name": "Photovoltaics and Solar Energy",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Photovoltaics_and_Solar_Energy_-_SOLAHS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAHS",
+    "specialisation_name": "Photovoltaics and Solar Energy",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Renewable_Energy_-_SOLAMS_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAMS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Renewable_Energy_-_SOLAMS_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAMS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Renewable_Energy_-_SOLAMS_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "SOLAMS",
+    "specialisation_name": "Renewable Energy",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Telecommunications_-_TELEES_-_T1_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEES",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Telecommunications_-_TELEES_-_T2_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEES",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8338_8338_-_Master_Engineering_Science_-_Telecommunications_-_TELEES_-_T3_2026_Start.json",
+    "program_code": "8338",
+    "program_name": "Engineering Science",
+    "specialisation_code": "TELEES",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Artificial_Intelligence_-_COMPLS_-_T1_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPLS",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Artificial_Intelligence_-_COMPLS_-_T2_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPLS",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Artificial_Intelligence_-_COMPLS_-_T3_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPLS",
+    "specialisation_name": "Artificial Intelligence",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Information_Technology_-_COMPMS_-_T1_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPMS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Information_Technology_-_COMPMS_-_T2_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPMS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Information_Technology_-_COMPMS_-_T3_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPMS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Information_Technology_-_COMPNS_-_T1_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPNS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Information_Technology_-_COMPNS_-_T2_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPNS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Information_Technology_-_COMPNS_-_T3_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPNS",
+    "specialisation_name": "Information Technology",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Internetworking_-_COMPOS_-_T1_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPOS",
+    "specialisation_name": "Internetworking",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Internetworking_-_COMPOS_-_T2_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPOS",
+    "specialisation_name": "Internetworking",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Internetworking_-_COMPOS_-_T3_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPOS",
+    "specialisation_name": "Internetworking",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Cyber_Security_Engineering_-_COMPXS_-_T1_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPXS",
+    "specialisation_name": "Cyber Security Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Cyber_Security_Engineering_-_COMPXS_-_T2_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPXS",
+    "specialisation_name": "Cyber Security Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8543_8543_-_Master_Information_Technology_-_Cyber_Security_Engineering_-_COMPXS_-_T3_2026_Start.json",
+    "program_code": "8543",
+    "program_name": "Information Technology",
+    "specialisation_code": "COMPXS",
+    "specialisation_name": "Cyber Security Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8544_8544_-_Master_Information_Technology___Commerce_-_Dual_Commerce_Specialisations_-_T1_2026_Start.json",
+    "program_code": "8544",
+    "program_name": "Info Technology/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Dual Commerce Specialisations",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8544_8544_-_Master_Information_Technology___Commerce_-_Single_Commerce_Specialisation_-_T1_2026_Start.json",
+    "program_code": "8544",
+    "program_name": "Info Technology/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Single Commerce Specialisation",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8544_8544_-_Master_Information_Technology___Commerce_-_Dual_Commerce_Specialisations_-_T2_2026_Start.json",
+    "program_code": "8544",
+    "program_name": "Info Technology/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Dual Commerce Specialisations",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8544_8544_-_Master_Information_Technology___Commerce_-_Single_Commerce_Specialisation_-_T2_2026_Start.json",
+    "program_code": "8544",
+    "program_name": "Info Technology/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Single Commerce Specialisation",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8544_8544_-_Master_Information_Technology___Commerce_-_Dual_Commerce_Specialisations_-_T3_2026_Start.json",
+    "program_code": "8544",
+    "program_name": "Info Technology/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Dual Commerce Specialisations",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8544_8544_-_Master_Information_Technology___Commerce_-_Single_Commerce_Specialisation_-_T3_2026_Start.json",
+    "program_code": "8544",
+    "program_name": "Info Technology/Commerce",
+    "specialisation_code": null,
+    "specialisation_name": "Single Commerce Specialisation",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Biomedical_Engineering_-_BIOMES_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "BIOMES",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Biomedical_Engineering_-_BIOMES_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "BIOMES",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Biomedical_Engineering_-_BIOMES_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "BIOMES",
+    "specialisation_name": "Biomedical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Environmental_Engineering_-_CVENLT_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "CVENLT",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Environmental_Engineering_-_CVENLT_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "CVENLT",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Environmental_Engineering_-_CVENLT_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "CVENLT",
+    "specialisation_name": "Environmental Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Civil_Engineering_-_CVENYS_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "CVENYS",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Civil_Engineering_-_CVENYS_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "CVENYS",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Civil_Engineering_-_CVENYS_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "CVENYS",
+    "specialisation_name": "Civil Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Electrical_Engineering_-_ELECAS_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "ELECAS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Electrical_Engineering_-_ELECAS_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "ELECAS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Electrical_Engineering_-_ELECAS_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "ELECAS",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Mechanical_Engineering_-_MECHBS_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "MECHBS",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Mechanical_Engineering_-_MECHBS_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "MECHBS",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Mechanical_Engineering_-_MECHBS_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "MECHBS",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Mining_Engineering_-_MINEYS_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "MINEYS",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Mining_Engineering_-_MINEYS_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "MINEYS",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Mining_Engineering_-_MINEYS_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "MINEYS",
+    "specialisation_name": "Mining Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Renewable_Engineering_-_SOLAGS_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "SOLAGS",
+    "specialisation_name": "Renewable Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Renewable_Engineering_-_SOLAGS_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "SOLAGS",
+    "specialisation_name": "Renewable Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Renewable_Engineering_-_SOLAGS_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "SOLAGS",
+    "specialisation_name": "Renewable Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Telecommunications_-_TELEAS_-_T1_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "TELEAS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Telecommunications_-_TELEAS_-_T2_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "TELEAS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "8621_8621_-_Master_Engineering_-_Telecommunications_-_TELEAS_-_T3_2026_Start.json",
+    "program_code": "8621",
+    "program_name": "Engineering",
+    "specialisation_code": "TELEAS",
+    "specialisation_name": "Telecommunications",
+    "start_term": "T3 2026"
+  }
+]
