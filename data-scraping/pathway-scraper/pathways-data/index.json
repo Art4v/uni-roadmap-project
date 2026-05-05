@@ -1464,118 +1464,6 @@
     "start_term": "T3 2026"
   },
   {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Bioinformatics_Eng_-_BINFAH_-_T2_2026.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Bioinformatics Eng",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Bioinformatics_Eng_-_BINFAH_-_T3_2026.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Bioinformatics Eng",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T1_2026.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Chemical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T2_2026.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Chemical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T3_2026.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Chemical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T1_20261.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Computer Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T2_2026.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Computer Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T3_2026.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Computer Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T1_20261.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Electrical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T2_20261.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Electrical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T3_20261.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Electrical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T1_20261.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Mechanical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T2_20261.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Mechanical Engineering",
-    "start_term": null
-  },
-  {
-    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T3_20261.json",
-    "program_code": "3768",
-    "program_name": "Eng (Hons) / MBiomedE",
-    "specialisation_code": null,
-    "specialisation_name": "Mechanical Engineering",
-    "start_term": null
-  },
-  {
     "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Robotics_and_Mechatronic_Eng-MTRNBH-T1_2026_Start.json",
     "program_code": "3768",
     "program_name": "Eng (Hons) / MBiomedE",
@@ -1606,6 +1494,118 @@
     "specialisation_code": "BINFAH",
     "specialisation_name": "Bioinformatics Eng",
     "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Bioinformatics_Eng_-_BINFAH_-_T2_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "BINFAH",
+    "specialisation_name": "Bioinformatics Eng",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Bioinformatics_Eng_-_BINFAH_-_T3_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "BINFAH",
+    "specialisation_name": "Bioinformatics Eng",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T1_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T2_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Chemical_Engineering_-_CEICAH_-_T3_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "CEICAH",
+    "specialisation_name": "Chemical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T1_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "COMPBH",
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T2_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "COMPBH",
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Computer_Engineering_-_COMPBH_-_T3_2026.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "COMPBH",
+    "specialisation_name": "Computer Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T1_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "ELECAH",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T2_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "ELECAH",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Electrical_Engineering_-_ELECAH_-_T3_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "ELECAH",
+    "specialisation_name": "Electrical Engineering",
+    "start_term": "T3 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T1_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "MECHAH",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T1 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T2_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "MECHAH",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T2 2026"
+  },
+  {
+    "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Mechanical_Engineering_-_MECHAH_-_T3_20261.json",
+    "program_code": "3768",
+    "program_name": "Eng (Hons) / MBiomedE",
+    "specialisation_code": "MECHAH",
+    "specialisation_name": "Mechanical Engineering",
+    "start_term": "T3 2026"
   },
   {
     "file": "3768_3768_-_Bachelor_Eng_Honours___Master_Biomedical_Eng_-_Software_Engineering_-_SENGAH_-T1_2026_Start1.json",
