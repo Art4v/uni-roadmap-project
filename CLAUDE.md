@@ -33,8 +33,9 @@ uni-roadmap-project/
 │       ├── pathway-parser.py
 │       ├── pdfs/           # ~612 downloaded checksheet PDFs
 │       └── pathways-data/  # ~613 structured JSON files + index.json
-├── frontend/              # Phase 4 — React + Vite + Tailwind MVP
-│   └── src/               # App.jsx, components.jsx, data.js, icons.jsx
+├── mvp-v1/                # Phase 4 — versioned MVP snapshot
+│   └── frontend/          # React + Vite + Tailwind MVP
+│       └── src/           # App.jsx, components.jsx, data.js, icons.jsx
 ├── backend/               # Phase 5 — planned, not yet created
 ├── CLAUDE.md
 └── README.md
@@ -87,14 +88,14 @@ Currently limited to UNSW Engineering — the only faculty publishing checksheet
 
 ## Architecture: frontend
 
-React 18 + Vite + Tailwind CSS MVP. Located in `frontend/`.
+React 18 + Vite + Tailwind CSS MVP. Located in `mvp-v1/frontend/`.
 
 - `src/data.js` — pre-processed course and pathway data used by the app
 - `src/App.jsx` — main app component
 - `src/components.jsx` — shared UI components
 - `src/icons.jsx` — SVG icon components
 
-Run with `npm run dev` from the `frontend/` directory.
+Run with `npm run dev` from the `mvp-v1/frontend/` directory.
 
 ## Conventions in the Scrapers
 

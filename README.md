@@ -129,7 +129,7 @@ Scrapes and parses degree pathway templates (progression checksheets) for UNSW E
 ---
 
 ### Phase 4 — Frontend MVP 🚧 (In Progress)
-**Location:** `frontend/`
+**Location:** `mvp-v1/frontend/`
 
 An interactive web app for exploring courses and pathway data. The MVP is built with React, Vite, and Tailwind CSS, using pre-processed data loaded from `src/data.js`.
 
@@ -195,16 +195,17 @@ uni-roadmap-project/
 │       ├── pathway-parser.py
 │       ├── pdfs/               # ~612 downloaded checksheet PDFs
 │       └── pathways-data/      # ~613 structured JSON files + index.json
-├── frontend/                   # Phase 4 — MVP frontend (React + Vite + Tailwind)
-│   ├── src/
-│   │   ├── App.jsx
-│   │   ├── components.jsx
-│   │   ├── data.js
-│   │   ├── icons.jsx
-│   │   ├── index.css
-│   │   └── main.jsx
-│   ├── package.json
-│   └── vite.config.js
+├── mvp-v1/                     # Phase 4 — versioned MVP snapshot
+│   └── frontend/               # React + Vite + Tailwind MVP
+│       ├── src/
+│       │   ├── App.jsx
+│       │   ├── components.jsx
+│       │   ├── data.js
+│       │   ├── icons.jsx
+│       │   ├── index.css
+│       │   └── main.jsx
+│       ├── package.json
+│       └── vite.config.js
 ├── backend/                    # Phase 5 — (planned)
 ├── CLAUDE.md
 └── README.md
@@ -239,7 +240,7 @@ Downloads ~612 PDFs to `pdfs/` then parses them into `pathways-data/`.
 
 ### Frontend (Phase 4)
 ```bash
-cd frontend
+cd mvp-v1/frontend
 npm install
 npm run dev
 ```
