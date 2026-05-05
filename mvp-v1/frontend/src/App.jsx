@@ -1,15 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
-import {
-  COURSE_CATALOG,
-  PREREQS,
-  YEAR1_HISTORY,
-  PATHWAYS,
-  YEARS,
-  TERMS,
-  termId,
-  termOrdinal,
-} from './data.js';
-import { IconLogo, IconSend, IconPlus, IconMinus } from './icons.jsx';
+import { COURSE_CATALOG, PATHWAYS, YEARS, TERMS } from './data';
+import { IconLogo, IconSend, IconPlus, IconMinus } from './icons';
 import {
   CourseCard,
   TermCell,
@@ -19,94 +10,17 @@ import {
   TypingBubble,
   Legend,
   AddCourseModal,
-} from './components.jsx';
-
-let __idSeq = 1;
-const newId = () => `c${__idSeq++}`;
-
-const CHAT_MIN_WIDTH = 320;
-const CHAT_MAX_WIDTH = 720;
-const CHAT_DEFAULT_WIDTH = 460;
-const clampChatWidth = (w) => Math.min(CHAT_MAX_WIDTH, Math.max(CHAT_MIN_WIDTH, w));
-
-// Build initial board state from Year 1 history only.
-function buildInitial(yearsArr) {
-  const board = {};
-  yearsArr.forEach((y) =>
-    TERMS.forEach((t) => {
-      board[termId(y.id, t)] = [];
-    })
-  );
-  Object.entries(YEAR1_HISTORY).forEach(([key, list]) => {
-    board[key] = list.map((c) => ({
-      id: newId(),
-      code: c.code,
-      status: c.status,
-      recommended: false,
-    }));
-  });
-  return board;
-}
-
-// Recompute statuses across the board. Preserves completed/in-progress and recommended flag.
-function recomputeStatuses(board, yearsArr) {
-  const next = {};
-  for (const k of Object.keys(board)) next[k] = board[k].slice();
-
-  const ord = {};
-  for (const y of yearsArr)
-    for (const t of TERMS) {
-      const list = next[termId(y.id, t)] || [];
-      for (const inst of list) {
-        const o = termOrdinal(y.id, t);
-        ord[inst.code] = ord[inst.code] === undefined ? o : Math.min(ord[inst.code], o);
-      }
-    }
-
-  for (const y of yearsArr)
-    for (const t of TERMS) {
-      const key = termId(y.id, t);
-      const myOrd = termOrdinal(y.id, t);
-      const list = next[key] || [];
-      next[key] = list.map((inst) => {
-        if (inst.status === 'completed' || inst.status === 'in-progress') return inst;
-        const reqs = PREREQS[inst.code] || [];
-        const missing = reqs.filter((r) => {
-          const rOrd = ord[r];
-          return rOrd === undefined || rOrd >= myOrd;
-        });
-        if (missing.length > 0) return { ...inst, status: 'blocked', _missing: missing };
-        return {
-          ...inst,
-          status: inst.recommended ? 'ai-recommended' : 'ready',
-          _missing: [],
-        };
-      });
-    }
-  return next;
-}
-
-// Apply a pathway: keep any year not covered by the plan, replace covered years
-// (Y2-Y4) with the plan as ai-recommended.
-function applyPathway(board, pathwayKey, yearsArr) {
-  const plan = PATHWAYS[pathwayKey].plan;
-  const next = {};
-  for (const y of yearsArr)
-    for (const t of TERMS) {
-      const key = termId(y.id, t);
-      if (plan[key]) {
-        next[key] = plan[key].map((code) => ({
-          id: newId(),
-          code,
-          status: 'ai-recommended',
-          recommended: true,
-        }));
-      } else {
-        next[key] = (board[key] || []).slice();
-      }
-    }
-  return recomputeStatuses(next, yearsArr);
-}
+} from './components';
+import {
+  newId,
+  getIdSeq,
+  clampChatWidth,
+  buildInitial,
+  recomputeStatuses,
+  applyPathway,
+  termId,
+} from './utils';
+import { CHAT_MIN_WIDTH, CHAT_MAX_WIDTH, CHAT_DEFAULT_WIDTH } from './constants';
 
 export default function App() {
   // ----- Board state -----
@@ -386,7 +300,7 @@ export default function App() {
     ({ termKey, name, code, uoc, status }) => {
       const trimmed = (code || '').trim();
       const finalCode = (
-        trimmed || `CUST${Date.now().toString(36)}${__idSeq}`
+        trimmed || `CUST${Date.now().toString(36)}${getIdSeq()}`
       ).toUpperCase();
       setCustomCourses((c) => ({
         ...c,

@@ -1,5 +1,3 @@
-// Course catalog, prereq graph, and pathway plans for the Pathway prototype.
-
 export const COURSE_CATALOG = {
   // Year 1 core
   COMP1511: { code: 'COMP1511', title: 'Programming Fundamentals', uoc: 6 },
@@ -69,7 +67,6 @@ export const PREREQS = {
   COMP4920: ['COMP1531'],
 };
 
-// Year 1 history — same for every pathway
 export const YEAR1_HISTORY = {
   Y1T1: [
     { code: 'COMP1511', status: 'completed' },
@@ -83,82 +80,3 @@ export const YEAR1_HISTORY = {
   ],
   Y1T3: [{ code: 'COMP2511', status: 'in-progress' }],
 };
-
-// Pathway plans — courses placed into Y2–Y4. Status set to 'ai-recommended' on apply.
-export const PATHWAYS = {
-  'ai-ml': {
-    label: 'AI/ML researcher',
-    blurb: 'Strong theory base, deep learning specialisation, and a research-flavoured capstone.',
-    plan: {
-      Y2T1: ['COMP2521', 'MATH2521'],
-      Y2T2: ['COMP3821', 'COMP3411'],
-      Y2T3: ['COMP9417', 'PHIL2627'],
-      Y3T1: ['COMP9444', 'COMP9517'],
-      Y3T2: ['COMP9418', 'COMP6713'],
-      Y3T3: ['COMP3900', 'ARTS1690'],
-      Y4T1: ['COMP4920'],
-      Y4T2: [],
-      Y4T3: [],
-    },
-  },
-  cyber: {
-    label: 'Cybersecurity',
-    blurb: 'Networks, systems, and offensive security electives feeding into the capstone.',
-    plan: {
-      Y2T1: ['COMP2521'],
-      Y2T2: ['COMP3331', 'COMP6441'],
-      Y2T3: ['COMP3231', 'GENL2021'],
-      Y3T1: ['COMP6841', 'COMP3151'],
-      Y3T2: ['COMP6843', 'COMP6447'],
-      Y3T3: ['COMP3900', 'COMM1180'],
-      Y4T1: ['COMP4920'],
-      Y4T2: [],
-      Y4T3: [],
-    },
-  },
-  swe: {
-    label: 'Software engineer',
-    blurb: 'Systems fundamentals, web/networks, and a project-heavy capstone year.',
-    plan: {
-      Y2T1: ['COMP2521'],
-      Y2T2: ['COMP3331', 'COMP3231'],
-      Y2T3: ['COMP3151', 'COMM1180'],
-      Y3T1: ['COMP3821', 'COMP6441'],
-      Y3T2: ['COMP9417', 'GENL2021'],
-      Y3T3: ['COMP3900', 'ARTS1690'],
-      Y4T1: ['COMP4920'],
-      Y4T2: [],
-      Y4T3: [],
-    },
-  },
-  data: {
-    label: 'Data scientist',
-    blurb: 'Statistical ML and data-mining heavy, with applied vision/NLP electives.',
-    plan: {
-      Y2T1: ['COMP2521', 'MATH2521'],
-      Y2T2: ['COMP3821'],
-      Y2T3: ['COMP9417'],
-      Y3T1: ['COMP9418', 'COMP9517'],
-      Y3T2: ['COMP6713', 'COMP3411'],
-      Y3T3: ['COMP3900', 'COMM1180'],
-      Y4T1: ['COMP4920'],
-      Y4T2: [],
-      Y4T3: [],
-    },
-  },
-};
-
-export const YEARS = [
-  { id: 1, label: 'Year 1', year: 2026 },
-  { id: 2, label: 'Year 2', year: 2027 },
-  { id: 3, label: 'Year 3', year: 2028 },
-  { id: 4, label: 'Year 4 Honours', year: 2029 },
-];
-export const TERMS = [1, 2, 3];
-
-export function termId(year, term) {
-  return `Y${year}T${term}`;
-}
-export function termOrdinal(year, term) {
-  return year * 10 + term; // earlier = smaller
-}
