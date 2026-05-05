@@ -1,0 +1,3483 @@
+{
+  "ACCT5000": {
+    "campus": "Sydney",
+    "code": "ACCT5000",
+    "description": "<p>This is a full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Accounting, Auditing and Taxation",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Accounting Full-Time",
+    "uoc": 12
+  },
+  "ACCT5001": {
+    "campus": "Sydney",
+    "code": "ACCT5001",
+    "description": "<p>  Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Accounting, Auditing and Taxation",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Accounting Part-Time",
+    "uoc": 6
+  },
+  "ACCT5994": {
+    "campus": "Sydney",
+    "code": "ACCT5994",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Accounting, Auditing and Taxation",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Thesis Accounting (Full-time)",
+    "uoc": 12
+  },
+  "ACCT6001": {
+    "campus": "Sydney",
+    "code": "ACCT6001",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [
+      "Prerequisite: ACCT5997 or equivalent<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Accounting, Auditing and Taxation",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "P/T Masters Research Thesis Accounting",
+    "uoc": 6
+  },
+  "ACTL5000": {
+    "campus": "Sydney",
+    "code": "ACTL5000",
+    "description": "<p>Students complete a thesis under the direction of a supervisor. The thesis requires the reporting of research in an approved topic area in actuarial studies including literature review, analysis of a research problem along with presentation of research methods and data analysis.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Risk and Actuarial Studies",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Thesis (Actuarial Studies)",
+    "uoc": 12
+  },
+  "ACTL5001": {
+    "campus": "Sydney",
+    "code": "ACTL5001",
+    "description": "<p>Students undertake a thesis under the guidance of a supervisor, focusing on an approved topic in actuarial studies. The thesis involves conducting a literature review, analyzing a research problem, and presenting research methods and data analysis.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Risk and Actuarial Studies",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Thesis (Part-Time) - Actuarial Studies",
+    "uoc": 6
+  },
+  "ACTL5003": {
+    "campus": "Sydney",
+    "code": "ACTL5003",
+    "description": "<p>This course is designed as a research methods course for research students in the areas of actuarial modelling in insurance risk, general insurance, life insurance, superannuation, and financial economics. As part of the course, students will learn to develop a full research proposal, critique and communicate research in a range of formats to a variety of audiences, apply the methodology of scientific research, as well as gain exposure to the presentation of research in relevant journals. Enrolment requires school approval.<br /><br /></p>\n<p> </p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [
+      {
+        "code": "ACTL4003",
+        "title": "Research Methods in Risk and Actuarial Studies"
+      }
+    ],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Risk and Actuarial Studies",
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Methods in Risk and Actuarial Studies",
+    "uoc": 6
+  },
+  "AERO9000": {
+    "campus": "Sydney",
+    "code": "AERO9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Aerospace Engineering (Full-Time)",
+    "uoc": 12
+  },
+  "AERO9001": {
+    "campus": "Sydney",
+    "code": "AERO9001",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Aerospace Engineering (Part-Time)",
+    "uoc": 6
+  },
+  "ARTS5200": {
+    "campus": "Sydney",
+    "code": "ARTS5200",
+    "description": "<p>Through a sequence of readings, seminars, and discussions, this course will introduce you to the intellectual foundations of research. The goal of this course is to provide you with a basic working knowledge of systematic and rigorous research in the humanities and social sciences. A sound understanding of research is underpinned by an understanding of: the intellectual traditions that inform debates (i.e. research disciplines in the humanities and social sciences and cross-disciplinary work); how knowledge is produced (i.e. the economic, social, political and human motivations that drive discoveries and innovations); and what research might be able to achieve in democratic contexts, according to sound ethical principles (i.e. ethics of research, management of knowledge in a just society). Upon completion, you will be able to understand debates about research methods, epistemology, paradigm wars, the social and political contexts of research, and the contributions of the humanities and social sciences to the improvement of human and environmental well-being. These insights will help you develop capabilities and skills for producing thoughtful and impactful research.</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 1"
+    ],
+    "title": "Intellectual Foundations and Methods of Research",
+    "uoc": 6
+  },
+  "ARTS5201": {
+    "campus": "Sydney",
+    "code": "ARTS5201",
+    "description": "<p>What is knowledge and how is it socially organized and ethically produced? Are there different forms of knowledge and/or ways of knowing?  How is knowledge created, and what are its conditions? This course introduces you to different perspectives on knowledge production in the humanities and social sciences. It will introduce you to different conceptions of what knowledge is and expose you to current debates about the way that knowledge is produced.  You will also learn different modes of inquiry that draw on diverse traditions and understandings of knowledge and its production. </p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Knowledges and Ethical Practices specialisation in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Knowledges and Ethical Practices",
+    "uoc": 6
+  },
+  "ARTS5202": {
+    "campus": "Sydney",
+    "code": "ARTS5202",
+    "description": "<p>Although health and well-being research may appear dominated by biomedical disciplines, the humanities and social sciences extend our understanding of how these normative concepts are viewed, expressed and promoted in a variety of social contexts and communities. Drawing on the insights of faculty researchers who employ a range of innovative social and critical approaches to health and well-being research, we will consider the intersections and tensions between established and emerging theoretical and methodological traditions. Looking across a range of health issues critical to governments and communities today, our understandings of what counts as research data will be expanded beyond the foundational methods of interviewing and observation to encompass digital data, policy and legal texts, social media interactions, as well as participatory and arts-based methods. By the end of the course you will be better equipped to explain the value of and build a rationale for incorporating social approaches into research on health and well-being.</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Health and Well-being specialisation in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Social Approaches to Researching Health and Well-Being",
+    "uoc": 6
+  },
+  "ARTS5203": {
+    "campus": "Sydney",
+    "code": "ARTS5203",
+    "description": "<p>The increasing pace of interactions in the global sphere prompt critical inquiries into human society and culture. How do we understand identity, time and place? What is the nature of power and how it is exercised? How do we learn from knowledges and experiences of first nations peoples? Our appreciation of these questions is enhanced by bringing together multifocal theoretical and methodological approaches drawing from historical, literary, subaltern, anthropological, and sociological disciplines. This specialisation will develop your skills in cross-cultural inquiry through engagement with multiple narratives and voices.</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Global and First Nations Studies specialisation in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Global and First Nations Studies",
+    "uoc": 6
+  },
+  "ARTS5204": {
+    "campus": "Sydney",
+    "code": "ARTS5204",
+    "description": "<p>This course develops observational, critical, and analytical tools for application to research in the creative arts. It begins with a focus on art and artists; understanding the materials and processes of creative practice in historical, disciplinary and aesthetic contexts. An understanding of the role of research, theory, and criticism within the arts is developed, alongside ethical processes for undertaking such work. You will be introduced to media-specific and trans-disciplinary forms of compositional analysis, with specific attention to the practices and processes of the artist. Beyond the terms of the work of art and the role of the artist, analytical and theoretical methods drawing on disciplines within and beyond the arts will be covered and may include empirical, formal, post-structural, phenomenological, material and cultural approaches. There is a focus on Australian content, including indigenous artists, and their place within important international networks</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Creative Arts specialisation in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Research and the Creative Arts",
+    "uoc": 6
+  },
+  "ARTS5206": {
+    "campus": "Sydney",
+    "code": "ARTS5206",
+    "description": "<p>This core course of the Master of Philosophy in Arts and Social Sciences provides you with the opportunity to work closely with academic leaders in your field of specialization within the Humanities and Social Sciences to gain in-depth knowledge of current developments, problems and debates. The specialisation enables you to hone your discipline-specific research skills, gain experience with relevant research methods and deepen your understanding of the field in its historical and intellectual context, its theories and approaches, as well as its cutting-edge debates in the literature. Ultimately it also assists you with writing your research proposal</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Specialisation",
+    "uoc": 6
+  },
+  "ARTS5507": {
+    "campus": "Sydney",
+    "code": "ARTS5507",
+    "description": "<p>Personalised English Language Enhancement for HDR (HDR PELE) is a self-directed learning course designed to help postgraduate research students in all faculties enhance their communication skills in English. In this course, you will be guided to develop a personal project that meets your linguistic needs and implement it with strong support from the lecturer, tutors, as well as peer mentors, in a warm and safe learning community. You will learn a number of essential skills needed by all research students, including reflective thinking and time management. This course best suits you if you are in the early stages of candidature. You are required to have your supervisor&#39;s permission to enrol. More information about the course can be found on the ADA Faculty website: </p>\n<p>https://www.unsw.edu.au/arts-design-architecture/our-schools/humanities-languages/student-life/resources-support/personalised-english-language-enhancement</p>\n<p> </p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Humanities and Languages",
+    "terms": [
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Personalised English Language Enhancement for HDR",
+    "uoc": 0
+  },
+  "ARTS8100": {
+    "campus": "Sydney",
+    "code": "ARTS8100",
+    "description": "<p>Students in the Master of Philosophy program within the Faculty of Arts and Social Sciences are required to complete a 25,000 word research thesis on an original topic under the supervision of academic experts. The submitted thesis is examined by two academic leaders in the field, at least one of whom is external to the university. Students must also pass an oral defense of the thesis.</p>\n<p>The thesis represents 54UoC of the total 72 UoC for the MPhil program</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Master of Philosophy Thesis A",
+    "uoc": 6
+  },
+  "ARTS8101": {
+    "campus": "Sydney",
+    "code": "ARTS8101",
+    "description": "<p>Students in the Master of Philosophy program within the Faculty of Arts and Social Sciences are required to complete a 25,000 word research thesis on an original topic under the supervision of academic experts. The submitted thesis is examined by two academic leaders in the field, at least one of whom is external to the university. Students must also pass an oral defense of the thesis.</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in the Master of Philosophy (2364)<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Master of Philosophy Thesis B",
+    "uoc": 12
+  },
+  "ARTS8200": {
+    "campus": "Sydney",
+    "code": "ARTS8200",
+    "description": "<p>Students in the Master of Arts by Research program within the Faculty of Arts and Social Sciences are required to complete approximately 30,000 words research thesis under supervision of academic experts.The thesis should make an original and significant contribution to knowledge.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Master of Arts by Research Thesis A",
+    "uoc": 6
+  },
+  "ARTS8201": {
+    "campus": "Sydney",
+    "code": "ARTS8201",
+    "description": "<p>Students in the Master of Arts by Research program within the Faculty of Arts and Social Sciences are required to complete approximately 30,000 words research thesis under supervision of academic experts.The thesis should make an original and significant contribution to knowledge.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Master of Arts by Research Thesis B",
+    "uoc": 12
+  },
+  "ATSI9000": {
+    "campus": null,
+    "code": "ATSI9000",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis Indigenous Studies Full-Time",
+    "uoc": 12
+  },
+  "ATSI9001": {
+    "campus": null,
+    "code": "ATSI9001",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis Indigenous Studies Part-Time",
+    "uoc": 6
+  },
+  "AVIA9000": {
+    "campus": "Sydney",
+    "code": "AVIA9000",
+    "description": "<p>This is a full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Aviation",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Full-Time Research Thesis",
+    "uoc": 12
+  },
+  "AVIA9050": {
+    "campus": "Sydney",
+    "code": "AVIA9050",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Aviation",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Part-Time Research Thesis",
+    "uoc": 6
+  },
+  "BABS8050": {
+    "campus": null,
+    "code": "BABS8050",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "BABS8100": {
+    "campus": "Sydney",
+    "code": "BABS8100",
+    "description": "<div>\n<div>Full-time research thesis course.</div>\n</div>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biotechnology and Biomolecular Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "BENV7020": {
+    "campus": "Sydney",
+    "code": "BENV7020",
+    "description": "<p>Research Design prepares you to undertake an independent research project and complete a research dissertation or thesis. The course helps you to develop and plan your project, covering key considerations including identifying a research topic, developing research questions, choosing (or refining) your methodology, integrating theoretical insights, understanding ethical research practices, and structuring your thesis. At the end of the course you should feel ready to embark on your research project with the ongoing support of your supervisor(s).</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Built Environment",
+    "terms": [
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Design",
+    "uoc": 6
+  },
+  "BIOC8608": {
+    "campus": "Sydney",
+    "code": "BIOC8608",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biotechnology and Biomolecular Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Biochemistry Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "BIOC8618": {
+    "campus": "Sydney",
+    "code": "BIOC8618",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biotechnology and Biomolecular Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Part-Time Research Thesis Biochemistry",
+    "uoc": 6
+  },
+  "BIOM9001": {
+    "campus": "Sydney",
+    "code": "BIOM9001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "Graduate School of Biomedical Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Biomedical Engineering Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "BIOM9002": {
+    "campus": "Sydney",
+    "code": "BIOM9002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "Graduate School of Biomedical Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Biomedical Engineering Part-Time",
+    "uoc": 6
+  },
+  "BIOS0001": {
+    "campus": "Sydney",
+    "code": "BIOS0001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biological, Earth and Environmental Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Biological Sciences Research Full-Time",
+    "uoc": 12
+  },
+  "BIOS0002": {
+    "campus": "Sydney",
+    "code": "BIOS0002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biological, Earth and Environmental Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Biological Sciences Research Part-Time",
+    "uoc": 6
+  },
+  "BIOT8023": {
+    "campus": null,
+    "code": "BIOT8023",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Full-Time Research Thesis Biotechnology",
+    "uoc": 12
+  },
+  "BIOT8033": {
+    "campus": null,
+    "code": "BIOT8033",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "(P/T) Research Thesis Biotechnology",
+    "uoc": 6
+  },
+  "CEIC5001": {
+    "campus": "Sydney",
+    "code": "CEIC5001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Chemical Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Chemical Engineering and Industrial Chemistry Full-Time",
+    "uoc": 12
+  },
+  "CEIC5002": {
+    "campus": "Sydney",
+    "code": "CEIC5002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Chemical Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Chemical Engineering and Industrial Chemistry Part-Time",
+    "uoc": 6
+  },
+  "CHEM9003": {
+    "campus": "Sydney",
+    "code": "CHEM9003",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Chemistry",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Chemistry Full-Time",
+    "uoc": 12
+  },
+  "CHEM9103": {
+    "campus": "Sydney",
+    "code": "CHEM9103",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Chemistry",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Chemistry Part-Time",
+    "uoc": 6
+  },
+  "CLIM0001": {
+    "campus": null,
+    "code": "CLIM0001",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Full-Time Climate Science Research",
+    "uoc": 12
+  },
+  "CLIM0002": {
+    "campus": null,
+    "code": "CLIM0002",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Part-Time Climate Science Research",
+    "uoc": 6
+  },
+  "COMM8001": {
+    "campus": "Sydney",
+    "code": "COMM8001",
+    "description": "<p>This course will enable students to acquire fundamental knowledge, skills, and experience necessary to conduct a qualitative research study. It aims to develop understanding of the nature of qualitative research, major philosophical foundations underpinning qualitative research and more specifically the interpretivist research perspective. The course focuses on fundamental issues critical for qualitative inquiry, such as philosophical foundations, theory building, the design and conduct of qualitative studies (of different types), methods of qualitative data collection and analysis, researcher role and relationships with subjects researched, the quality of qualitative research, and presentation of findings and writing a research proposal and a thesis. As such, the course will introduce qualitative research methods most often applied in the Management, Accounting and Information Systems disciplines. it will also develop fundamental research skills and prepare students for undertaking an independent research study.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Information Systems and Technology Management",
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Introduction to Qualitative Research Design and Methods",
+    "uoc": 6
+  },
+  "COMM8002": {
+    "campus": "Sydney",
+    "code": "COMM8002",
+    "description": "<p>In COMM8002, students are introduced to prominent advanced quantitative research design principles and statistics methods that are used in the social sciences. The course covers two topics in depth, namely multilevel analysis and structural equation modelling. We will focus on gaining a conceptual understanding of each method, understanding how each method can be used to address specific research questions, and using each method to analyse and interpret data. Students will also have the opportunity to select and learn about an advanced quantitative method of their choice, with the aim of communicating to and teaching the other students about their chosen method.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [
+      {
+        "code": "COMM4002",
+        "title": "Quantitative Research Methods"
+      }
+    ],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 3"
+    ],
+    "title": "Advanced Quantitative Research Design and Methods",
+    "uoc": 6
+  },
+  "COMM8003": {
+    "campus": "Sydney",
+    "code": "COMM8003",
+    "description": "<p>This course builds on COMM8001 Introduction to Qualitative Research Design and Methods and provides an advanced understanding of qualitative research approaches, methods and techniques together with hands-on experience in conducting qualitative studies. The course focuses on advanced issues critical for qualitative inquiry and examines a range of philosophical foundations for qualitative inquiry, the design and conduct of qualitative studies (of different types), selection and justification of research methods and techniques of data collection and analysis. Particular attention is given to the ethics of research, the role of researcher and relationships within context researched, and the quality criteria for qualitative research.</p>\n<p>The course adopts a workshop style and active students’ engagement in workshops, debates and class activities. It will also include the review of exemplary papers adopting a variety of advanced qualitative research methods from organization studies, management, accounting, information systems, and other business disciplines.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [
+      {
+        "code": "COMM4003",
+        "title": "Qualitative Research Methods"
+      }
+    ],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Information Systems and Technology Management",
+    "terms": [
+      "Term 3"
+    ],
+    "title": "Advanced Qualitative Research Design and Methods",
+    "uoc": 6
+  },
+  "COMM8004": {
+    "campus": "Sydney",
+    "code": "COMM8004",
+    "description": "<p>The objective of this course is to prepare PhD students for their careers in academia (and is a follow-up to the UNSW Business Teaching Fellow program). Its aim is to develop PhD students’ teaching, academic, and career-building expertise to complement their research program. Fellows benefit from benefit from learning opportunities under expert guidance and immersion in the intellectual and cultural life of the school. As members of a small group, fellows will be part of a cohort of like-minded, future academics to share experiences and build a cross disciplinary network. Participants will develop and refine skills as they become effective teachers, community members, researchers, and scholarly leaders.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 1"
+    ],
+    "title": "PhD and Beyond: On Becoming a Scholar",
+    "uoc": 6
+  },
+  "COMM8005": {
+    "campus": "Sydney",
+    "code": "COMM8005",
+    "description": "<p>This course is part of the onboarding for students enrolled in the Business School’s doctoral programs to assist students in developing their research and communication skills. The course introduces students to the research culture of the School, the Business School and the University. The course will cover information and policies on research integrity and ethics, how to develop research questions and conduct literature reviews, how to select and design methodologies to conduct research, how to present research to both academic and professional audience, and how to provide respectively constructive feedback on other people’s research.</p>\n<p>The course is only for Business School students enrolled in PhD programs.</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Enrolment in programs 1521, 1561, 1535, 1540, 1545, 1605, 1525, OR 1550.<br/><br/>"
+    ],
+    "equivalents": [
+      {
+        "code": "COMM8103",
+        "title": "Business Research Project Seminar"
+      }
+    ],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 3"
+    ],
+    "title": "Business Research Project Seminar",
+    "uoc": 0
+  },
+  "CRTV9000": {
+    "campus": "Sydney",
+    "code": "CRTV9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of the Arts and Media",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis CRTV Full Time",
+    "uoc": 12
+  },
+  "CRTV9050": {
+    "campus": "Sydney",
+    "code": "CRTV9050",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of the Arts and Media",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis CRTV Part Time",
+    "uoc": 6
+  },
+  "CVEN0008": {
+    "campus": "Sydney",
+    "code": "CVEN0008",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Civil and Environmental Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Full Time Research Thesis Civil and Environmental",
+    "uoc": 12
+  },
+  "CVEN0088": {
+    "campus": "Sydney",
+    "code": "CVEN0088",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Civil and Environmental Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Civil and Environmental Engineering Part-Time",
+    "uoc": 6
+  },
+  "ECON5000": {
+    "campus": "Sydney",
+    "code": "ECON5000",
+    "description": "<p>Full-time research course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Economics",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Economics Full-Time",
+    "uoc": 12
+  },
+  "ECON5001": {
+    "campus": "Sydney",
+    "code": "ECON5001",
+    "description": "<p>Part-time research course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Economics",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Economics Part-Time",
+    "uoc": 6
+  },
+  "EDST5033": {
+    "campus": "Sydney",
+    "code": "EDST5033",
+    "description": "<p>This course follows on from EDST5031. It builds on your understanding of different research approaches, research methodologies and methods used in educational research. It will prepare you to conduct a small research project, and includes instruction on the selection and application of appropriate methods for sampling, data collection and analysis.  <br />Note: This course is only available to EdPrDoc students.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Term 1"
+    ],
+    "title": "Research Methods 2",
+    "uoc": 6
+  },
+  "EDST5036": {
+    "campus": "Sydney",
+    "code": "EDST5036",
+    "description": "<p>The purpose of this course is<em> </em>to support you in evaluating and developing your thesis writing abilities and skills. Weekly sessions cover the overall structuring of the thesis; writing the introduction; the literature review; the methodology chapter; discussion chapters; the conclusion and the abstract and understanding examiner expectations with an emphasis on managing the writing process over an extended time period and on managing large amounts of texts. </p>\n\n<p> Note: This course is only available to EdPrDoc students.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Summer Term"
+    ],
+    "title": "Education Project 1",
+    "uoc": 6
+  },
+  "EDST5037": {
+    "campus": "Sydney",
+    "code": "EDST5037",
+    "description": "<p>The purpose of this course is to provide you with an opportunity to learn how to prepare a research proposal in education. This course reviews the steps in the research process and considers the elements, structure and organisation, and writing style of research proposals in education. It will enable you to plan educational research and outline the steps using appropriate structure and organisation and writing style for a research proposal in education. It will assist you with preparing your proposal for confirmation as well as your oral presentation.</p>\n<p>During this Term, you will work primarily with your supervisors to prepare for your confirmation in Term 3. Confirmation consists of presentation of your research proposal to your confirmation panel together with an oral presentation on your project.</p>\n<p>Note: This course is only available to EdPrDoc students.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Education Project 2",
+    "uoc": 6
+  },
+  "EDST5038": {
+    "campus": "Sydney",
+    "code": "EDST5038",
+    "description": "<p>The purpose of this course is to introduce you to ethical matters and dilemmas that you encounter in conducting research. The course will cover aspects of project planning including feasibility concerns around access, participants and time, along with examining sources of tension in the ethical debate, ethical problems and issues confronting the researcher and the national framework and guidelines for research integrity. The course will enable you to plan a research project and identify ethical risks and apply ethical principles to a research project, and to your own professional conduct.</p>\n<p>Note: This course is only available to EdPrDoc students.</p>\n<p> </p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Term 3"
+    ],
+    "title": "Education Seminar 1",
+    "uoc": 6
+  },
+  "EDST5039": {
+    "campus": "Sydney",
+    "code": "EDST5039",
+    "description": "<p>This interactive student-led course is a continuation of EDST 5038. It provides you with academic support in analysing, presenting and writing up research results. It is intended that you will report the results, analysis and conclusions of a small research project, with opportunities for academic and peer feedback.</p>\n<p>Note: This course is only available to EdPrDoc students.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Education Seminar 2",
+    "uoc": 6
+  },
+  "EDST5911": {
+    "campus": "Sydney",
+    "code": "EDST5911",
+    "description": "<p>EDST5911 is the second of two courses related to the thesis component in the EdD. program. In this course, you will work with guidance from an academic supervisor and be actively engaged in the research process and thesis writing.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Thesis 2",
+    "uoc": 12
+  },
+  "EDST5912": {
+    "campus": "Sydney",
+    "code": "EDST5912",
+    "description": "<p>EDST5912 is the first of two courses related to the thesis component of EdD program. In this course, you will work with guidance from an academic supervisor and be actively engaged in development and oral presentation of a thesis proposal, including participation in the confirmation process.  </p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Thesis 1",
+    "uoc": 6
+  },
+  "EDST6901": {
+    "campus": "Sydney",
+    "code": "EDST6901",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Research Thesis Education Full-Time",
+    "uoc": 12
+  },
+  "EDST6911": {
+    "campus": "Sydney",
+    "code": "EDST6911",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Research Thesis Education Part-Time",
+    "uoc": 6
+  },
+  "EDST8301": {
+    "campus": "Sydney",
+    "code": "EDST8301",
+    "description": "<p>Completion of a thesis under supervision is required. The thesis should make an original and significant contribution to knowledge and should be approximately 30,000 words in length.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "EDST8302": {
+    "campus": "Sydney",
+    "code": "EDST8302",
+    "description": "<p>Completion of a thesis under supervision is required. The thesis should make an original and significant contribution to knowledge and should be approximately 30,000 words in length.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Education",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "ELEC9901": {
+    "campus": "Sydney",
+    "code": "ELEC9901",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Electrical Engineering & Telecommunications",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Part-Time Research Electrical Engineering",
+    "uoc": 6
+  },
+  "ELEC9902": {
+    "campus": "Sydney",
+    "code": "ELEC9902",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Electrical Engineering & Telecommunications",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Electrical Engineering Full-Time",
+    "uoc": 12
+  },
+  "ENVS0001": {
+    "campus": null,
+    "code": "ENVS0001",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis Environmental Management Full-Time",
+    "uoc": 12
+  },
+  "ENVS0002": {
+    "campus": null,
+    "code": "ENVS0002",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis Environmental Management P/T",
+    "uoc": 6
+  },
+  "FINS5000": {
+    "campus": "Sydney",
+    "code": "FINS5000",
+    "description": "<p>Students complete a thesis under the direction of a supervisor.  The thesis requires the reporting of research in an approved topic area in banking and finance  studies including literature review, analysis of a research problem along with presentation of research methods and data analysis.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Banking and Finance",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Banking and Finance Full-Time",
+    "uoc": 12
+  },
+  "FINS5001": {
+    "campus": "Sydney",
+    "code": "FINS5001",
+    "description": "<p>The Doctor of Philosophy (PhD) degree is offered in all faculties of the University of New South Wales and encourages initiative and originality in research. Candidates should make a significant contribution to knowledge in their field.</p><p>Students complete a thesis under the direction of a supervisor. The thesis requires the reporting of research in an approved topic area in banking and finance studies including literature review, analysis of a research problem along with presentation of research methods and data analysis.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Banking and Finance",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Finance and Banking Part-Time",
+    "uoc": 6
+  },
+  "GEOL0005": {
+    "campus": "Sydney",
+    "code": "GEOL0005",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biological, Earth and Environmental Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Thesis Research Applied Geology Full-Time",
+    "uoc": 12
+  },
+  "GEOL0006": {
+    "campus": "Sydney",
+    "code": "GEOL0006",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biological, Earth and Environmental Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Applied Geology Part-Time",
+    "uoc": 6
+  },
+  "GEOS9001": {
+    "campus": "Sydney",
+    "code": "GEOS9001",
+    "description": "<p>Independent, orginal research leading to production of a thesis</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biological, Earth and Environmental Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis in Geography",
+    "uoc": 12
+  },
+  "GEOS9005": {
+    "campus": "Sydney",
+    "code": "GEOS9005",
+    "description": "Part time independent, original research leading to the production of a thesis.",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biological, Earth and Environmental Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Part-Time Research Thesis in Geography",
+    "uoc": 6
+  },
+  "GMAT0001": {
+    "campus": "Sydney",
+    "code": "GMAT0001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Civil and Environmental Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Surveying Full-Time",
+    "uoc": 12
+  },
+  "GMAT0002": {
+    "campus": "Sydney",
+    "code": "GMAT0002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Civil and Environmental Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Surveying Part-Time",
+    "uoc": 6
+  },
+  "GSBE0703": {
+    "campus": "Sydney",
+    "code": "GSBE0703",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Built Environment",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Built Environment Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "GSBE0803": {
+    "campus": "Sydney",
+    "code": "GSBE0803",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Built Environment",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Built Environment Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "GSOE9400": {
+    "campus": "Sydney",
+    "code": "GSOE9400",
+    "description": "<p>This course is designed to  develop research and communication skills and strategies that would support your research program, and in particular, to prepare you for progression from year 1 to year 2 of your research program. There are weekly guest lectures and tutorials,  Moodle course activities and assignments. The course themes include: Formulating a research topic, managing a research project, locating and critically evaluating the literature, engineering research methods,  writing about research, speaking about research, academic integrity. The course concludes with a  mini-conference on  students proposed research topics. </p><p><br /></p><p><br /></p><p><br /></p><p>The course objectives are to develop: </p><p>- an increased awareness about the ways successful academic writers structure their writing, and the register of language appropriate for thesis and research writing</p><p>- systematic approach in managing research reading and research writing</p><p>- increased confidence and improved skills in speaking about research to a range of audiences</p><p>- awareness of strengths and weaknesses in communicating and appropriate strategies for improvement.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [
+      {
+        "code": "GSOE9011",
+        "title": "Engineering Postgraduate Coursework Research Skills"
+      }
+    ],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Engineering Postgraduate Research Essentials",
+    "uoc": 0
+  },
+  "GSOE9401": {
+    "campus": "Sydney",
+    "code": "GSOE9401",
+    "description": "<p>The focus of this project-based course is to give the students an appreciation for the multidisciplinary methods and activities involved in modern industrial practices around product innovation and entrepreneurship. The students will learn the structured methods involved in exploring and scoping innovations, product design and development process, design for environment, protecting innovation, managing projects and projects risks, project development economics, business plan basics, and lean startup method, when possible aided by industrial examples and case studies. Guest seminars by industrial and topical experts will provide further practical perspectives. To gain proficiency in the subject area and learn in a practical setting, students will apply theory to practice through a team-based product innovation project, which is proposed and selected by themselves. Essentially, students will be able to implement the understanding and skills acquired in the course in industrial and entrepreneurial setups.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [
+      {
+        "code": "GSOE9010",
+        "title": "Engineering Postgraduate Coursework Research Skills"
+      },
+      {
+        "code": "GSOE9011",
+        "title": "Engineering Postgraduate Coursework Research Skills"
+      }
+    ],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Chemical Engineering",
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Essentials of Industrial Research",
+    "uoc": 0
+  },
+  "GSOE9403": {
+    "campus": "Sydney",
+    "code": "GSOE9403",
+    "description": "<p>This course grows an entrepreneurial mindset, identifies market opportunities through customer discovery and market research, and explores strategies to effectively communicate the value of identified research-based opportunities. It also explores research translation pathways, business models, long-term business sustainability and exit strategies. Students will apply these skills to develop a translation pathway for their own research.</p>",
+    "enrolment_rules_raw": [
+      "Students enrolled in the Master of Philosophy in Engineering Entrepreneurship or a Doctor of Philosophy in the Faculty of Engineering.<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 2"
+    ],
+    "title": "Entrepreneurship for Engineering Researchers",
+    "uoc": 0
+  },
+  "GSOE9404": {
+    "campus": "Sydney",
+    "code": "GSOE9404",
+    "description": "<p>This course covers skills in persuasive communication, leadership, organisational behaviour, project management, marketing, and finance which are needed to successfully operate in a commercial environment. Students will apply these skills to develop a business plan for the commercial translation of their research.</p>",
+    "enrolment_rules_raw": [
+      "Students enrolled in the Master of Philosophy in Engineering Entrepreneurship or a Doctor of Philosophy in the Faculty of Engineering.<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 3"
+    ],
+    "title": "Business Management for Engineering Researchers",
+    "uoc": 0
+  },
+  "GSOE9410": {
+    "campus": "Sydney",
+    "code": "GSOE9410",
+    "description": "<p>Are you an emerging engineering educator? Do you see yourself as a next-generation academic or teacher? If so, this is the course for you! GSOE9410 provides excellent professional and personal development for you as that emerging educator. Through a series of highly immersive and authentic experiences you will continue to develop and enhance your teaching, extending from your early training in the Faculty. You will participate in highly active and interactive instructional sessions, then identify opportunities to put that instruction into practice, in the context of your own teaching and interests, with the support of the facilitators and other academic staff. You’ll also participate actively with and also support your peers, as they will support you, as well as the broader teaching and learning community, creating a strong ecosystem of practice. At the end of the course, you will see yourself as a better teacher – an emergent engineering educator.</p>\n<p>The course run across three consecutive terms within a single calendar year: T1, T2 and T3 (2 UoC per Term) for a total of 6 UoC at the end, which enables you to systematically develop and reflect upon your teaching practice over the course of a full year. </p>\n<p>You must be enrolled in GSOE9410 in all three terms, and satisfy all assessment requirements as set out by the course coordinator in each of those three terms to successfully complete the course. Partial credits will not be given.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Professional Development for Emerging Engineering Educators",
+    "uoc": 2
+  },
+  "HUML9000": {
+    "campus": "Sydney",
+    "code": "HUML9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Humanities and Languages",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis Humanities and Languages Full-Time",
+    "uoc": 12
+  },
+  "HUML9050": {
+    "campus": "Sydney",
+    "code": "HUML9050",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Humanities and Languages",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis Humanities and Languages Part Time",
+    "uoc": 6
+  },
+  "INFS5000": {
+    "campus": "Sydney",
+    "code": "INFS5000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Information Systems and Technology Management",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Full-Time Research Information Systems",
+    "uoc": 12
+  },
+  "INFS5001": {
+    "campus": "Sydney",
+    "code": "INFS5001",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Information Systems and Technology Management",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Part-Time Research Information Systems",
+    "uoc": 6
+  },
+  "INTD8301": {
+    "campus": null,
+    "code": "INTD8301",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "INTD8302": {
+    "campus": null,
+    "code": "INTD8302",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "LAWS0001": {
+    "campus": "Sydney",
+    "code": "LAWS0001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Law and Justice",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Law, Society and Criminology",
+    "terms": [],
+    "title": "Research Thesis Law Full-Time",
+    "uoc": 12
+  },
+  "LAWS0002": {
+    "campus": "Sydney",
+    "code": "LAWS0002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Law and Justice",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Law, Society and Criminology",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Law Part-Time",
+    "uoc": 6
+  },
+  "LAWS0007": {
+    "campus": "Sydney",
+    "code": "LAWS0007",
+    "description": "<p>This course encourages HDR candidates to reflect on the foundations of research in criminology and law. This engagement with foundational questions provides a basis for critical engagement with the diversity of ways in which scholars conduct research. This engagement, in turn, helps HDR candidates situate themselves in relation to existing research traditions and articulate and justify how their proposed approach to research differs from other possible approaches.</p>\n<p>This course also prepares HDR candidates for their research project by providing a basic understanding of the requirements of a research thesis, and relevant practical skills.</p>\n<p>The course is compulsory for all newly enrolled PhD, LLM by Research and MPhil candidates in the Faculty of Law and Justice. In the case of PhD candidates, satisfactory completion of the course will constitute a requirement for PhD confirmation.  PhD candidates will still be required to satisfy all of the other conditions set for confirmation of their candidature.  </p>",
+    "enrolment_rules_raw": [
+      "Enrolment in a Faculty of Law & Justice PhD, LLM by Research or MPhil program<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Law and Justice",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Law, Society and Criminology",
+    "terms": [
+      "Term 1",
+      "Term 3"
+    ],
+    "title": "Introduction to Higher Degree Research in Law and Criminology",
+    "uoc": 0
+  },
+  "LAWS0011": {
+    "campus": "Sydney",
+    "code": "LAWS0011",
+    "description": "<p>This course introduces students to the variety of research methods used in legal and criminological, with a focus on the methods that are most relevant to higher degree research (HDR) candidates.</p>\n<p>In relation to each method, topics covered include:</p>\n<ul><li>The relationship of choice method to wider questions of research design;</li><li>selecting and collecting data;</li><li>analysing data;</li><li>ethical considerations.</li></ul>\n<p>HDR students will delve into qualitative, quantitative, and doctrinal methods, facilitating informed decision-making in choosing methods appropriate to their research projects. An emphasis is placed on understanding the relationship between research methods and broader questions of research design and project theorisation. Practical challenges associated with data gathering and interpretation are explored, alongside ethical considerations inherent to various research methodologies. Additionally, candidates will engage with norms of quality and rigor, critical for producing impactful research. By fostering critical evaluation skills, this course empowers HDR candidates to navigate diverse research landscapes effectively.</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Completion of LAWS0007, and enrolled in a Higher Degree Research degree in the Faculty of Law & Justice.<br/><br/>"
+    ],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Law and Justice",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Law, Society and Criminology",
+    "terms": [
+      "Term 1",
+      "Term 3"
+    ],
+    "title": "Methods for Higher Degree Research in Law and Criminology",
+    "uoc": 0
+  },
+  "MANF9000": {
+    "campus": "Sydney",
+    "code": "MANF9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Manufacturing Engineering and Management (Full-Time)",
+    "uoc": 12
+  },
+  "MANF9001": {
+    "campus": "Sydney",
+    "code": "MANF9001",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Manufacturing Engineering and Management (Part-Time)",
+    "uoc": 6
+  },
+  "MARK5000": {
+    "campus": "Sydney",
+    "code": "MARK5000",
+    "description": "<p>The PhD in Marketing is the School of Marketing&#39;s main research degree  program. After completing qualifying courses and/or concurrent  prescriptions, research students undertake original research and prepare  a research thesis. This must meet the highest of academic standards and  be of a quality that would be publishable in leading international  refereed journals.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Marketing",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Marketing Full-Time",
+    "uoc": 12
+  },
+  "MARK5001": {
+    "campus": "Sydney",
+    "code": "MARK5001",
+    "description": "<p>The PhD in Marketing is the School of Marketing&#39;s main research degree  program. After completing qualifying courses and/or concurrent  prescriptions, research students undertake original research and prepare  a research thesis. This must meet the highest of academic standards and  be of a quality that would be publishable in leading international  refereed journals.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Marketing",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Marketing Part-Time",
+    "uoc": 6
+  },
+  "MARK8992": {
+    "campus": "Sydney",
+    "code": "MARK8992",
+    "description": "<p>This seminar focuses on psychological processes in consumer judgement, decision making, and behaviour. The perspective is that of the marketing researcher who seeks to predict, control, and explain diverse consumer behavioural phenomena. This seminar provides an overview of research in consumer behaviour and judgement and decision making.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Marketing",
+    "terms": [
+      "Term 1"
+    ],
+    "title": "Seminar in Consumer Behaviour",
+    "uoc": 6
+  },
+  "MARK8997": {
+    "campus": "Sydney",
+    "code": "MARK8997",
+    "description": "<p>This course will extend the knowledge of elementary statistics into the area of multivariate statistics, with special attention to the underlying theory and assumptions of the methods used. Discussion of multiple regression and multiple correlation, multivariate analysis of variance, discriminant and logit analysis, conjoint analysis, factor and correspondence analysis and structural equation modelling. Hands-on practical sessions will enable participants to implement these tools, techniques and methods in the context of specific marketing applications.</p>",
+    "enrolment_rules_raw": [
+      "Prerequisite: Admission to MPhil or PhD programs in Marketing.<br/><br/>"
+    ],
+    "equivalents": [
+      {
+        "code": "MARK7212",
+        "title": "Quantitative Methods and Models in Marketing"
+      },
+      {
+        "code": "MARK4212",
+        "title": "Quantitative Methods and Models in Marketing"
+      }
+    ],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Marketing",
+    "terms": [
+      "Term 3"
+    ],
+    "title": "Quantitative Methods and Models in Marketing",
+    "uoc": 6
+  },
+  "MATH5003": {
+    "campus": "Sydney",
+    "code": "MATH5003",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mathematics & Statistics",
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Mathematics Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "MATH5004": {
+    "campus": "Sydney",
+    "code": "MATH5004",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mathematics & Statistics",
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Mathematics Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "MATS0100": {
+    "campus": "Sydney",
+    "code": "MATS0100",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Materials Science & Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Materials Science and Engineering Full-Time",
+    "uoc": 12
+  },
+  "MATS0200": {
+    "campus": "Sydney",
+    "code": "MATS0200",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Materials Science & Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Materials Science and Engineering Part-Time",
+    "uoc": 6
+  },
+  "MDCN9001": {
+    "campus": "Sydney",
+    "code": "MDCN9001",
+    "description": "<p>Full-time research thesis component.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Full-Time (Prince of Wales)",
+    "uoc": 12
+  },
+  "MDCN9002": {
+    "campus": "Sydney",
+    "code": "MDCN9002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Part-Time (Prince of Wales)",
+    "uoc": 6
+  },
+  "MDCN9003": {
+    "campus": "Sydney",
+    "code": "MDCN9003",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Full-Time (Swsahs)",
+    "uoc": 12
+  },
+  "MDCN9004": {
+    "campus": "Sydney",
+    "code": "MDCN9004",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Part-Time (SWSAHS)",
+    "uoc": 6
+  },
+  "MDCN9005": {
+    "campus": "Sydney",
+    "code": "MDCN9005",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Full-Time (St George)",
+    "uoc": 12
+  },
+  "MDCN9006": {
+    "campus": "Sydney",
+    "code": "MDCN9006",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Part-Time (St George)",
+    "uoc": 6
+  },
+  "MDCN9007": {
+    "campus": "Sydney",
+    "code": "MDCN9007",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Full-Time (St Vincents)",
+    "uoc": 12
+  },
+  "MDCN9008": {
+    "campus": "Sydney",
+    "code": "MDCN9008",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Clinical Medicine",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Postgraduate Program Medicine Part-Time (St Vincents)",
+    "uoc": 6
+  },
+  "MDCN9009": {
+    "campus": "Sydney",
+    "code": "MDCN9009",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis (Rural) Full-time",
+    "uoc": 12
+  },
+  "MDCN9010": {
+    "campus": null,
+    "code": "MDCN9010",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis (Rural) Part-time",
+    "uoc": 6
+  },
+  "MDCN9011": {
+    "campus": null,
+    "code": "MDCN9011",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis (Kirby Institute) Full-Time",
+    "uoc": 12
+  },
+  "MDCN9012": {
+    "campus": null,
+    "code": "MDCN9012",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis (Kirby Institute) Part Time",
+    "uoc": 6
+  },
+  "MDCN9015": {
+    "campus": null,
+    "code": "MDCN9015",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis (The George Inst) Full-Time",
+    "uoc": 12
+  },
+  "MDCN9016": {
+    "campus": null,
+    "code": "MDCN9016",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Research Thesis (The George Inst) Part-Time",
+    "uoc": 6
+  },
+  "MDCN9050": {
+    "campus": "Sydney",
+    "code": "MDCN9050",
+    "description": "<p>HDR Essentials is designed to support the development of research and professional skills for commencing (1st year) Higher Degree Research (HDR) candidates to ensure that all HDR candidates in the Faculty are adequately equipped to successfully pass confirmation, and to positively affect their candidature experience and candidature outcome.</p>\n<p>This course is compulsory for all newly enrolled HDR candidates in the Faculty of Medicine and Health. Successful completion of HDR Essentials constitutes a requirement for PhD confirmation, with PhD candidates still required to satisfy all other conditions set for the confirmation of their candidature.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Higher Degree Research Essentials",
+    "uoc": 0
+  },
+  "MECH9000": {
+    "campus": "Sydney",
+    "code": "MECH9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Mechanical Engineering Full-Time",
+    "uoc": 12
+  },
+  "MECH9001": {
+    "campus": "Sydney",
+    "code": "MECH9001",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Mechanical Engineering  (Part-Time)",
+    "uoc": 6
+  },
+  "MGMT5000": {
+    "campus": "Sydney",
+    "code": "MGMT5000",
+    "description": "<p>Full-time PhD thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Management and Governance",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Full Time PhD Thesis Organisation and Management",
+    "uoc": 12
+  },
+  "MGMT5001": {
+    "campus": "Sydney",
+    "code": "MGMT5001",
+    "description": "<p>Part-time PhD Thesis course.</p>\n\n<p> </p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Management and Governance",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Part-Time PhD Thesis Organisation and Management",
+    "uoc": 6
+  },
+  "MGMT5982": {
+    "campus": "Sydney",
+    "code": "MGMT5982",
+    "description": "<p>This class centres on the critical analysis, discussion and reflection on key texts regarding theory and research in Human Resource Studies and Organisational Behavior.</p>\n<p>The aim of this course is to offer insights and opportunities to discuss major theories and models and survey a range of established and emerging trends in theory and research within the fields of in HRM and OB. Students will review and critically discuss major theories, developments and debates in the literature of micro HRM (that focuses on individual level outcomes), macro HRM (that focuses on organisational outcomes), how the behaviours, thoughts, and emotions of individuals influence and are influenced by their organisational context.</p>\n<p> </p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Management and Governance",
+    "terms": [
+      "Term 1"
+    ],
+    "title": "Management Theory - Micro Perspectives",
+    "uoc": 6
+  },
+  "MGMT5983": {
+    "campus": "Sydney",
+    "code": "MGMT5983",
+    "description": "<p>This class centres on critical analysis, discussion and reflection on key studies regarding theory and research in Organization Theory, Innovation, Entrepreneurship, Strategy. As an academic field of study, organization theory and strategic management seeks to develop comprehensive understanding about the antecedents and consequences of a wide range of organizational activities relating to firm behavior, performance, and competitive advantage. Students will review and critically discuss major theories, developments and debates in these fields, and how theory relates to empirical research.</p>\n<p>Specifically, the course aims to introduce the key issues in theory development, develop understanding of the role of theory in informing and guiding empirical analysis, expose students to critical debates in theory and theory development, and develop and apply fundamental theoretical and related research skills</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Management and Governance",
+    "terms": [
+      "Term 1"
+    ],
+    "title": "Management Theory - Macro Perspectives",
+    "uoc": 6
+  },
+  "MICR8013": {
+    "campus": "Sydney",
+    "code": "MICR8013",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biotechnology and Biomolecular Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Microbiology Full-Time",
+    "uoc": 12
+  },
+  "MICR8023": {
+    "campus": "Sydney",
+    "code": "MICR8023",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Biotechnology and Biomolecular Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Microbiology Part-Time",
+    "uoc": 6
+  },
+  "MINE0008": {
+    "campus": "Sydney",
+    "code": "MINE0008",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Minerals & Energy Resources Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "MINE0009": {
+    "campus": "Sydney",
+    "code": "MINE0009",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Minerals & Energy Resources Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "MTRN9000": {
+    "campus": "Sydney",
+    "code": "MTRN9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Mechatronic Engineering  (Full-Time)",
+    "uoc": 12
+  },
+  "MTRN9001": {
+    "campus": "Sydney",
+    "code": "MTRN9001",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Mechanical and Manufacturing Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Mechatronic Engineering  (Part-Time)",
+    "uoc": 6
+  },
+  "NCHR9000": {
+    "campus": "Sydney",
+    "code": "NCHR9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "Centre for Social Research in Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis NCHR Full Time",
+    "uoc": 12
+  },
+  "NCHR9050": {
+    "campus": "Sydney",
+    "code": "NCHR9050",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "Centre for Social Research in Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis NCHR Part Time",
+    "uoc": 6
+  },
+  "OBST9001": {
+    "campus": null,
+    "code": "OBST9001",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Obstetrics and Gynaecology Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "OBST9002": {
+    "campus": null,
+    "code": "OBST9002",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Obstetrics and Gynaecology Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "OBST9003": {
+    "campus": null,
+    "code": "OBST9003",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "M.D. Obstetrics and Gynaecology Full-Time",
+    "uoc": 12
+  },
+  "OBST9004": {
+    "campus": null,
+    "code": "OBST9004",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "M.D. Obstetrics and Gynaecology Part-Time",
+    "uoc": 6
+  },
+  "OPTM0001": {
+    "campus": "Sydney",
+    "code": "OPTM0001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Optometry and Vision Science",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Optometry Full-Time",
+    "uoc": 12
+  },
+  "OPTM0002": {
+    "campus": "Sydney",
+    "code": "OPTM0002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Optometry and Vision Science",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Optometry Part-Time",
+    "uoc": 6
+  },
+  "PAED9401": {
+    "campus": null,
+    "code": "PAED9401",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "PhD Research Thesis Paediatrics Full-Time",
+    "uoc": 12
+  },
+  "PAED9402": {
+    "campus": null,
+    "code": "PAED9402",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "PhD Research Thesis Paediatrics Part-Time",
+    "uoc": 6
+  },
+  "PAED9601": {
+    "campus": null,
+    "code": "PAED9601",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Masters by Research Full-Time",
+    "uoc": 12
+  },
+  "PHCM9001": {
+    "campus": "Sydney",
+    "code": "PHCM9001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "PHCM9002": {
+    "campus": "Sydney",
+    "code": "PHCM9002",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "PHCM9005": {
+    "campus": "Sydney",
+    "code": "PHCM9005",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Dr Public Health Full-Time",
+    "uoc": 12
+  },
+  "PHCM9006": {
+    "campus": "Sydney",
+    "code": "PHCM9006",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Dr Public Health Part-Time",
+    "uoc": 6
+  },
+  "PHCM9007": {
+    "campus": "Sydney",
+    "code": "PHCM9007",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Master of Philosophy Full Time",
+    "uoc": 12
+  },
+  "PHCM9008": {
+    "campus": "Sydney",
+    "code": "PHCM9008",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Master of Philosophy Part Time",
+    "uoc": 6
+  },
+  "PHCM9200": {
+    "campus": "Sydney",
+    "code": "PHCM9200",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Masters Research Thesis Full-Time",
+    "uoc": 12
+  },
+  "PHCM9201": {
+    "campus": "Sydney",
+    "code": "PHCM9201",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Masters Research Thesis Part-Time",
+    "uoc": 6
+  },
+  "PHCM9820": {
+    "campus": "Sydney",
+    "code": "PHCM9820",
+    "description": "<p>The Future Health Leaders compulsory coursework will comprise a 1 week intensive residential workshop covering a range of advanced concepts in public health, health management and health leadership. Students will also formulate an applied research question and discuss different approaches to this question, as well as participate in peer teaching to gain different perspectives in health care.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Future Health Leaders Workshop A",
+    "uoc": 6
+  },
+  "PHCM9821": {
+    "campus": "Sydney",
+    "code": "PHCM9821",
+    "description": "<p>The Future Health Leaders compulsory coursework will comprise a 1 week intensive residential workshop covering a range of advanced concepts in public health, health management and health leadership. Students will also formulate an applied research question and discuss different approaches to this question, as well as participate in peer teaching to gain different perspectives in health care.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Medicine and Health",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Population Health",
+    "terms": [
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Future Health Leaders Workshop B",
+    "uoc": 6
+  },
+  "PHYS9103": {
+    "campus": "Sydney",
+    "code": "PHYS9103",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Physics",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Physics Full-Time",
+    "uoc": 12
+  },
+  "PHYS9113": {
+    "campus": "Sydney",
+    "code": "PHYS9113",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Physics",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Physics Part-Time",
+    "uoc": 6
+  },
+  "POLS8301": {
+    "campus": null,
+    "code": "POLS8301",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "POLS8302": {
+    "campus": null,
+    "code": "POLS8302",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "PSYC8000": {
+    "campus": "Sydney",
+    "code": "PSYC8000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Psychology",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Psychology Full-Time",
+    "uoc": 12
+  },
+  "PSYC8001": {
+    "campus": "Sydney",
+    "code": "PSYC8001",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Psychology",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Research Thesis Psychology Part-Time",
+    "uoc": 6
+  },
+  "PTRL6100": {
+    "campus": "Sydney",
+    "code": "PTRL6100",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Minerals & Energy Resources Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Full-Time Research Thesis Petroleum Engineering Studies",
+    "uoc": 12
+  },
+  "PTRL6101": {
+    "campus": "Sydney",
+    "code": "PTRL6101",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Engineering",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Minerals & Energy Resources Engineering",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Part-Time Research Thesis Petroleum Engineering Studies",
+    "uoc": 6
+  },
+  "REGZ9901": {
+    "campus": null,
+    "code": "REGZ9901",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "HDR Internship",
+    "uoc": 0
+  },
+  "SCIF7200": {
+    "campus": "Sydney",
+    "code": "SCIF7200",
+    "description": "<p>This course provides all commencing higher degree research (HDR) candidates in the Faculty of Science a comprehensive and integrated induction as they begin their research training degree.</p>\n<p>The course is designed to introduce HDR candidates to the core principles of scientific research, to develop their science communication skills and provide them with essential skills for a smooth progression to the second year of their research program.</p>\n<p>Students will engage in several intensive days across the Term. Through a series of lectures, workshops, and online training modules, students will have the opportunity to engage with peers and relevant research support teams within the Science Faculty and UNSW Sydney. Successful completion of this course is also dependent on completion of any/all local (School-based) inductions relevant to their project or discipline.</p>\n<p>Note: This course is specifically developed for candidates undertaking Higher Degree Research (HDR) in the Science Faculty at UNSW.</p>",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [
+      {
+        "code": "SCIF7100",
+        "title": "Science Higher Degree Research Foundation"
+      }
+    ],
+    "faculty": "Faculty of Science",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": null,
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Science HDR First Year Onboarding",
+    "uoc": 0
+  },
+  "SLSP8301": {
+    "campus": "Sydney",
+    "code": "SLSP8301",
+    "description": "<p>Completion of a thesis under supervision is required. The thesis should make an original and significant contribution to knowledge and should be approximately 30,000 words in length.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Masters Program by Coursework and Research Full-Time",
+    "uoc": 12
+  },
+  "SLSP8302": {
+    "campus": "Sydney",
+    "code": "SLSP8302",
+    "description": "<p>Completion of a thesis under supervision is required. The thesis should make an original and significant contribution to knowledge and should be approximately 30,000 words in length.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Masters Program by Coursework and Research  Part-Time",
+    "uoc": 6
+  },
+  "SOCA8302": {
+    "campus": null,
+    "code": "SOCA8302",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Masters Program by Coursework and Research Part-Time",
+    "uoc": 6
+  },
+  "SOCW9001": {
+    "campus": "Sydney",
+    "code": "SOCW9001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "DSW Thesis Full Time",
+    "uoc": 12
+  },
+  "SOCW9501": {
+    "campus": "Sydney",
+    "code": "SOCW9501",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "DSW Thesis Part Time",
+    "uoc": 6
+  },
+  "SOLA9901": {
+    "campus": null,
+    "code": "SOLA9901",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Part-Time Research Thesis Photovoltaic Engineering",
+    "uoc": 6
+  },
+  "SOLA9902": {
+    "campus": null,
+    "code": "SOLA9902",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Full-Time Research Thesis Photovoltaic Engineering",
+    "uoc": 12
+  },
+  "SOSS9000": {
+    "campus": "Sydney",
+    "code": "SOSS9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis Social Sciences Full Time",
+    "uoc": 12
+  },
+  "SOSS9050": {
+    "campus": "Sydney",
+    "code": "SOSS9050",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis Social Sciences Part Time",
+    "uoc": 6
+  },
+  "SPRC9000": {
+    "campus": "Sydney",
+    "code": "SPRC9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis Social Policy Research Centre Full-Time",
+    "uoc": 12
+  },
+  "SPRC9050": {
+    "campus": "Sydney",
+    "code": "SPRC9050",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis SPRC Part-Time",
+    "uoc": 6
+  },
+  "SRAP9001": {
+    "campus": "Sydney",
+    "code": "SRAP9001",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "DPPG Thesis Full Time",
+    "uoc": 12
+  },
+  "SRAP9501": {
+    "campus": "Sydney",
+    "code": "SRAP9501",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Social Sciences",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "DPPG Thesis Part Time",
+    "uoc": 6
+  },
+  "STAM9000": {
+    "campus": "Sydney",
+    "code": "STAM9000",
+    "description": "<p>Full-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of the Arts and Media",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis Arts and Media Full Time",
+    "uoc": 12
+  },
+  "STAM9050": {
+    "campus": "Sydney",
+    "code": "STAM9050",
+    "description": "<p>Part-time research thesis course.</p>\n",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "Faculty of Arts, Design and Architecture",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of the Arts and Media",
+    "terms": [
+      "Summer Term",
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "PhD Thesis Arts and Media Part Time",
+    "uoc": 6
+  },
+  "SURG9005": {
+    "campus": null,
+    "code": "SURG9005",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery (St George)",
+    "uoc": 12
+  },
+  "SURG9006": {
+    "campus": null,
+    "code": "SURG9006",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery Part-Time (St George)",
+    "uoc": 6
+  },
+  "SURG9007": {
+    "campus": null,
+    "code": "SURG9007",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery Full-Time (St Vincents)",
+    "uoc": 12
+  },
+  "SURG9008": {
+    "campus": null,
+    "code": "SURG9008",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Postgraduate Program Surgery Part-Time (St Vincents)",
+    "uoc": 6
+  },
+  "TABL5810": {
+    "campus": "Sydney",
+    "code": "TABL5810",
+    "description": "This course will instruct and guide students in the appropriate preparation and presentation of their proposed thesis and will assist them in identifying their research questions and the methodologies to be used.The course will be delivered by means of a series of meetings between an academic supervisor and the student. Where possible, one or more workshops will be run for group of students at an appropriate venue or by means of electronic conferencing media. Examples and guides will be provided as appropriate for various aspects fo the course.At the end of the course students will have developed:- a statement fo their dissertation topic;- a statement of the contribution their topic will make to the subject area;- a concise statement of the research objectives;- a throrough literature review;- a short explanation of the methodology to be used;- a research plan setting out the timetable for research and writing; and- a draft outline of chapters to be written and of structure of the thesis.",
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": "UNSW Business School",
+    "level": "research",
+    "prerequisites_raw": "",
+    "school": "School of Accounting, Auditing and Taxation",
+    "terms": [
+      "Term 1",
+      "Term 2",
+      "Term 3"
+    ],
+    "title": "Dissertation Proposal",
+    "uoc": 6
+  },
+  "TABL6000": {
+    "campus": null,
+    "code": "TABL6000",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "PhD Thesis Taxation and Business Law F/T",
+    "uoc": 12
+  },
+  "TABL6001": {
+    "campus": null,
+    "code": "TABL6001",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "PhD Thesis Taxation and Business Law Part-Time",
+    "uoc": 6
+  },
+  "TABL6010": {
+    "campus": null,
+    "code": "TABL6010",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Master Thesis Taxation and Business Law F/T",
+    "uoc": 12
+  },
+  "TABL6011": {
+    "campus": null,
+    "code": "TABL6011",
+    "description": null,
+    "enrolment_rules_raw": [],
+    "equivalents": [],
+    "exclusions": [],
+    "faculty": null,
+    "level": "research",
+    "prerequisites_raw": null,
+    "school": null,
+    "terms": [],
+    "title": "Master Thesis Taxation & Business Law P/T",
+    "uoc": 6
+  }
+}

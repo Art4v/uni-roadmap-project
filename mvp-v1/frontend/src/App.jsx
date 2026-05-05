@@ -9,7 +9,7 @@ import {
   termId,
   termOrdinal,
 } from './data.js';
-import { IconLogo, IconSend } from './icons.jsx';
+import { IconLogo, IconSend, IconPlus, IconMinus } from './icons.jsx';
 import {
   CourseCard,
   TermCell,
@@ -18,6 +18,7 @@ import {
   UserMessage,
   TypingBubble,
   Legend,
+  AddCourseModal,
 } from './components.jsx';
 
 let __idSeq = 1;
@@ -29,9 +30,9 @@ const CHAT_DEFAULT_WIDTH = 460;
 const clampChatWidth = (w) => Math.min(CHAT_MAX_WIDTH, Math.max(CHAT_MIN_WIDTH, w));
 
 // Build initial board state from Year 1 history only.
-function buildInitial() {
+function buildInitial(yearsArr) {
   const board = {};
-  YEARS.forEach((y) =>
+  yearsArr.forEach((y) =>
     TERMS.forEach((t) => {
       board[termId(y.id, t)] = [];
     })
@@ -48,24 +49,26 @@ function buildInitial() {
 }
 
 // Recompute statuses across the board. Preserves completed/in-progress and recommended flag.
-function recomputeStatuses(board) {
+function recomputeStatuses(board, yearsArr) {
   const next = {};
   for (const k of Object.keys(board)) next[k] = board[k].slice();
 
   const ord = {};
-  for (const y of YEARS)
+  for (const y of yearsArr)
     for (const t of TERMS) {
-      for (const inst of next[termId(y.id, t)]) {
+      const list = next[termId(y.id, t)] || [];
+      for (const inst of list) {
         const o = termOrdinal(y.id, t);
         ord[inst.code] = ord[inst.code] === undefined ? o : Math.min(ord[inst.code], o);
       }
     }
 
-  for (const y of YEARS)
+  for (const y of yearsArr)
     for (const t of TERMS) {
       const key = termId(y.id, t);
       const myOrd = termOrdinal(y.id, t);
-      next[key] = next[key].map((inst) => {
+      const list = next[key] || [];
+      next[key] = list.map((inst) => {
         if (inst.status === 'completed' || inst.status === 'in-progress') return inst;
         const reqs = PREREQS[inst.code] || [];
         const missing = reqs.filter((r) => {
@@ -83,33 +86,36 @@ function recomputeStatuses(board) {
   return next;
 }
 
-// Apply a pathway: keep Y1, replace Y2-Y4 with the plan as ai-recommended.
-function applyPathway(board, pathwayKey) {
+// Apply a pathway: keep any year not covered by the plan, replace covered years
+// (Y2-Y4) with the plan as ai-recommended.
+function applyPathway(board, pathwayKey, yearsArr) {
   const plan = PATHWAYS[pathwayKey].plan;
   const next = {};
-  for (const y of YEARS)
+  for (const y of yearsArr)
     for (const t of TERMS) {
       const key = termId(y.id, t);
-      if (y.id === 1) {
-        next[key] = board[key].slice();
-      } else {
-        const codes = plan[key] || [];
-        next[key] = codes.map((code) => ({
+      if (plan[key]) {
+        next[key] = plan[key].map((code) => ({
           id: newId(),
           code,
           status: 'ai-recommended',
           recommended: true,
         }));
+      } else {
+        next[key] = (board[key] || []).slice();
       }
     }
-  return recomputeStatuses(next);
+  return recomputeStatuses(next, yearsArr);
 }
 
 export default function App() {
   // ----- Board state -----
-  const [board, setBoard] = useState(() => recomputeStatuses(buildInitial()));
+  const [years, setYears] = useState(YEARS);
+  const [board, setBoard] = useState(() => recomputeStatuses(buildInitial(YEARS), YEARS));
   const [collapsed, setCollapsed] = useState({});
   const [pathway, setPathway] = useState(null);
+  const [customCourses, setCustomCourses] = useState({});
+  const [addModal, setAddModal] = useState(null);
 
   // ----- Chat state -----
   const [messages, setMessages] = useState([]);
@@ -169,7 +175,7 @@ export default function App() {
         'ai',
         `Got it — tailoring your roadmap for ${def.label}. I've recommended courses across your remaining terms and flagged anything blocked by prereqs. Drag cards between terms if you want to adjust.`
       );
-      setBoard((b) => applyPathway(b, key));
+      setBoard((b) => applyPathway(b, key, years));
       setPathway(key);
       setTimeout(() => {
         const all = [
@@ -290,6 +296,7 @@ export default function App() {
         if (!d) return null;
         if (d.overKey && d.overKey !== d.fromKey) {
           setBoard((b) => {
+            if (!b[d.fromKey] || !b[d.overKey]) return b;
             const next = {};
             for (const k of Object.keys(b)) next[k] = b[k].slice();
             const idx = next[d.fromKey].findIndex((i) => i.id === d.instId);
@@ -297,7 +304,7 @@ export default function App() {
               const [moved] = next[d.fromKey].splice(idx, 1);
               next[d.overKey].push(moved);
             }
-            return recomputeStatuses(next);
+            return recomputeStatuses(next, years);
           });
         }
         return null;
@@ -309,10 +316,84 @@ export default function App() {
       window.removeEventListener('mousemove', move);
       window.removeEventListener('mouseup', up);
     };
-  }, [drag]);
+  }, [drag, years]);
+
+  // ----- Year management -----
+  const addYear = useCallback(() => {
+    setYears((ys) => {
+      const lastY = ys[ys.length - 1];
+      const nextId = (ys.length ? Math.max(...ys.map((y) => y.id)) : 0) + 1;
+      const nextYearVal = (lastY ? lastY.year : new Date().getFullYear() - 1) + 1;
+      const newYear = { id: nextId, label: `Year ${nextId}`, year: nextYearVal };
+      const nextYears = [...ys, newYear];
+      setBoard((b) => {
+        const nextBoard = { ...b };
+        TERMS.forEach((t) => {
+          nextBoard[termId(nextId, t)] = [];
+        });
+        return recomputeStatuses(nextBoard, nextYears);
+      });
+      return nextYears;
+    });
+  }, []);
+
+  const removeYear = useCallback((yid) => {
+    setDrag(null);
+    setYears((ys) => {
+      if (ys.length <= 1) return ys;
+      const nextYears = ys.filter((y) => y.id !== yid);
+      setBoard((b) => {
+        const nextBoard = { ...b };
+        TERMS.forEach((t) => {
+          delete nextBoard[termId(yid, t)];
+        });
+        return recomputeStatuses(nextBoard, nextYears);
+      });
+      return nextYears;
+    });
+  }, []);
+
+  // ----- Card management -----
+  const removeCard = useCallback(
+    (instId, termKey) => {
+      setBoard((b) => {
+        if (!b[termKey]) return b;
+        const next = { ...b, [termKey]: b[termKey].filter((i) => i.id !== instId) };
+        return recomputeStatuses(next, years);
+      });
+    },
+    [years]
+  );
+
+  const handleAddCourse = useCallback(
+    ({ termKey, name, code, uoc, status }) => {
+      const trimmed = (code || '').trim();
+      const finalCode = (
+        trimmed || `CUST${Date.now().toString(36)}${__idSeq}`
+      ).toUpperCase();
+      setCustomCourses((c) => ({
+        ...c,
+        [finalCode]: { code: finalCode, title: name, uoc },
+      }));
+      setBoard((b) => {
+        if (!b[termKey]) return b;
+        const next = {
+          ...b,
+          [termKey]: [
+            ...b[termKey],
+            { id: newId(), code: finalCode, status, recommended: false },
+          ],
+        };
+        return recomputeStatuses(next, years);
+      });
+      setAddModal(null);
+    },
+    [years]
+  );
 
   // ----- Derived -----
-  const getCourse = (code) => COURSE_CATALOG[code] || { code, title: code, uoc: 6 };
+  const getCourse = (code) =>
+    customCourses[code] || COURSE_CATALOG[code] || { code, title: code, uoc: 6 };
   const getStatus = (inst) => inst.status;
   const getMissing = (inst) => inst._missing || [];
 
@@ -454,10 +535,13 @@ export default function App() {
             </div>
 
             <div className="space-y-3">
-              {YEARS.map((y) => {
+              {years.map((y) => {
                 const insts = TERMS.flatMap((t) => board[termId(y.id, t)] || []);
                 const courseCount = insts.length;
-                const totalUoc = courseCount * 6;
+                const totalUoc = insts.reduce(
+                  (s, i) => s + (getCourse(i.code).uoc || 0),
+                  0
+                );
                 const isCollapsed = !!collapsed[y.id];
                 return (
                   <YearRow
@@ -489,6 +573,8 @@ export default function App() {
                             getMissing={getMissing}
                             dragInstanceId={drag && drag.instId}
                             onDragStart={onDragStart}
+                            onRemove={removeCard}
+                            onAddClick={(tk) => setAddModal({ termKey: tk })}
                           />
                         );
                       })}
@@ -498,6 +584,24 @@ export default function App() {
               })}
             </div>
 
+            <div className="mt-3 flex justify-end gap-2">
+              <button
+                onClick={() => removeYear(years[years.length - 1].id)}
+                disabled={years.length <= 1}
+                aria-label="Remove last year"
+                className="w-9 h-9 grid place-items-center rounded-md bg-white border border-zinc-200 hover:border-zinc-400 text-zinc-500 hover:text-zinc-800 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+              >
+                <IconMinus size={14} />
+              </button>
+              <button
+                onClick={addYear}
+                aria-label="Add year"
+                className="w-9 h-9 grid place-items-center rounded-md bg-white border border-zinc-200 hover:border-zinc-400 text-zinc-500 hover:text-zinc-800 transition-colors"
+              >
+                <IconPlus size={14} />
+              </button>
+            </div>
+
             <div className="mt-6 mb-4 text-[11px] text-zinc-400 font-mono">
               Tip: drag a recommended card into a different term to see prereqs
               revalidate live.
@@ -505,6 +609,16 @@ export default function App() {
           </div>
         </main>
       </div>
+
+      {/* Add course modal */}
+      {addModal && (
+        <AddCourseModal
+          onClose={() => setAddModal(null)}
+          onSubmit={(payload) =>
+            handleAddCourse({ termKey: addModal.termKey, ...payload })
+          }
+        />
+      )}
 
       {/* Drag overlay */}
       {drag &&
